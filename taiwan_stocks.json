@@ -1,0 +1,9317 @@
+[
+  {
+    "StockCode": "1101",
+    "StockName": "台泥",
+    "YahooFinanceSymbol": "1101.TW"
+  },
+  {
+    "StockCode": "1102",
+    "StockName": "亞泥",
+    "YahooFinanceSymbol": "1102.TW"
+  },
+  {
+    "StockCode": "1103",
+    "StockName": "嘉泥",
+    "YahooFinanceSymbol": "1103.TW"
+  },
+  {
+    "StockCode": "1104",
+    "StockName": "環泥",
+    "YahooFinanceSymbol": "1104.TW"
+  },
+  {
+    "StockCode": "1108",
+    "StockName": "幸福",
+    "YahooFinanceSymbol": "1108.TW"
+  },
+  {
+    "StockCode": "1109",
+    "StockName": "信大",
+    "YahooFinanceSymbol": "1109.TW"
+  },
+  {
+    "StockCode": "1110",
+    "StockName": "東泥",
+    "YahooFinanceSymbol": "1110.TW"
+  },
+  {
+    "StockCode": "1201",
+    "StockName": "味全",
+    "YahooFinanceSymbol": "1201.TW"
+  },
+  {
+    "StockCode": "1203",
+    "StockName": "味王",
+    "YahooFinanceSymbol": "1203.TW"
+  },
+  {
+    "StockCode": "1210",
+    "StockName": "大成",
+    "YahooFinanceSymbol": "1210.TW"
+  },
+  {
+    "StockCode": "1213",
+    "StockName": "大飲",
+    "YahooFinanceSymbol": "1213.TW"
+  },
+  {
+    "StockCode": "1215",
+    "StockName": "卜蜂",
+    "YahooFinanceSymbol": "1215.TW"
+  },
+  {
+    "StockCode": "1216",
+    "StockName": "統一",
+    "YahooFinanceSymbol": "1216.TW"
+  },
+  {
+    "StockCode": "1217",
+    "StockName": "愛之味",
+    "YahooFinanceSymbol": "1217.TW"
+  },
+  {
+    "StockCode": "1218",
+    "StockName": "泰山",
+    "YahooFinanceSymbol": "1218.TW"
+  },
+  {
+    "StockCode": "1219",
+    "StockName": "福壽",
+    "YahooFinanceSymbol": "1219.TW"
+  },
+  {
+    "StockCode": "1220",
+    "StockName": "台榮",
+    "YahooFinanceSymbol": "1220.TW"
+  },
+  {
+    "StockCode": "1225",
+    "StockName": "福懋油",
+    "YahooFinanceSymbol": "1225.TW"
+  },
+  {
+    "StockCode": "1227",
+    "StockName": "佳格",
+    "YahooFinanceSymbol": "1227.TW"
+  },
+  {
+    "StockCode": "1229",
+    "StockName": "聯華",
+    "YahooFinanceSymbol": "1229.TW"
+  },
+  {
+    "StockCode": "1231",
+    "StockName": "聯華食",
+    "YahooFinanceSymbol": "1231.TW"
+  },
+  {
+    "StockCode": "1232",
+    "StockName": "大統益",
+    "YahooFinanceSymbol": "1232.TW"
+  },
+  {
+    "StockCode": "1233",
+    "StockName": "天仁",
+    "YahooFinanceSymbol": "1233.TW"
+  },
+  {
+    "StockCode": "1234",
+    "StockName": "黑松",
+    "YahooFinanceSymbol": "1234.TW"
+  },
+  {
+    "StockCode": "1235",
+    "StockName": "興泰",
+    "YahooFinanceSymbol": "1235.TW"
+  },
+  {
+    "StockCode": "1236",
+    "StockName": "宏亞",
+    "YahooFinanceSymbol": "1236.TW"
+  },
+  {
+    "StockCode": "1256",
+    "StockName": "鮮活果汁-KY",
+    "YahooFinanceSymbol": "1256.TW"
+  },
+  {
+    "StockCode": "1301",
+    "StockName": "台塑",
+    "YahooFinanceSymbol": "1301.TW"
+  },
+  {
+    "StockCode": "1303",
+    "StockName": "南亞",
+    "YahooFinanceSymbol": "1303.TW"
+  },
+  {
+    "StockCode": "1304",
+    "StockName": "台聚",
+    "YahooFinanceSymbol": "1304.TW"
+  },
+  {
+    "StockCode": "1305",
+    "StockName": "華夏",
+    "YahooFinanceSymbol": "1305.TW"
+  },
+  {
+    "StockCode": "1307",
+    "StockName": "三芳",
+    "YahooFinanceSymbol": "1307.TW"
+  },
+  {
+    "StockCode": "1308",
+    "StockName": "亞聚",
+    "YahooFinanceSymbol": "1308.TW"
+  },
+  {
+    "StockCode": "1309",
+    "StockName": "台達化",
+    "YahooFinanceSymbol": "1309.TW"
+  },
+  {
+    "StockCode": "1310",
+    "StockName": "台苯",
+    "YahooFinanceSymbol": "1310.TW"
+  },
+  {
+    "StockCode": "1312",
+    "StockName": "國喬",
+    "YahooFinanceSymbol": "1312.TW"
+  },
+  {
+    "StockCode": "1313",
+    "StockName": "聯成",
+    "YahooFinanceSymbol": "1313.TW"
+  },
+  {
+    "StockCode": "1314",
+    "StockName": "中石化",
+    "YahooFinanceSymbol": "1314.TW"
+  },
+  {
+    "StockCode": "1315",
+    "StockName": "達新",
+    "YahooFinanceSymbol": "1315.TW"
+  },
+  {
+    "StockCode": "1316",
+    "StockName": "上曜",
+    "YahooFinanceSymbol": "1316.TW"
+  },
+  {
+    "StockCode": "1319",
+    "StockName": "東陽",
+    "YahooFinanceSymbol": "1319.TW"
+  },
+  {
+    "StockCode": "1321",
+    "StockName": "大洋",
+    "YahooFinanceSymbol": "1321.TW"
+  },
+  {
+    "StockCode": "1323",
+    "StockName": "永裕",
+    "YahooFinanceSymbol": "1323.TW"
+  },
+  {
+    "StockCode": "1324",
+    "StockName": "地球",
+    "YahooFinanceSymbol": "1324.TW"
+  },
+  {
+    "StockCode": "1325",
+    "StockName": "恆大",
+    "YahooFinanceSymbol": "1325.TW"
+  },
+  {
+    "StockCode": "1326",
+    "StockName": "台化",
+    "YahooFinanceSymbol": "1326.TW"
+  },
+  {
+    "StockCode": "1337",
+    "StockName": "再生-KY",
+    "YahooFinanceSymbol": "1337.TW"
+  },
+  {
+    "StockCode": "1338",
+    "StockName": "廣華-KY",
+    "YahooFinanceSymbol": "1338.TW"
+  },
+  {
+    "StockCode": "1339",
+    "StockName": "昭輝",
+    "YahooFinanceSymbol": "1339.TW"
+  },
+  {
+    "StockCode": "1340",
+    "StockName": "勝悅-KY",
+    "YahooFinanceSymbol": "1340.TW"
+  },
+  {
+    "StockCode": "1341",
+    "StockName": "富林-KY",
+    "YahooFinanceSymbol": "1341.TW"
+  },
+  {
+    "StockCode": "1342",
+    "StockName": "八貫",
+    "YahooFinanceSymbol": "1342.TW"
+  },
+  {
+    "StockCode": "1402",
+    "StockName": "遠東新",
+    "YahooFinanceSymbol": "1402.TW"
+  },
+  {
+    "StockCode": "1409",
+    "StockName": "新纖",
+    "YahooFinanceSymbol": "1409.TW"
+  },
+  {
+    "StockCode": "1410",
+    "StockName": "南染",
+    "YahooFinanceSymbol": "1410.TW"
+  },
+  {
+    "StockCode": "1413",
+    "StockName": "宏洲",
+    "YahooFinanceSymbol": "1413.TW"
+  },
+  {
+    "StockCode": "1414",
+    "StockName": "東和",
+    "YahooFinanceSymbol": "1414.TW"
+  },
+  {
+    "StockCode": "1416",
+    "StockName": "廣豐",
+    "YahooFinanceSymbol": "1416.TW"
+  },
+  {
+    "StockCode": "1417",
+    "StockName": "嘉裕",
+    "YahooFinanceSymbol": "1417.TW"
+  },
+  {
+    "StockCode": "1418",
+    "StockName": "東華",
+    "YahooFinanceSymbol": "1418.TW"
+  },
+  {
+    "StockCode": "1419",
+    "StockName": "新紡",
+    "YahooFinanceSymbol": "1419.TW"
+  },
+  {
+    "StockCode": "1423",
+    "StockName": "利華",
+    "YahooFinanceSymbol": "1423.TW"
+  },
+  {
+    "StockCode": "1432",
+    "StockName": "大魯閣",
+    "YahooFinanceSymbol": "1432.TW"
+  },
+  {
+    "StockCode": "1434",
+    "StockName": "福懋",
+    "YahooFinanceSymbol": "1434.TW"
+  },
+  {
+    "StockCode": "1435",
+    "StockName": "中福",
+    "YahooFinanceSymbol": "1435.TW"
+  },
+  {
+    "StockCode": "1436",
+    "StockName": "華友聯",
+    "YahooFinanceSymbol": "1436.TW"
+  },
+  {
+    "StockCode": "1437",
+    "StockName": "勤益控",
+    "YahooFinanceSymbol": "1437.TW"
+  },
+  {
+    "StockCode": "1438",
+    "StockName": "三地開發",
+    "YahooFinanceSymbol": "1438.TW"
+  },
+  {
+    "StockCode": "1439",
+    "StockName": "雋揚",
+    "YahooFinanceSymbol": "1439.TW"
+  },
+  {
+    "StockCode": "1440",
+    "StockName": "南紡",
+    "YahooFinanceSymbol": "1440.TW"
+  },
+  {
+    "StockCode": "1441",
+    "StockName": "大東",
+    "YahooFinanceSymbol": "1441.TW"
+  },
+  {
+    "StockCode": "1442",
+    "StockName": "名軒",
+    "YahooFinanceSymbol": "1442.TW"
+  },
+  {
+    "StockCode": "1443",
+    "StockName": "立益物流",
+    "YahooFinanceSymbol": "1443.TW"
+  },
+  {
+    "StockCode": "1444",
+    "StockName": "力麗",
+    "YahooFinanceSymbol": "1444.TW"
+  },
+  {
+    "StockCode": "1445",
+    "StockName": "大宇",
+    "YahooFinanceSymbol": "1445.TW"
+  },
+  {
+    "StockCode": "1446",
+    "StockName": "宏和",
+    "YahooFinanceSymbol": "1446.TW"
+  },
+  {
+    "StockCode": "1447",
+    "StockName": "力鵬",
+    "YahooFinanceSymbol": "1447.TW"
+  },
+  {
+    "StockCode": "1449",
+    "StockName": "佳和",
+    "YahooFinanceSymbol": "1449.TW"
+  },
+  {
+    "StockCode": "1451",
+    "StockName": "年興",
+    "YahooFinanceSymbol": "1451.TW"
+  },
+  {
+    "StockCode": "1452",
+    "StockName": "宏益",
+    "YahooFinanceSymbol": "1452.TW"
+  },
+  {
+    "StockCode": "1453",
+    "StockName": "大將",
+    "YahooFinanceSymbol": "1453.TW"
+  },
+  {
+    "StockCode": "1454",
+    "StockName": "台富",
+    "YahooFinanceSymbol": "1454.TW"
+  },
+  {
+    "StockCode": "1455",
+    "StockName": "集盛",
+    "YahooFinanceSymbol": "1455.TW"
+  },
+  {
+    "StockCode": "1456",
+    "StockName": "怡華",
+    "YahooFinanceSymbol": "1456.TW"
+  },
+  {
+    "StockCode": "1457",
+    "StockName": "宜進",
+    "YahooFinanceSymbol": "1457.TW"
+  },
+  {
+    "StockCode": "1459",
+    "StockName": "聯發",
+    "YahooFinanceSymbol": "1459.TW"
+  },
+  {
+    "StockCode": "1460",
+    "StockName": "宏遠",
+    "YahooFinanceSymbol": "1460.TW"
+  },
+  {
+    "StockCode": "1463",
+    "StockName": "強盛新",
+    "YahooFinanceSymbol": "1463.TW"
+  },
+  {
+    "StockCode": "1464",
+    "StockName": "得力",
+    "YahooFinanceSymbol": "1464.TW"
+  },
+  {
+    "StockCode": "1465",
+    "StockName": "偉全",
+    "YahooFinanceSymbol": "1465.TW"
+  },
+  {
+    "StockCode": "1466",
+    "StockName": "聚隆",
+    "YahooFinanceSymbol": "1466.TW"
+  },
+  {
+    "StockCode": "1467",
+    "StockName": "南緯",
+    "YahooFinanceSymbol": "1467.TW"
+  },
+  {
+    "StockCode": "1468",
+    "StockName": "昶和",
+    "YahooFinanceSymbol": "1468.TW"
+  },
+  {
+    "StockCode": "1470",
+    "StockName": "大統新創",
+    "YahooFinanceSymbol": "1470.TW"
+  },
+  {
+    "StockCode": "1471",
+    "StockName": "首利",
+    "YahooFinanceSymbol": "1471.TW"
+  },
+  {
+    "StockCode": "1472",
+    "StockName": "三洋實業",
+    "YahooFinanceSymbol": "1472.TW"
+  },
+  {
+    "StockCode": "1473",
+    "StockName": "台南",
+    "YahooFinanceSymbol": "1473.TW"
+  },
+  {
+    "StockCode": "1474",
+    "StockName": "弘裕",
+    "YahooFinanceSymbol": "1474.TW"
+  },
+  {
+    "StockCode": "1475",
+    "StockName": "業旺",
+    "YahooFinanceSymbol": "1475.TW"
+  },
+  {
+    "StockCode": "1476",
+    "StockName": "儒鴻",
+    "YahooFinanceSymbol": "1476.TW"
+  },
+  {
+    "StockCode": "1477",
+    "StockName": "聚陽",
+    "YahooFinanceSymbol": "1477.TW"
+  },
+  {
+    "StockCode": "1503",
+    "StockName": "士電",
+    "YahooFinanceSymbol": "1503.TW"
+  },
+  {
+    "StockCode": "1504",
+    "StockName": "東元",
+    "YahooFinanceSymbol": "1504.TW"
+  },
+  {
+    "StockCode": "1506",
+    "StockName": "正道",
+    "YahooFinanceSymbol": "1506.TW"
+  },
+  {
+    "StockCode": "1512",
+    "StockName": "瑞利",
+    "YahooFinanceSymbol": "1512.TW"
+  },
+  {
+    "StockCode": "1513",
+    "StockName": "中興電",
+    "YahooFinanceSymbol": "1513.TW"
+  },
+  {
+    "StockCode": "1514",
+    "StockName": "亞力",
+    "YahooFinanceSymbol": "1514.TW"
+  },
+  {
+    "StockCode": "1515",
+    "StockName": "力山",
+    "YahooFinanceSymbol": "1515.TW"
+  },
+  {
+    "StockCode": "1516",
+    "StockName": "川飛",
+    "YahooFinanceSymbol": "1516.TW"
+  },
+  {
+    "StockCode": "1517",
+    "StockName": "利奇",
+    "YahooFinanceSymbol": "1517.TW"
+  },
+  {
+    "StockCode": "1519",
+    "StockName": "華城",
+    "YahooFinanceSymbol": "1519.TW"
+  },
+  {
+    "StockCode": "1521",
+    "StockName": "大億",
+    "YahooFinanceSymbol": "1521.TW"
+  },
+  {
+    "StockCode": "1522",
+    "StockName": "堤維西",
+    "YahooFinanceSymbol": "1522.TW"
+  },
+  {
+    "StockCode": "1524",
+    "StockName": "耿鼎",
+    "YahooFinanceSymbol": "1524.TW"
+  },
+  {
+    "StockCode": "1525",
+    "StockName": "江申",
+    "YahooFinanceSymbol": "1525.TW"
+  },
+  {
+    "StockCode": "1526",
+    "StockName": "日馳",
+    "YahooFinanceSymbol": "1526.TW"
+  },
+  {
+    "StockCode": "1527",
+    "StockName": "鑽全",
+    "YahooFinanceSymbol": "1527.TW"
+  },
+  {
+    "StockCode": "1528",
+    "StockName": "恩德",
+    "YahooFinanceSymbol": "1528.TW"
+  },
+  {
+    "StockCode": "1529",
+    "StockName": "樂事綠能",
+    "YahooFinanceSymbol": "1529.TW"
+  },
+  {
+    "StockCode": "1530",
+    "StockName": "亞崴",
+    "YahooFinanceSymbol": "1530.TW"
+  },
+  {
+    "StockCode": "1531",
+    "StockName": "高林股",
+    "YahooFinanceSymbol": "1531.TW"
+  },
+  {
+    "StockCode": "1532",
+    "StockName": "勤美",
+    "YahooFinanceSymbol": "1532.TW"
+  },
+  {
+    "StockCode": "1533",
+    "StockName": "車王電",
+    "YahooFinanceSymbol": "1533.TW"
+  },
+  {
+    "StockCode": "1535",
+    "StockName": "中宇",
+    "YahooFinanceSymbol": "1535.TW"
+  },
+  {
+    "StockCode": "1536",
+    "StockName": "和大",
+    "YahooFinanceSymbol": "1536.TW"
+  },
+  {
+    "StockCode": "1537",
+    "StockName": "廣隆",
+    "YahooFinanceSymbol": "1537.TW"
+  },
+  {
+    "StockCode": "1538",
+    "StockName": "正峰",
+    "YahooFinanceSymbol": "1538.TW"
+  },
+  {
+    "StockCode": "1539",
+    "StockName": "巨庭",
+    "YahooFinanceSymbol": "1539.TW"
+  },
+  {
+    "StockCode": "1540",
+    "StockName": "喬福",
+    "YahooFinanceSymbol": "1540.TW"
+  },
+  {
+    "StockCode": "1541",
+    "StockName": "錩泰",
+    "YahooFinanceSymbol": "1541.TW"
+  },
+  {
+    "StockCode": "1558",
+    "StockName": "伸興",
+    "YahooFinanceSymbol": "1558.TW"
+  },
+  {
+    "StockCode": "1560",
+    "StockName": "中砂",
+    "YahooFinanceSymbol": "1560.TW"
+  },
+  {
+    "StockCode": "1563",
+    "StockName": "巧新",
+    "YahooFinanceSymbol": "1563.TW"
+  },
+  {
+    "StockCode": "1568",
+    "StockName": "倉佑",
+    "YahooFinanceSymbol": "1568.TW"
+  },
+  {
+    "StockCode": "1582",
+    "StockName": "信錦",
+    "YahooFinanceSymbol": "1582.TW"
+  },
+  {
+    "StockCode": "1583",
+    "StockName": "程泰",
+    "YahooFinanceSymbol": "1583.TW"
+  },
+  {
+    "StockCode": "1587",
+    "StockName": "吉茂",
+    "YahooFinanceSymbol": "1587.TW"
+  },
+  {
+    "StockCode": "1589",
+    "StockName": "永冠-KY",
+    "YahooFinanceSymbol": "1589.TW"
+  },
+  {
+    "StockCode": "1590",
+    "StockName": "亞德客-KY",
+    "YahooFinanceSymbol": "1590.TW"
+  },
+  {
+    "StockCode": "1597",
+    "StockName": "直得",
+    "YahooFinanceSymbol": "1597.TW"
+  },
+  {
+    "StockCode": "1598",
+    "StockName": "岱宇",
+    "YahooFinanceSymbol": "1598.TW"
+  },
+  {
+    "StockCode": "1603",
+    "StockName": "華電",
+    "YahooFinanceSymbol": "1603.TW"
+  },
+  {
+    "StockCode": "1604",
+    "StockName": "聲寶",
+    "YahooFinanceSymbol": "1604.TW"
+  },
+  {
+    "StockCode": "1605",
+    "StockName": "華新",
+    "YahooFinanceSymbol": "1605.TW"
+  },
+  {
+    "StockCode": "1608",
+    "StockName": "華榮",
+    "YahooFinanceSymbol": "1608.TW"
+  },
+  {
+    "StockCode": "1609",
+    "StockName": "大亞",
+    "YahooFinanceSymbol": "1609.TW"
+  },
+  {
+    "StockCode": "1611",
+    "StockName": "中電",
+    "YahooFinanceSymbol": "1611.TW"
+  },
+  {
+    "StockCode": "1612",
+    "StockName": "宏泰",
+    "YahooFinanceSymbol": "1612.TW"
+  },
+  {
+    "StockCode": "1614",
+    "StockName": "三洋電",
+    "YahooFinanceSymbol": "1614.TW"
+  },
+  {
+    "StockCode": "1615",
+    "StockName": "大山",
+    "YahooFinanceSymbol": "1615.TW"
+  },
+  {
+    "StockCode": "1616",
+    "StockName": "億泰",
+    "YahooFinanceSymbol": "1616.TW"
+  },
+  {
+    "StockCode": "1617",
+    "StockName": "榮星",
+    "YahooFinanceSymbol": "1617.TW"
+  },
+  {
+    "StockCode": "1618",
+    "StockName": "合機",
+    "YahooFinanceSymbol": "1618.TW"
+  },
+  {
+    "StockCode": "1626",
+    "StockName": "艾美特-KY",
+    "YahooFinanceSymbol": "1626.TW"
+  },
+  {
+    "StockCode": "1702",
+    "StockName": "南僑",
+    "YahooFinanceSymbol": "1702.TW"
+  },
+  {
+    "StockCode": "1707",
+    "StockName": "葡萄王",
+    "YahooFinanceSymbol": "1707.TW"
+  },
+  {
+    "StockCode": "1708",
+    "StockName": "東鹼",
+    "YahooFinanceSymbol": "1708.TW"
+  },
+  {
+    "StockCode": "1709",
+    "StockName": "和益",
+    "YahooFinanceSymbol": "1709.TW"
+  },
+  {
+    "StockCode": "1710",
+    "StockName": "東聯",
+    "YahooFinanceSymbol": "1710.TW"
+  },
+  {
+    "StockCode": "1711",
+    "StockName": "永光",
+    "YahooFinanceSymbol": "1711.TW"
+  },
+  {
+    "StockCode": "1712",
+    "StockName": "興農",
+    "YahooFinanceSymbol": "1712.TW"
+  },
+  {
+    "StockCode": "1713",
+    "StockName": "國化",
+    "YahooFinanceSymbol": "1713.TW"
+  },
+  {
+    "StockCode": "1714",
+    "StockName": "和桐",
+    "YahooFinanceSymbol": "1714.TW"
+  },
+  {
+    "StockCode": "1717",
+    "StockName": "長興",
+    "YahooFinanceSymbol": "1717.TW"
+  },
+  {
+    "StockCode": "1718",
+    "StockName": "中纖",
+    "YahooFinanceSymbol": "1718.TW"
+  },
+  {
+    "StockCode": "1720",
+    "StockName": "生達",
+    "YahooFinanceSymbol": "1720.TW"
+  },
+  {
+    "StockCode": "1721",
+    "StockName": "三晃",
+    "YahooFinanceSymbol": "1721.TW"
+  },
+  {
+    "StockCode": "1722",
+    "StockName": "台肥",
+    "YahooFinanceSymbol": "1722.TW"
+  },
+  {
+    "StockCode": "1723",
+    "StockName": "中碳",
+    "YahooFinanceSymbol": "1723.TW"
+  },
+  {
+    "StockCode": "1725",
+    "StockName": "元禎",
+    "YahooFinanceSymbol": "1725.TW"
+  },
+  {
+    "StockCode": "1726",
+    "StockName": "永記",
+    "YahooFinanceSymbol": "1726.TW"
+  },
+  {
+    "StockCode": "1727",
+    "StockName": "中華化",
+    "YahooFinanceSymbol": "1727.TW"
+  },
+  {
+    "StockCode": "1730",
+    "StockName": "花仙子",
+    "YahooFinanceSymbol": "1730.TW"
+  },
+  {
+    "StockCode": "1731",
+    "StockName": "美吾華",
+    "YahooFinanceSymbol": "1731.TW"
+  },
+  {
+    "StockCode": "1732",
+    "StockName": "毛寶",
+    "YahooFinanceSymbol": "1732.TW"
+  },
+  {
+    "StockCode": "1733",
+    "StockName": "五鼎",
+    "YahooFinanceSymbol": "1733.TW"
+  },
+  {
+    "StockCode": "1734",
+    "StockName": "杏輝",
+    "YahooFinanceSymbol": "1734.TW"
+  },
+  {
+    "StockCode": "1735",
+    "StockName": "日勝化",
+    "YahooFinanceSymbol": "1735.TW"
+  },
+  {
+    "StockCode": "1736",
+    "StockName": "喬山",
+    "YahooFinanceSymbol": "1736.TW"
+  },
+  {
+    "StockCode": "1737",
+    "StockName": "臺鹽",
+    "YahooFinanceSymbol": "1737.TW"
+  },
+  {
+    "StockCode": "1752",
+    "StockName": "南光",
+    "YahooFinanceSymbol": "1752.TW"
+  },
+  {
+    "StockCode": "1760",
+    "StockName": "寶齡富錦",
+    "YahooFinanceSymbol": "1760.TW"
+  },
+  {
+    "StockCode": "1762",
+    "StockName": "中化生",
+    "YahooFinanceSymbol": "1762.TW"
+  },
+  {
+    "StockCode": "1773",
+    "StockName": "勝一",
+    "YahooFinanceSymbol": "1773.TW"
+  },
+  {
+    "StockCode": "1776",
+    "StockName": "展宇",
+    "YahooFinanceSymbol": "1776.TW"
+  },
+  {
+    "StockCode": "1783",
+    "StockName": "和康生",
+    "YahooFinanceSymbol": "1783.TW"
+  },
+  {
+    "StockCode": "1786",
+    "StockName": "科妍",
+    "YahooFinanceSymbol": "1786.TW"
+  },
+  {
+    "StockCode": "1789",
+    "StockName": "神隆",
+    "YahooFinanceSymbol": "1789.TW"
+  },
+  {
+    "StockCode": "1795",
+    "StockName": "美時",
+    "YahooFinanceSymbol": "1795.TW"
+  },
+  {
+    "StockCode": "1802",
+    "StockName": "台玻",
+    "YahooFinanceSymbol": "1802.TW"
+  },
+  {
+    "StockCode": "1805",
+    "StockName": "寶徠",
+    "YahooFinanceSymbol": "1805.TW"
+  },
+  {
+    "StockCode": "1806",
+    "StockName": "冠軍",
+    "YahooFinanceSymbol": "1806.TW"
+  },
+  {
+    "StockCode": "1808",
+    "StockName": "潤隆",
+    "YahooFinanceSymbol": "1808.TW"
+  },
+  {
+    "StockCode": "1809",
+    "StockName": "中釉",
+    "YahooFinanceSymbol": "1809.TW"
+  },
+  {
+    "StockCode": "1810",
+    "StockName": "和成",
+    "YahooFinanceSymbol": "1810.TW"
+  },
+  {
+    "StockCode": "1817",
+    "StockName": "凱撒衛",
+    "YahooFinanceSymbol": "1817.TW"
+  },
+  {
+    "StockCode": "1903",
+    "StockName": "士紙",
+    "YahooFinanceSymbol": "1903.TW"
+  },
+  {
+    "StockCode": "1904",
+    "StockName": "正隆",
+    "YahooFinanceSymbol": "1904.TW"
+  },
+  {
+    "StockCode": "1905",
+    "StockName": "華紙",
+    "YahooFinanceSymbol": "1905.TW"
+  },
+  {
+    "StockCode": "1906",
+    "StockName": "寶隆",
+    "YahooFinanceSymbol": "1906.TW"
+  },
+  {
+    "StockCode": "1907",
+    "StockName": "永豐餘",
+    "YahooFinanceSymbol": "1907.TW"
+  },
+  {
+    "StockCode": "1909",
+    "StockName": "榮成",
+    "YahooFinanceSymbol": "1909.TW"
+  },
+  {
+    "StockCode": "2002",
+    "StockName": "中鋼",
+    "YahooFinanceSymbol": "2002.TW"
+  },
+  {
+    "StockCode": "2006",
+    "StockName": "東和鋼鐵",
+    "YahooFinanceSymbol": "2006.TW"
+  },
+  {
+    "StockCode": "2007",
+    "StockName": "燁興",
+    "YahooFinanceSymbol": "2007.TW"
+  },
+  {
+    "StockCode": "2008",
+    "StockName": "高興昌",
+    "YahooFinanceSymbol": "2008.TW"
+  },
+  {
+    "StockCode": "2009",
+    "StockName": "第一銅",
+    "YahooFinanceSymbol": "2009.TW"
+  },
+  {
+    "StockCode": "2010",
+    "StockName": "春源",
+    "YahooFinanceSymbol": "2010.TW"
+  },
+  {
+    "StockCode": "2012",
+    "StockName": "春雨",
+    "YahooFinanceSymbol": "2012.TW"
+  },
+  {
+    "StockCode": "2013",
+    "StockName": "中鋼構",
+    "YahooFinanceSymbol": "2013.TW"
+  },
+  {
+    "StockCode": "2014",
+    "StockName": "中鴻",
+    "YahooFinanceSymbol": "2014.TW"
+  },
+  {
+    "StockCode": "2015",
+    "StockName": "豐興",
+    "YahooFinanceSymbol": "2015.TW"
+  },
+  {
+    "StockCode": "2017",
+    "StockName": "官田鋼",
+    "YahooFinanceSymbol": "2017.TW"
+  },
+  {
+    "StockCode": "2020",
+    "StockName": "美亞",
+    "YahooFinanceSymbol": "2020.TW"
+  },
+  {
+    "StockCode": "2022",
+    "StockName": "聚亨",
+    "YahooFinanceSymbol": "2022.TW"
+  },
+  {
+    "StockCode": "2023",
+    "StockName": "燁輝",
+    "YahooFinanceSymbol": "2023.TW"
+  },
+  {
+    "StockCode": "2024",
+    "StockName": "志聯",
+    "YahooFinanceSymbol": "2024.TW"
+  },
+  {
+    "StockCode": "2025",
+    "StockName": "千興",
+    "YahooFinanceSymbol": "2025.TW"
+  },
+  {
+    "StockCode": "2027",
+    "StockName": "大成鋼",
+    "YahooFinanceSymbol": "2027.TW"
+  },
+  {
+    "StockCode": "2028",
+    "StockName": "威致",
+    "YahooFinanceSymbol": "2028.TW"
+  },
+  {
+    "StockCode": "2029",
+    "StockName": "盛餘",
+    "YahooFinanceSymbol": "2029.TW"
+  },
+  {
+    "StockCode": "2030",
+    "StockName": "彰源",
+    "YahooFinanceSymbol": "2030.TW"
+  },
+  {
+    "StockCode": "2031",
+    "StockName": "新光鋼",
+    "YahooFinanceSymbol": "2031.TW"
+  },
+  {
+    "StockCode": "2032",
+    "StockName": "新鋼",
+    "YahooFinanceSymbol": "2032.TW"
+  },
+  {
+    "StockCode": "2033",
+    "StockName": "佳大",
+    "YahooFinanceSymbol": "2033.TW"
+  },
+  {
+    "StockCode": "2034",
+    "StockName": "允強",
+    "YahooFinanceSymbol": "2034.TW"
+  },
+  {
+    "StockCode": "2038",
+    "StockName": "海光",
+    "YahooFinanceSymbol": "2038.TW"
+  },
+  {
+    "StockCode": "2049",
+    "StockName": "上銀",
+    "YahooFinanceSymbol": "2049.TW"
+  },
+  {
+    "StockCode": "2059",
+    "StockName": "川湖",
+    "YahooFinanceSymbol": "2059.TW"
+  },
+  {
+    "StockCode": "2062",
+    "StockName": "橋椿",
+    "YahooFinanceSymbol": "2062.TW"
+  },
+  {
+    "StockCode": "2069",
+    "StockName": "運錩",
+    "YahooFinanceSymbol": "2069.TW"
+  },
+  {
+    "StockCode": "2101",
+    "StockName": "南港",
+    "YahooFinanceSymbol": "2101.TW"
+  },
+  {
+    "StockCode": "2102",
+    "StockName": "泰豐",
+    "YahooFinanceSymbol": "2102.TW"
+  },
+  {
+    "StockCode": "2103",
+    "StockName": "台橡",
+    "YahooFinanceSymbol": "2103.TW"
+  },
+  {
+    "StockCode": "2104",
+    "StockName": "國際中橡",
+    "YahooFinanceSymbol": "2104.TW"
+  },
+  {
+    "StockCode": "2105",
+    "StockName": "正新",
+    "YahooFinanceSymbol": "2105.TW"
+  },
+  {
+    "StockCode": "2106",
+    "StockName": "建大",
+    "YahooFinanceSymbol": "2106.TW"
+  },
+  {
+    "StockCode": "2107",
+    "StockName": "厚生",
+    "YahooFinanceSymbol": "2107.TW"
+  },
+  {
+    "StockCode": "2108",
+    "StockName": "南帝",
+    "YahooFinanceSymbol": "2108.TW"
+  },
+  {
+    "StockCode": "2109",
+    "StockName": "華豐",
+    "YahooFinanceSymbol": "2109.TW"
+  },
+  {
+    "StockCode": "2114",
+    "StockName": "鑫永銓",
+    "YahooFinanceSymbol": "2114.TW"
+  },
+  {
+    "StockCode": "2115",
+    "StockName": "六暉-KY",
+    "YahooFinanceSymbol": "2115.TW"
+  },
+  {
+    "StockCode": "2201",
+    "StockName": "裕隆",
+    "YahooFinanceSymbol": "2201.TW"
+  },
+  {
+    "StockCode": "2204",
+    "StockName": "中華",
+    "YahooFinanceSymbol": "2204.TW"
+  },
+  {
+    "StockCode": "2206",
+    "StockName": "三陽工業",
+    "YahooFinanceSymbol": "2206.TW"
+  },
+  {
+    "StockCode": "2207",
+    "StockName": "和泰車",
+    "YahooFinanceSymbol": "2207.TW"
+  },
+  {
+    "StockCode": "2208",
+    "StockName": "台船",
+    "YahooFinanceSymbol": "2208.TW"
+  },
+  {
+    "StockCode": "2211",
+    "StockName": "長榮鋼",
+    "YahooFinanceSymbol": "2211.TW"
+  },
+  {
+    "StockCode": "2227",
+    "StockName": "裕日車",
+    "YahooFinanceSymbol": "2227.TW"
+  },
+  {
+    "StockCode": "2228",
+    "StockName": "劍麟",
+    "YahooFinanceSymbol": "2228.TW"
+  },
+  {
+    "StockCode": "2231",
+    "StockName": "為升",
+    "YahooFinanceSymbol": "2231.TW"
+  },
+  {
+    "StockCode": "2233",
+    "StockName": "宇隆",
+    "YahooFinanceSymbol": "2233.TW"
+  },
+  {
+    "StockCode": "2236",
+    "StockName": "百達-KY",
+    "YahooFinanceSymbol": "2236.TW"
+  },
+  {
+    "StockCode": "2239",
+    "StockName": "英利-KY",
+    "YahooFinanceSymbol": "2239.TW"
+  },
+  {
+    "StockCode": "2241",
+    "StockName": "艾姆勒",
+    "YahooFinanceSymbol": "2241.TW"
+  },
+  {
+    "StockCode": "2243",
+    "StockName": "宏旭-KY",
+    "YahooFinanceSymbol": "2243.TW"
+  },
+  {
+    "StockCode": "2247",
+    "StockName": "汎德永業",
+    "YahooFinanceSymbol": "2247.TW"
+  },
+  {
+    "StockCode": "2250",
+    "StockName": "IKKA-KY",
+    "YahooFinanceSymbol": "2250.TW"
+  },
+  {
+    "StockCode": "2301",
+    "StockName": "光寶科",
+    "YahooFinanceSymbol": "2301.TW"
+  },
+  {
+    "StockCode": "2302",
+    "StockName": "麗正",
+    "YahooFinanceSymbol": "2302.TW"
+  },
+  {
+    "StockCode": "2303",
+    "StockName": "聯電",
+    "YahooFinanceSymbol": "2303.TW"
+  },
+  {
+    "StockCode": "2305",
+    "StockName": "全友",
+    "YahooFinanceSymbol": "2305.TW"
+  },
+  {
+    "StockCode": "2308",
+    "StockName": "台達電",
+    "YahooFinanceSymbol": "2308.TW"
+  },
+  {
+    "StockCode": "2312",
+    "StockName": "金寶",
+    "YahooFinanceSymbol": "2312.TW"
+  },
+  {
+    "StockCode": "2313",
+    "StockName": "華通",
+    "YahooFinanceSymbol": "2313.TW"
+  },
+  {
+    "StockCode": "2314",
+    "StockName": "台揚",
+    "YahooFinanceSymbol": "2314.TW"
+  },
+  {
+    "StockCode": "2316",
+    "StockName": "楠梓電",
+    "YahooFinanceSymbol": "2316.TW"
+  },
+  {
+    "StockCode": "2317",
+    "StockName": "鴻海",
+    "YahooFinanceSymbol": "2317.TW"
+  },
+  {
+    "StockCode": "2321",
+    "StockName": "東訊",
+    "YahooFinanceSymbol": "2321.TW"
+  },
+  {
+    "StockCode": "2323",
+    "StockName": "中環",
+    "YahooFinanceSymbol": "2323.TW"
+  },
+  {
+    "StockCode": "2324",
+    "StockName": "仁寶",
+    "YahooFinanceSymbol": "2324.TW"
+  },
+  {
+    "StockCode": "2327",
+    "StockName": "國巨",
+    "YahooFinanceSymbol": "2327.TW"
+  },
+  {
+    "StockCode": "2328",
+    "StockName": "廣宇",
+    "YahooFinanceSymbol": "2328.TW"
+  },
+  {
+    "StockCode": "2329",
+    "StockName": "華泰",
+    "YahooFinanceSymbol": "2329.TW"
+  },
+  {
+    "StockCode": "2330",
+    "StockName": "台積電",
+    "YahooFinanceSymbol": "2330.TW"
+  },
+  {
+    "StockCode": "2331",
+    "StockName": "精英",
+    "YahooFinanceSymbol": "2331.TW"
+  },
+  {
+    "StockCode": "2332",
+    "StockName": "友訊",
+    "YahooFinanceSymbol": "2332.TW"
+  },
+  {
+    "StockCode": "2337",
+    "StockName": "旺宏",
+    "YahooFinanceSymbol": "2337.TW"
+  },
+  {
+    "StockCode": "2338",
+    "StockName": "光罩",
+    "YahooFinanceSymbol": "2338.TW"
+  },
+  {
+    "StockCode": "2340",
+    "StockName": "台亞",
+    "YahooFinanceSymbol": "2340.TW"
+  },
+  {
+    "StockCode": "2342",
+    "StockName": "茂矽",
+    "YahooFinanceSymbol": "2342.TW"
+  },
+  {
+    "StockCode": "2344",
+    "StockName": "華邦電",
+    "YahooFinanceSymbol": "2344.TW"
+  },
+  {
+    "StockCode": "2345",
+    "StockName": "智邦",
+    "YahooFinanceSymbol": "2345.TW"
+  },
+  {
+    "StockCode": "2347",
+    "StockName": "聯強",
+    "YahooFinanceSymbol": "2347.TW"
+  },
+  {
+    "StockCode": "2348",
+    "StockName": "海悅",
+    "YahooFinanceSymbol": "2348.TW"
+  },
+  {
+    "StockCode": "2349",
+    "StockName": "錸德",
+    "YahooFinanceSymbol": "2349.TW"
+  },
+  {
+    "StockCode": "2351",
+    "StockName": "順德",
+    "YahooFinanceSymbol": "2351.TW"
+  },
+  {
+    "StockCode": "2352",
+    "StockName": "佳世達",
+    "YahooFinanceSymbol": "2352.TW"
+  },
+  {
+    "StockCode": "2353",
+    "StockName": "宏碁",
+    "YahooFinanceSymbol": "2353.TW"
+  },
+  {
+    "StockCode": "2354",
+    "StockName": "鴻準",
+    "YahooFinanceSymbol": "2354.TW"
+  },
+  {
+    "StockCode": "2355",
+    "StockName": "敬鵬",
+    "YahooFinanceSymbol": "2355.TW"
+  },
+  {
+    "StockCode": "2356",
+    "StockName": "英業達",
+    "YahooFinanceSymbol": "2356.TW"
+  },
+  {
+    "StockCode": "2357",
+    "StockName": "華碩",
+    "YahooFinanceSymbol": "2357.TW"
+  },
+  {
+    "StockCode": "2358",
+    "StockName": "廷鑫",
+    "YahooFinanceSymbol": "2358.TW"
+  },
+  {
+    "StockCode": "2359",
+    "StockName": "所羅門",
+    "YahooFinanceSymbol": "2359.TW"
+  },
+  {
+    "StockCode": "2360",
+    "StockName": "致茂",
+    "YahooFinanceSymbol": "2360.TW"
+  },
+  {
+    "StockCode": "2362",
+    "StockName": "藍天",
+    "YahooFinanceSymbol": "2362.TW"
+  },
+  {
+    "StockCode": "2363",
+    "StockName": "矽統",
+    "YahooFinanceSymbol": "2363.TW"
+  },
+  {
+    "StockCode": "2364",
+    "StockName": "倫飛",
+    "YahooFinanceSymbol": "2364.TW"
+  },
+  {
+    "StockCode": "2365",
+    "StockName": "昆盈",
+    "YahooFinanceSymbol": "2365.TW"
+  },
+  {
+    "StockCode": "2367",
+    "StockName": "燿華",
+    "YahooFinanceSymbol": "2367.TW"
+  },
+  {
+    "StockCode": "2368",
+    "StockName": "金像電",
+    "YahooFinanceSymbol": "2368.TW"
+  },
+  {
+    "StockCode": "2369",
+    "StockName": "菱生",
+    "YahooFinanceSymbol": "2369.TW"
+  },
+  {
+    "StockCode": "2371",
+    "StockName": "大同",
+    "YahooFinanceSymbol": "2371.TW"
+  },
+  {
+    "StockCode": "2373",
+    "StockName": "震旦行",
+    "YahooFinanceSymbol": "2373.TW"
+  },
+  {
+    "StockCode": "2374",
+    "StockName": "佳能",
+    "YahooFinanceSymbol": "2374.TW"
+  },
+  {
+    "StockCode": "2375",
+    "StockName": "凱美",
+    "YahooFinanceSymbol": "2375.TW"
+  },
+  {
+    "StockCode": "2376",
+    "StockName": "技嘉",
+    "YahooFinanceSymbol": "2376.TW"
+  },
+  {
+    "StockCode": "2377",
+    "StockName": "微星",
+    "YahooFinanceSymbol": "2377.TW"
+  },
+  {
+    "StockCode": "2379",
+    "StockName": "瑞昱",
+    "YahooFinanceSymbol": "2379.TW"
+  },
+  {
+    "StockCode": "2380",
+    "StockName": "虹光",
+    "YahooFinanceSymbol": "2380.TW"
+  },
+  {
+    "StockCode": "2382",
+    "StockName": "廣達",
+    "YahooFinanceSymbol": "2382.TW"
+  },
+  {
+    "StockCode": "2383",
+    "StockName": "台光電",
+    "YahooFinanceSymbol": "2383.TW"
+  },
+  {
+    "StockCode": "2385",
+    "StockName": "群光",
+    "YahooFinanceSymbol": "2385.TW"
+  },
+  {
+    "StockCode": "2387",
+    "StockName": "精元",
+    "YahooFinanceSymbol": "2387.TW"
+  },
+  {
+    "StockCode": "2388",
+    "StockName": "威盛",
+    "YahooFinanceSymbol": "2388.TW"
+  },
+  {
+    "StockCode": "2390",
+    "StockName": "云辰",
+    "YahooFinanceSymbol": "2390.TW"
+  },
+  {
+    "StockCode": "2392",
+    "StockName": "正崴",
+    "YahooFinanceSymbol": "2392.TW"
+  },
+  {
+    "StockCode": "2393",
+    "StockName": "億光",
+    "YahooFinanceSymbol": "2393.TW"
+  },
+  {
+    "StockCode": "2395",
+    "StockName": "研華",
+    "YahooFinanceSymbol": "2395.TW"
+  },
+  {
+    "StockCode": "2397",
+    "StockName": "友通",
+    "YahooFinanceSymbol": "2397.TW"
+  },
+  {
+    "StockCode": "2399",
+    "StockName": "映泰",
+    "YahooFinanceSymbol": "2399.TW"
+  },
+  {
+    "StockCode": "2401",
+    "StockName": "凌陽",
+    "YahooFinanceSymbol": "2401.TW"
+  },
+  {
+    "StockCode": "2402",
+    "StockName": "毅嘉",
+    "YahooFinanceSymbol": "2402.TW"
+  },
+  {
+    "StockCode": "2404",
+    "StockName": "漢唐",
+    "YahooFinanceSymbol": "2404.TW"
+  },
+  {
+    "StockCode": "2405",
+    "StockName": "輔信",
+    "YahooFinanceSymbol": "2405.TW"
+  },
+  {
+    "StockCode": "2406",
+    "StockName": "國碩",
+    "YahooFinanceSymbol": "2406.TW"
+  },
+  {
+    "StockCode": "2408",
+    "StockName": "南亞科",
+    "YahooFinanceSymbol": "2408.TW"
+  },
+  {
+    "StockCode": "2409",
+    "StockName": "友達",
+    "YahooFinanceSymbol": "2409.TW"
+  },
+  {
+    "StockCode": "2412",
+    "StockName": "中華電",
+    "YahooFinanceSymbol": "2412.TW"
+  },
+  {
+    "StockCode": "2413",
+    "StockName": "環科",
+    "YahooFinanceSymbol": "2413.TW"
+  },
+  {
+    "StockCode": "2414",
+    "StockName": "精技",
+    "YahooFinanceSymbol": "2414.TW"
+  },
+  {
+    "StockCode": "2415",
+    "StockName": "錩新",
+    "YahooFinanceSymbol": "2415.TW"
+  },
+  {
+    "StockCode": "2417",
+    "StockName": "圓剛",
+    "YahooFinanceSymbol": "2417.TW"
+  },
+  {
+    "StockCode": "2419",
+    "StockName": "仲琦",
+    "YahooFinanceSymbol": "2419.TW"
+  },
+  {
+    "StockCode": "2420",
+    "StockName": "新巨",
+    "YahooFinanceSymbol": "2420.TW"
+  },
+  {
+    "StockCode": "2421",
+    "StockName": "建準",
+    "YahooFinanceSymbol": "2421.TW"
+  },
+  {
+    "StockCode": "2423",
+    "StockName": "固緯",
+    "YahooFinanceSymbol": "2423.TW"
+  },
+  {
+    "StockCode": "2424",
+    "StockName": "隴華",
+    "YahooFinanceSymbol": "2424.TW"
+  },
+  {
+    "StockCode": "2425",
+    "StockName": "承啟",
+    "YahooFinanceSymbol": "2425.TW"
+  },
+  {
+    "StockCode": "2426",
+    "StockName": "鼎元",
+    "YahooFinanceSymbol": "2426.TW"
+  },
+  {
+    "StockCode": "2427",
+    "StockName": "三商電",
+    "YahooFinanceSymbol": "2427.TW"
+  },
+  {
+    "StockCode": "2428",
+    "StockName": "興勤",
+    "YahooFinanceSymbol": "2428.TW"
+  },
+  {
+    "StockCode": "2429",
+    "StockName": "銘旺科",
+    "YahooFinanceSymbol": "2429.TW"
+  },
+  {
+    "StockCode": "2430",
+    "StockName": "燦坤",
+    "YahooFinanceSymbol": "2430.TW"
+  },
+  {
+    "StockCode": "2431",
+    "StockName": "聯昌",
+    "YahooFinanceSymbol": "2431.TW"
+  },
+  {
+    "StockCode": "2433",
+    "StockName": "互盛電",
+    "YahooFinanceSymbol": "2433.TW"
+  },
+  {
+    "StockCode": "2434",
+    "StockName": "統懋",
+    "YahooFinanceSymbol": "2434.TW"
+  },
+  {
+    "StockCode": "2436",
+    "StockName": "偉詮電",
+    "YahooFinanceSymbol": "2436.TW"
+  },
+  {
+    "StockCode": "2438",
+    "StockName": "翔耀",
+    "YahooFinanceSymbol": "2438.TW"
+  },
+  {
+    "StockCode": "2439",
+    "StockName": "美律",
+    "YahooFinanceSymbol": "2439.TW"
+  },
+  {
+    "StockCode": "2440",
+    "StockName": "太空梭",
+    "YahooFinanceSymbol": "2440.TW"
+  },
+  {
+    "StockCode": "2441",
+    "StockName": "超豐",
+    "YahooFinanceSymbol": "2441.TW"
+  },
+  {
+    "StockCode": "2442",
+    "StockName": "新美齊",
+    "YahooFinanceSymbol": "2442.TW"
+  },
+  {
+    "StockCode": "2443",
+    "StockName": "昶虹",
+    "YahooFinanceSymbol": "2443.TW"
+  },
+  {
+    "StockCode": "2444",
+    "StockName": "兆勁",
+    "YahooFinanceSymbol": "2444.TW"
+  },
+  {
+    "StockCode": "2449",
+    "StockName": "京元電子",
+    "YahooFinanceSymbol": "2449.TW"
+  },
+  {
+    "StockCode": "2450",
+    "StockName": "神腦",
+    "YahooFinanceSymbol": "2450.TW"
+  },
+  {
+    "StockCode": "2451",
+    "StockName": "創見",
+    "YahooFinanceSymbol": "2451.TW"
+  },
+  {
+    "StockCode": "2453",
+    "StockName": "凌群",
+    "YahooFinanceSymbol": "2453.TW"
+  },
+  {
+    "StockCode": "2454",
+    "StockName": "聯發科",
+    "YahooFinanceSymbol": "2454.TW"
+  },
+  {
+    "StockCode": "2455",
+    "StockName": "全新",
+    "YahooFinanceSymbol": "2455.TW"
+  },
+  {
+    "StockCode": "2457",
+    "StockName": "飛宏",
+    "YahooFinanceSymbol": "2457.TW"
+  },
+  {
+    "StockCode": "2458",
+    "StockName": "義隆",
+    "YahooFinanceSymbol": "2458.TW"
+  },
+  {
+    "StockCode": "2459",
+    "StockName": "敦吉",
+    "YahooFinanceSymbol": "2459.TW"
+  },
+  {
+    "StockCode": "2460",
+    "StockName": "建通",
+    "YahooFinanceSymbol": "2460.TW"
+  },
+  {
+    "StockCode": "2461",
+    "StockName": "光群雷",
+    "YahooFinanceSymbol": "2461.TW"
+  },
+  {
+    "StockCode": "2462",
+    "StockName": "良得電",
+    "YahooFinanceSymbol": "2462.TW"
+  },
+  {
+    "StockCode": "2464",
+    "StockName": "盟立",
+    "YahooFinanceSymbol": "2464.TW"
+  },
+  {
+    "StockCode": "2465",
+    "StockName": "麗臺",
+    "YahooFinanceSymbol": "2465.TW"
+  },
+  {
+    "StockCode": "2466",
+    "StockName": "冠西電",
+    "YahooFinanceSymbol": "2466.TW"
+  },
+  {
+    "StockCode": "2467",
+    "StockName": "志聖",
+    "YahooFinanceSymbol": "2467.TW"
+  },
+  {
+    "StockCode": "2468",
+    "StockName": "華經",
+    "YahooFinanceSymbol": "2468.TW"
+  },
+  {
+    "StockCode": "2471",
+    "StockName": "資通",
+    "YahooFinanceSymbol": "2471.TW"
+  },
+  {
+    "StockCode": "2472",
+    "StockName": "立隆電",
+    "YahooFinanceSymbol": "2472.TW"
+  },
+  {
+    "StockCode": "2474",
+    "StockName": "可成",
+    "YahooFinanceSymbol": "2474.TW"
+  },
+  {
+    "StockCode": "2476",
+    "StockName": "鉅祥",
+    "YahooFinanceSymbol": "2476.TW"
+  },
+  {
+    "StockCode": "2477",
+    "StockName": "美隆電",
+    "YahooFinanceSymbol": "2477.TW"
+  },
+  {
+    "StockCode": "2478",
+    "StockName": "大毅",
+    "YahooFinanceSymbol": "2478.TW"
+  },
+  {
+    "StockCode": "2480",
+    "StockName": "敦陽科",
+    "YahooFinanceSymbol": "2480.TW"
+  },
+  {
+    "StockCode": "2481",
+    "StockName": "強茂",
+    "YahooFinanceSymbol": "2481.TW"
+  },
+  {
+    "StockCode": "2482",
+    "StockName": "連宇",
+    "YahooFinanceSymbol": "2482.TW"
+  },
+  {
+    "StockCode": "2483",
+    "StockName": "百容",
+    "YahooFinanceSymbol": "2483.TW"
+  },
+  {
+    "StockCode": "2484",
+    "StockName": "希華",
+    "YahooFinanceSymbol": "2484.TW"
+  },
+  {
+    "StockCode": "2485",
+    "StockName": "兆赫",
+    "YahooFinanceSymbol": "2485.TW"
+  },
+  {
+    "StockCode": "2486",
+    "StockName": "一詮",
+    "YahooFinanceSymbol": "2486.TW"
+  },
+  {
+    "StockCode": "2488",
+    "StockName": "漢平",
+    "YahooFinanceSymbol": "2488.TW"
+  },
+  {
+    "StockCode": "2489",
+    "StockName": "瑞軒",
+    "YahooFinanceSymbol": "2489.TW"
+  },
+  {
+    "StockCode": "2491",
+    "StockName": "吉祥全",
+    "YahooFinanceSymbol": "2491.TW"
+  },
+  {
+    "StockCode": "2492",
+    "StockName": "華新科",
+    "YahooFinanceSymbol": "2492.TW"
+  },
+  {
+    "StockCode": "2493",
+    "StockName": "揚博",
+    "YahooFinanceSymbol": "2493.TW"
+  },
+  {
+    "StockCode": "2495",
+    "StockName": "普安",
+    "YahooFinanceSymbol": "2495.TW"
+  },
+  {
+    "StockCode": "2496",
+    "StockName": "卓越",
+    "YahooFinanceSymbol": "2496.TW"
+  },
+  {
+    "StockCode": "2497",
+    "StockName": "怡利電",
+    "YahooFinanceSymbol": "2497.TW"
+  },
+  {
+    "StockCode": "2498",
+    "StockName": "宏達電",
+    "YahooFinanceSymbol": "2498.TW"
+  },
+  {
+    "StockCode": "2501",
+    "StockName": "國建",
+    "YahooFinanceSymbol": "2501.TW"
+  },
+  {
+    "StockCode": "2504",
+    "StockName": "國產",
+    "YahooFinanceSymbol": "2504.TW"
+  },
+  {
+    "StockCode": "2505",
+    "StockName": "國揚",
+    "YahooFinanceSymbol": "2505.TW"
+  },
+  {
+    "StockCode": "2506",
+    "StockName": "太設",
+    "YahooFinanceSymbol": "2506.TW"
+  },
+  {
+    "StockCode": "2509",
+    "StockName": "全坤建",
+    "YahooFinanceSymbol": "2509.TW"
+  },
+  {
+    "StockCode": "2511",
+    "StockName": "太子",
+    "YahooFinanceSymbol": "2511.TW"
+  },
+  {
+    "StockCode": "2514",
+    "StockName": "龍邦",
+    "YahooFinanceSymbol": "2514.TW"
+  },
+  {
+    "StockCode": "2515",
+    "StockName": "中工",
+    "YahooFinanceSymbol": "2515.TW"
+  },
+  {
+    "StockCode": "2516",
+    "StockName": "新建",
+    "YahooFinanceSymbol": "2516.TW"
+  },
+  {
+    "StockCode": "2520",
+    "StockName": "冠德",
+    "YahooFinanceSymbol": "2520.TW"
+  },
+  {
+    "StockCode": "2524",
+    "StockName": "京城",
+    "YahooFinanceSymbol": "2524.TW"
+  },
+  {
+    "StockCode": "2527",
+    "StockName": "宏璟",
+    "YahooFinanceSymbol": "2527.TW"
+  },
+  {
+    "StockCode": "2528",
+    "StockName": "皇普",
+    "YahooFinanceSymbol": "2528.TW"
+  },
+  {
+    "StockCode": "2530",
+    "StockName": "華建",
+    "YahooFinanceSymbol": "2530.TW"
+  },
+  {
+    "StockCode": "2534",
+    "StockName": "宏盛",
+    "YahooFinanceSymbol": "2534.TW"
+  },
+  {
+    "StockCode": "2535",
+    "StockName": "達欣工",
+    "YahooFinanceSymbol": "2535.TW"
+  },
+  {
+    "StockCode": "2536",
+    "StockName": "宏普",
+    "YahooFinanceSymbol": "2536.TW"
+  },
+  {
+    "StockCode": "2537",
+    "StockName": "聯上發",
+    "YahooFinanceSymbol": "2537.TW"
+  },
+  {
+    "StockCode": "2538",
+    "StockName": "基泰",
+    "YahooFinanceSymbol": "2538.TW"
+  },
+  {
+    "StockCode": "2539",
+    "StockName": "櫻花建",
+    "YahooFinanceSymbol": "2539.TW"
+  },
+  {
+    "StockCode": "2540",
+    "StockName": "愛山林",
+    "YahooFinanceSymbol": "2540.TW"
+  },
+  {
+    "StockCode": "2542",
+    "StockName": "興富發",
+    "YahooFinanceSymbol": "2542.TW"
+  },
+  {
+    "StockCode": "2543",
+    "StockName": "皇昌",
+    "YahooFinanceSymbol": "2543.TW"
+  },
+  {
+    "StockCode": "2545",
+    "StockName": "皇翔",
+    "YahooFinanceSymbol": "2545.TW"
+  },
+  {
+    "StockCode": "2546",
+    "StockName": "根基",
+    "YahooFinanceSymbol": "2546.TW"
+  },
+  {
+    "StockCode": "2547",
+    "StockName": "日勝生",
+    "YahooFinanceSymbol": "2547.TW"
+  },
+  {
+    "StockCode": "2548",
+    "StockName": "華固",
+    "YahooFinanceSymbol": "2548.TW"
+  },
+  {
+    "StockCode": "2597",
+    "StockName": "潤弘",
+    "YahooFinanceSymbol": "2597.TW"
+  },
+  {
+    "StockCode": "2601",
+    "StockName": "益航",
+    "YahooFinanceSymbol": "2601.TW"
+  },
+  {
+    "StockCode": "2603",
+    "StockName": "長榮",
+    "YahooFinanceSymbol": "2603.TW"
+  },
+  {
+    "StockCode": "2605",
+    "StockName": "新興",
+    "YahooFinanceSymbol": "2605.TW"
+  },
+  {
+    "StockCode": "2606",
+    "StockName": "裕民",
+    "YahooFinanceSymbol": "2606.TW"
+  },
+  {
+    "StockCode": "2607",
+    "StockName": "榮運",
+    "YahooFinanceSymbol": "2607.TW"
+  },
+  {
+    "StockCode": "2608",
+    "StockName": "嘉里大榮",
+    "YahooFinanceSymbol": "2608.TW"
+  },
+  {
+    "StockCode": "2609",
+    "StockName": "陽明",
+    "YahooFinanceSymbol": "2609.TW"
+  },
+  {
+    "StockCode": "2610",
+    "StockName": "華航",
+    "YahooFinanceSymbol": "2610.TW"
+  },
+  {
+    "StockCode": "2611",
+    "StockName": "志信",
+    "YahooFinanceSymbol": "2611.TW"
+  },
+  {
+    "StockCode": "2612",
+    "StockName": "中航",
+    "YahooFinanceSymbol": "2612.TW"
+  },
+  {
+    "StockCode": "2613",
+    "StockName": "中櫃",
+    "YahooFinanceSymbol": "2613.TW"
+  },
+  {
+    "StockCode": "2614",
+    "StockName": "東森",
+    "YahooFinanceSymbol": "2614.TW"
+  },
+  {
+    "StockCode": "2615",
+    "StockName": "萬海",
+    "YahooFinanceSymbol": "2615.TW"
+  },
+  {
+    "StockCode": "2616",
+    "StockName": "山隆",
+    "YahooFinanceSymbol": "2616.TW"
+  },
+  {
+    "StockCode": "2617",
+    "StockName": "台航",
+    "YahooFinanceSymbol": "2617.TW"
+  },
+  {
+    "StockCode": "2618",
+    "StockName": "長榮航",
+    "YahooFinanceSymbol": "2618.TW"
+  },
+  {
+    "StockCode": "2630",
+    "StockName": "亞航",
+    "YahooFinanceSymbol": "2630.TW"
+  },
+  {
+    "StockCode": "2633",
+    "StockName": "台灣高鐵",
+    "YahooFinanceSymbol": "2633.TW"
+  },
+  {
+    "StockCode": "2634",
+    "StockName": "漢翔",
+    "YahooFinanceSymbol": "2634.TW"
+  },
+  {
+    "StockCode": "2636",
+    "StockName": "台驊控股",
+    "YahooFinanceSymbol": "2636.TW"
+  },
+  {
+    "StockCode": "2637",
+    "StockName": "慧洋-KY",
+    "YahooFinanceSymbol": "2637.TW"
+  },
+  {
+    "StockCode": "2642",
+    "StockName": "宅配通",
+    "YahooFinanceSymbol": "2642.TW"
+  },
+  {
+    "StockCode": "2645",
+    "StockName": "長榮航太",
+    "YahooFinanceSymbol": "2645.TW"
+  },
+  {
+    "StockCode": "2701",
+    "StockName": "萬企",
+    "YahooFinanceSymbol": "2701.TW"
+  },
+  {
+    "StockCode": "2702",
+    "StockName": "華園",
+    "YahooFinanceSymbol": "2702.TW"
+  },
+  {
+    "StockCode": "2704",
+    "StockName": "國賓",
+    "YahooFinanceSymbol": "2704.TW"
+  },
+  {
+    "StockCode": "2705",
+    "StockName": "六福",
+    "YahooFinanceSymbol": "2705.TW"
+  },
+  {
+    "StockCode": "2706",
+    "StockName": "第一店",
+    "YahooFinanceSymbol": "2706.TW"
+  },
+  {
+    "StockCode": "2707",
+    "StockName": "晶華",
+    "YahooFinanceSymbol": "2707.TW"
+  },
+  {
+    "StockCode": "2712",
+    "StockName": "遠雄來",
+    "YahooFinanceSymbol": "2712.TW"
+  },
+  {
+    "StockCode": "2722",
+    "StockName": "夏都",
+    "YahooFinanceSymbol": "2722.TW"
+  },
+  {
+    "StockCode": "2723",
+    "StockName": "美食-KY",
+    "YahooFinanceSymbol": "2723.TW"
+  },
+  {
+    "StockCode": "2727",
+    "StockName": "王品",
+    "YahooFinanceSymbol": "2727.TW"
+  },
+  {
+    "StockCode": "2731",
+    "StockName": "雄獅",
+    "YahooFinanceSymbol": "2731.TW"
+  },
+  {
+    "StockCode": "2739",
+    "StockName": "寒舍",
+    "YahooFinanceSymbol": "2739.TW"
+  },
+  {
+    "StockCode": "2748",
+    "StockName": "雲品",
+    "YahooFinanceSymbol": "2748.TW"
+  },
+  {
+    "StockCode": "2753",
+    "StockName": "八方雲集",
+    "YahooFinanceSymbol": "2753.TW"
+  },
+  {
+    "StockCode": "2762",
+    "StockName": "世界健身-KY",
+    "YahooFinanceSymbol": "2762.TW"
+  },
+  {
+    "StockCode": "2801",
+    "StockName": "彰銀",
+    "YahooFinanceSymbol": "2801.TW"
+  },
+  {
+    "StockCode": "2809",
+    "StockName": "京城銀",
+    "YahooFinanceSymbol": "2809.TW"
+  },
+  {
+    "StockCode": "2812",
+    "StockName": "台中銀",
+    "YahooFinanceSymbol": "2812.TW"
+  },
+  {
+    "StockCode": "2816",
+    "StockName": "旺旺保",
+    "YahooFinanceSymbol": "2816.TW"
+  },
+  {
+    "StockCode": "2820",
+    "StockName": "華票",
+    "YahooFinanceSymbol": "2820.TW"
+  },
+  {
+    "StockCode": "2832",
+    "StockName": "台產",
+    "YahooFinanceSymbol": "2832.TW"
+  },
+  {
+    "StockCode": "2834",
+    "StockName": "臺企銀",
+    "YahooFinanceSymbol": "2834.TW"
+  },
+  {
+    "StockCode": "2836",
+    "StockName": "高雄銀",
+    "YahooFinanceSymbol": "2836.TW"
+  },
+  {
+    "StockCode": "2838",
+    "StockName": "聯邦銀",
+    "YahooFinanceSymbol": "2838.TW"
+  },
+  {
+    "StockCode": "2845",
+    "StockName": "遠東銀",
+    "YahooFinanceSymbol": "2845.TW"
+  },
+  {
+    "StockCode": "2849",
+    "StockName": "安泰銀",
+    "YahooFinanceSymbol": "2849.TW"
+  },
+  {
+    "StockCode": "2850",
+    "StockName": "新產",
+    "YahooFinanceSymbol": "2850.TW"
+  },
+  {
+    "StockCode": "2851",
+    "StockName": "中再保",
+    "YahooFinanceSymbol": "2851.TW"
+  },
+  {
+    "StockCode": "2852",
+    "StockName": "第一保",
+    "YahooFinanceSymbol": "2852.TW"
+  },
+  {
+    "StockCode": "2855",
+    "StockName": "統一證",
+    "YahooFinanceSymbol": "2855.TW"
+  },
+  {
+    "StockCode": "2867",
+    "StockName": "三商壽",
+    "YahooFinanceSymbol": "2867.TW"
+  },
+  {
+    "StockCode": "2880",
+    "StockName": "華南金",
+    "YahooFinanceSymbol": "2880.TW"
+  },
+  {
+    "StockCode": "2881",
+    "StockName": "富邦金",
+    "YahooFinanceSymbol": "2881.TW"
+  },
+  {
+    "StockCode": "2882",
+    "StockName": "國泰金",
+    "YahooFinanceSymbol": "2882.TW"
+  },
+  {
+    "StockCode": "2883",
+    "StockName": "開發金",
+    "YahooFinanceSymbol": "2883.TW"
+  },
+  {
+    "StockCode": "2884",
+    "StockName": "玉山金",
+    "YahooFinanceSymbol": "2884.TW"
+  },
+  {
+    "StockCode": "2885",
+    "StockName": "元大金",
+    "YahooFinanceSymbol": "2885.TW"
+  },
+  {
+    "StockCode": "2886",
+    "StockName": "兆豐金",
+    "YahooFinanceSymbol": "2886.TW"
+  },
+  {
+    "StockCode": "2887",
+    "StockName": "台新金",
+    "YahooFinanceSymbol": "2887.TW"
+  },
+  {
+    "StockCode": "2888",
+    "StockName": "新光金",
+    "YahooFinanceSymbol": "2888.TW"
+  },
+  {
+    "StockCode": "2889",
+    "StockName": "國票金",
+    "YahooFinanceSymbol": "2889.TW"
+  },
+  {
+    "StockCode": "2890",
+    "StockName": "永豐金",
+    "YahooFinanceSymbol": "2890.TW"
+  },
+  {
+    "StockCode": "2891",
+    "StockName": "中信金",
+    "YahooFinanceSymbol": "2891.TW"
+  },
+  {
+    "StockCode": "2892",
+    "StockName": "第一金",
+    "YahooFinanceSymbol": "2892.TW"
+  },
+  {
+    "StockCode": "2897",
+    "StockName": "王道銀行",
+    "YahooFinanceSymbol": "2897.TW"
+  },
+  {
+    "StockCode": "2901",
+    "StockName": "欣欣",
+    "YahooFinanceSymbol": "2901.TW"
+  },
+  {
+    "StockCode": "2903",
+    "StockName": "遠百",
+    "YahooFinanceSymbol": "2903.TW"
+  },
+  {
+    "StockCode": "2904",
+    "StockName": "匯僑",
+    "YahooFinanceSymbol": "2904.TW"
+  },
+  {
+    "StockCode": "2905",
+    "StockName": "三商",
+    "YahooFinanceSymbol": "2905.TW"
+  },
+  {
+    "StockCode": "2906",
+    "StockName": "高林",
+    "YahooFinanceSymbol": "2906.TW"
+  },
+  {
+    "StockCode": "2908",
+    "StockName": "特力",
+    "YahooFinanceSymbol": "2908.TW"
+  },
+  {
+    "StockCode": "2910",
+    "StockName": "統領",
+    "YahooFinanceSymbol": "2910.TW"
+  },
+  {
+    "StockCode": "2911",
+    "StockName": "麗嬰房",
+    "YahooFinanceSymbol": "2911.TW"
+  },
+  {
+    "StockCode": "2912",
+    "StockName": "統一超",
+    "YahooFinanceSymbol": "2912.TW"
+  },
+  {
+    "StockCode": "2913",
+    "StockName": "農林",
+    "YahooFinanceSymbol": "2913.TW"
+  },
+  {
+    "StockCode": "2915",
+    "StockName": "潤泰全",
+    "YahooFinanceSymbol": "2915.TW"
+  },
+  {
+    "StockCode": "2923",
+    "StockName": "鼎固-KY",
+    "YahooFinanceSymbol": "2923.TW"
+  },
+  {
+    "StockCode": "2929",
+    "StockName": "淘帝-KY",
+    "YahooFinanceSymbol": "2929.TW"
+  },
+  {
+    "StockCode": "2939",
+    "StockName": "永邑-KY",
+    "YahooFinanceSymbol": "2939.TW"
+  },
+  {
+    "StockCode": "2945",
+    "StockName": "三商家購",
+    "YahooFinanceSymbol": "2945.TW"
+  },
+  {
+    "StockCode": "3002",
+    "StockName": "歐格",
+    "YahooFinanceSymbol": "3002.TW"
+  },
+  {
+    "StockCode": "3003",
+    "StockName": "健和興",
+    "YahooFinanceSymbol": "3003.TW"
+  },
+  {
+    "StockCode": "3004",
+    "StockName": "豐達科",
+    "YahooFinanceSymbol": "3004.TW"
+  },
+  {
+    "StockCode": "3005",
+    "StockName": "神基",
+    "YahooFinanceSymbol": "3005.TW"
+  },
+  {
+    "StockCode": "3006",
+    "StockName": "晶豪科",
+    "YahooFinanceSymbol": "3006.TW"
+  },
+  {
+    "StockCode": "3008",
+    "StockName": "大立光",
+    "YahooFinanceSymbol": "3008.TW"
+  },
+  {
+    "StockCode": "3010",
+    "StockName": "華立",
+    "YahooFinanceSymbol": "3010.TW"
+  },
+  {
+    "StockCode": "3011",
+    "StockName": "今皓",
+    "YahooFinanceSymbol": "3011.TW"
+  },
+  {
+    "StockCode": "3013",
+    "StockName": "晟銘電",
+    "YahooFinanceSymbol": "3013.TW"
+  },
+  {
+    "StockCode": "3014",
+    "StockName": "聯陽",
+    "YahooFinanceSymbol": "3014.TW"
+  },
+  {
+    "StockCode": "3015",
+    "StockName": "全漢",
+    "YahooFinanceSymbol": "3015.TW"
+  },
+  {
+    "StockCode": "3016",
+    "StockName": "嘉晶",
+    "YahooFinanceSymbol": "3016.TW"
+  },
+  {
+    "StockCode": "3017",
+    "StockName": "奇鋐",
+    "YahooFinanceSymbol": "3017.TW"
+  },
+  {
+    "StockCode": "3018",
+    "StockName": "隆銘綠能",
+    "YahooFinanceSymbol": "3018.TW"
+  },
+  {
+    "StockCode": "3019",
+    "StockName": "亞光",
+    "YahooFinanceSymbol": "3019.TW"
+  },
+  {
+    "StockCode": "3021",
+    "StockName": "鴻名",
+    "YahooFinanceSymbol": "3021.TW"
+  },
+  {
+    "StockCode": "3022",
+    "StockName": "威強電",
+    "YahooFinanceSymbol": "3022.TW"
+  },
+  {
+    "StockCode": "3023",
+    "StockName": "信邦",
+    "YahooFinanceSymbol": "3023.TW"
+  },
+  {
+    "StockCode": "3024",
+    "StockName": "憶聲",
+    "YahooFinanceSymbol": "3024.TW"
+  },
+  {
+    "StockCode": "3025",
+    "StockName": "星通",
+    "YahooFinanceSymbol": "3025.TW"
+  },
+  {
+    "StockCode": "3026",
+    "StockName": "禾伸堂",
+    "YahooFinanceSymbol": "3026.TW"
+  },
+  {
+    "StockCode": "3027",
+    "StockName": "盛達",
+    "YahooFinanceSymbol": "3027.TW"
+  },
+  {
+    "StockCode": "3028",
+    "StockName": "增你強",
+    "YahooFinanceSymbol": "3028.TW"
+  },
+  {
+    "StockCode": "3029",
+    "StockName": "零壹",
+    "YahooFinanceSymbol": "3029.TW"
+  },
+  {
+    "StockCode": "3030",
+    "StockName": "德律",
+    "YahooFinanceSymbol": "3030.TW"
+  },
+  {
+    "StockCode": "3031",
+    "StockName": "佰鴻",
+    "YahooFinanceSymbol": "3031.TW"
+  },
+  {
+    "StockCode": "3032",
+    "StockName": "偉訓",
+    "YahooFinanceSymbol": "3032.TW"
+  },
+  {
+    "StockCode": "3033",
+    "StockName": "威健",
+    "YahooFinanceSymbol": "3033.TW"
+  },
+  {
+    "StockCode": "3034",
+    "StockName": "聯詠",
+    "YahooFinanceSymbol": "3034.TW"
+  },
+  {
+    "StockCode": "3035",
+    "StockName": "智原",
+    "YahooFinanceSymbol": "3035.TW"
+  },
+  {
+    "StockCode": "3036",
+    "StockName": "文曄",
+    "YahooFinanceSymbol": "3036.TW"
+  },
+  {
+    "StockCode": "3037",
+    "StockName": "欣興",
+    "YahooFinanceSymbol": "3037.TW"
+  },
+  {
+    "StockCode": "3038",
+    "StockName": "全台",
+    "YahooFinanceSymbol": "3038.TW"
+  },
+  {
+    "StockCode": "3040",
+    "StockName": "遠見",
+    "YahooFinanceSymbol": "3040.TW"
+  },
+  {
+    "StockCode": "3041",
+    "StockName": "揚智",
+    "YahooFinanceSymbol": "3041.TW"
+  },
+  {
+    "StockCode": "3042",
+    "StockName": "晶技",
+    "YahooFinanceSymbol": "3042.TW"
+  },
+  {
+    "StockCode": "3043",
+    "StockName": "科風",
+    "YahooFinanceSymbol": "3043.TW"
+  },
+  {
+    "StockCode": "3044",
+    "StockName": "健鼎",
+    "YahooFinanceSymbol": "3044.TW"
+  },
+  {
+    "StockCode": "3045",
+    "StockName": "台灣大",
+    "YahooFinanceSymbol": "3045.TW"
+  },
+  {
+    "StockCode": "3046",
+    "StockName": "建碁",
+    "YahooFinanceSymbol": "3046.TW"
+  },
+  {
+    "StockCode": "3047",
+    "StockName": "訊舟",
+    "YahooFinanceSymbol": "3047.TW"
+  },
+  {
+    "StockCode": "3048",
+    "StockName": "益登",
+    "YahooFinanceSymbol": "3048.TW"
+  },
+  {
+    "StockCode": "3049",
+    "StockName": "精金",
+    "YahooFinanceSymbol": "3049.TW"
+  },
+  {
+    "StockCode": "3050",
+    "StockName": "鈺德",
+    "YahooFinanceSymbol": "3050.TW"
+  },
+  {
+    "StockCode": "3051",
+    "StockName": "力特",
+    "YahooFinanceSymbol": "3051.TW"
+  },
+  {
+    "StockCode": "3052",
+    "StockName": "夆典",
+    "YahooFinanceSymbol": "3052.TW"
+  },
+  {
+    "StockCode": "3054",
+    "StockName": "立萬利",
+    "YahooFinanceSymbol": "3054.TW"
+  },
+  {
+    "StockCode": "3055",
+    "StockName": "蔚華科",
+    "YahooFinanceSymbol": "3055.TW"
+  },
+  {
+    "StockCode": "3056",
+    "StockName": "富華新",
+    "YahooFinanceSymbol": "3056.TW"
+  },
+  {
+    "StockCode": "3057",
+    "StockName": "喬鼎",
+    "YahooFinanceSymbol": "3057.TW"
+  },
+  {
+    "StockCode": "3058",
+    "StockName": "立德",
+    "YahooFinanceSymbol": "3058.TW"
+  },
+  {
+    "StockCode": "3059",
+    "StockName": "華晶科",
+    "YahooFinanceSymbol": "3059.TW"
+  },
+  {
+    "StockCode": "3060",
+    "StockName": "銘異",
+    "YahooFinanceSymbol": "3060.TW"
+  },
+  {
+    "StockCode": "3062",
+    "StockName": "建漢",
+    "YahooFinanceSymbol": "3062.TW"
+  },
+  {
+    "StockCode": "3090",
+    "StockName": "日電貿",
+    "YahooFinanceSymbol": "3090.TW"
+  },
+  {
+    "StockCode": "3092",
+    "StockName": "鴻碩",
+    "YahooFinanceSymbol": "3092.TW"
+  },
+  {
+    "StockCode": "3094",
+    "StockName": "聯傑",
+    "YahooFinanceSymbol": "3094.TW"
+  },
+  {
+    "StockCode": "3130",
+    "StockName": "一零四",
+    "YahooFinanceSymbol": "3130.TW"
+  },
+  {
+    "StockCode": "3138",
+    "StockName": "耀登",
+    "YahooFinanceSymbol": "3138.TW"
+  },
+  {
+    "StockCode": "3149",
+    "StockName": "正達",
+    "YahooFinanceSymbol": "3149.TW"
+  },
+  {
+    "StockCode": "3164",
+    "StockName": "景岳",
+    "YahooFinanceSymbol": "3164.TW"
+  },
+  {
+    "StockCode": "3167",
+    "StockName": "大量",
+    "YahooFinanceSymbol": "3167.TW"
+  },
+  {
+    "StockCode": "3168",
+    "StockName": "眾福科",
+    "YahooFinanceSymbol": "3168.TW"
+  },
+  {
+    "StockCode": "3189",
+    "StockName": "景碩",
+    "YahooFinanceSymbol": "3189.TW"
+  },
+  {
+    "StockCode": "3209",
+    "StockName": "全科",
+    "YahooFinanceSymbol": "3209.TW"
+  },
+  {
+    "StockCode": "3229",
+    "StockName": "晟鈦",
+    "YahooFinanceSymbol": "3229.TW"
+  },
+  {
+    "StockCode": "3231",
+    "StockName": "緯創",
+    "YahooFinanceSymbol": "3231.TW"
+  },
+  {
+    "StockCode": "3257",
+    "StockName": "虹冠電",
+    "YahooFinanceSymbol": "3257.TW"
+  },
+  {
+    "StockCode": "3266",
+    "StockName": "昇陽",
+    "YahooFinanceSymbol": "3266.TW"
+  },
+  {
+    "StockCode": "3296",
+    "StockName": "勝德",
+    "YahooFinanceSymbol": "3296.TW"
+  },
+  {
+    "StockCode": "3305",
+    "StockName": "昇貿",
+    "YahooFinanceSymbol": "3305.TW"
+  },
+  {
+    "StockCode": "3308",
+    "StockName": "聯德",
+    "YahooFinanceSymbol": "3308.TW"
+  },
+  {
+    "StockCode": "3311",
+    "StockName": "閎暉",
+    "YahooFinanceSymbol": "3311.TW"
+  },
+  {
+    "StockCode": "3312",
+    "StockName": "弘憶股",
+    "YahooFinanceSymbol": "3312.TW"
+  },
+  {
+    "StockCode": "3321",
+    "StockName": "同泰",
+    "YahooFinanceSymbol": "3321.TW"
+  },
+  {
+    "StockCode": "3338",
+    "StockName": "泰碩",
+    "YahooFinanceSymbol": "3338.TW"
+  },
+  {
+    "StockCode": "3346",
+    "StockName": "麗清",
+    "YahooFinanceSymbol": "3346.TW"
+  },
+  {
+    "StockCode": "3356",
+    "StockName": "奇偶",
+    "YahooFinanceSymbol": "3356.TW"
+  },
+  {
+    "StockCode": "3376",
+    "StockName": "新日興",
+    "YahooFinanceSymbol": "3376.TW"
+  },
+  {
+    "StockCode": "3380",
+    "StockName": "明泰",
+    "YahooFinanceSymbol": "3380.TW"
+  },
+  {
+    "StockCode": "3406",
+    "StockName": "玉晶光",
+    "YahooFinanceSymbol": "3406.TW"
+  },
+  {
+    "StockCode": "3413",
+    "StockName": "京鼎",
+    "YahooFinanceSymbol": "3413.TW"
+  },
+  {
+    "StockCode": "3416",
+    "StockName": "融程電",
+    "YahooFinanceSymbol": "3416.TW"
+  },
+  {
+    "StockCode": "3419",
+    "StockName": "譁裕",
+    "YahooFinanceSymbol": "3419.TW"
+  },
+  {
+    "StockCode": "3432",
+    "StockName": "台端",
+    "YahooFinanceSymbol": "3432.TW"
+  },
+  {
+    "StockCode": "3437",
+    "StockName": "榮創",
+    "YahooFinanceSymbol": "3437.TW"
+  },
+  {
+    "StockCode": "3443",
+    "StockName": "創意",
+    "YahooFinanceSymbol": "3443.TW"
+  },
+  {
+    "StockCode": "3447",
+    "StockName": "展達",
+    "YahooFinanceSymbol": "3447.TW"
+  },
+  {
+    "StockCode": "3450",
+    "StockName": "聯鈞",
+    "YahooFinanceSymbol": "3450.TW"
+  },
+  {
+    "StockCode": "3454",
+    "StockName": "晶睿",
+    "YahooFinanceSymbol": "3454.TW"
+  },
+  {
+    "StockCode": "3481",
+    "StockName": "群創",
+    "YahooFinanceSymbol": "3481.TW"
+  },
+  {
+    "StockCode": "3494",
+    "StockName": "誠研",
+    "YahooFinanceSymbol": "3494.TW"
+  },
+  {
+    "StockCode": "3501",
+    "StockName": "維熹",
+    "YahooFinanceSymbol": "3501.TW"
+  },
+  {
+    "StockCode": "3504",
+    "StockName": "揚明光",
+    "YahooFinanceSymbol": "3504.TW"
+  },
+  {
+    "StockCode": "3515",
+    "StockName": "華擎",
+    "YahooFinanceSymbol": "3515.TW"
+  },
+  {
+    "StockCode": "3518",
+    "StockName": "柏騰",
+    "YahooFinanceSymbol": "3518.TW"
+  },
+  {
+    "StockCode": "3528",
+    "StockName": "安馳",
+    "YahooFinanceSymbol": "3528.TW"
+  },
+  {
+    "StockCode": "3530",
+    "StockName": "晶相光",
+    "YahooFinanceSymbol": "3530.TW"
+  },
+  {
+    "StockCode": "3532",
+    "StockName": "台勝科",
+    "YahooFinanceSymbol": "3532.TW"
+  },
+  {
+    "StockCode": "3533",
+    "StockName": "嘉澤",
+    "YahooFinanceSymbol": "3533.TW"
+  },
+  {
+    "StockCode": "3535",
+    "StockName": "晶彩科",
+    "YahooFinanceSymbol": "3535.TW"
+  },
+  {
+    "StockCode": "3543",
+    "StockName": "州巧",
+    "YahooFinanceSymbol": "3543.TW"
+  },
+  {
+    "StockCode": "3545",
+    "StockName": "敦泰",
+    "YahooFinanceSymbol": "3545.TW"
+  },
+  {
+    "StockCode": "3550",
+    "StockName": "聯穎",
+    "YahooFinanceSymbol": "3550.TW"
+  },
+  {
+    "StockCode": "3557",
+    "StockName": "嘉威",
+    "YahooFinanceSymbol": "3557.TW"
+  },
+  {
+    "StockCode": "3563",
+    "StockName": "牧德",
+    "YahooFinanceSymbol": "3563.TW"
+  },
+  {
+    "StockCode": "3576",
+    "StockName": "聯合再生",
+    "YahooFinanceSymbol": "3576.TW"
+  },
+  {
+    "StockCode": "3583",
+    "StockName": "辛耘",
+    "YahooFinanceSymbol": "3583.TW"
+  },
+  {
+    "StockCode": "3588",
+    "StockName": "通嘉",
+    "YahooFinanceSymbol": "3588.TW"
+  },
+  {
+    "StockCode": "3591",
+    "StockName": "艾笛森",
+    "YahooFinanceSymbol": "3591.TW"
+  },
+  {
+    "StockCode": "3592",
+    "StockName": "瑞鼎",
+    "YahooFinanceSymbol": "3592.TW"
+  },
+  {
+    "StockCode": "3593",
+    "StockName": "力銘",
+    "YahooFinanceSymbol": "3593.TW"
+  },
+  {
+    "StockCode": "3596",
+    "StockName": "智易",
+    "YahooFinanceSymbol": "3596.TW"
+  },
+  {
+    "StockCode": "3605",
+    "StockName": "宏致",
+    "YahooFinanceSymbol": "3605.TW"
+  },
+  {
+    "StockCode": "3607",
+    "StockName": "谷崧",
+    "YahooFinanceSymbol": "3607.TW"
+  },
+  {
+    "StockCode": "3617",
+    "StockName": "碩天",
+    "YahooFinanceSymbol": "3617.TW"
+  },
+  {
+    "StockCode": "3622",
+    "StockName": "洋華",
+    "YahooFinanceSymbol": "3622.TW"
+  },
+  {
+    "StockCode": "3645",
+    "StockName": "達邁",
+    "YahooFinanceSymbol": "3645.TW"
+  },
+  {
+    "StockCode": "3652",
+    "StockName": "精聯",
+    "YahooFinanceSymbol": "3652.TW"
+  },
+  {
+    "StockCode": "3653",
+    "StockName": "健策",
+    "YahooFinanceSymbol": "3653.TW"
+  },
+  {
+    "StockCode": "3661",
+    "StockName": "世芯-KY",
+    "YahooFinanceSymbol": "3661.TW"
+  },
+  {
+    "StockCode": "3665",
+    "StockName": "貿聯-KY",
+    "YahooFinanceSymbol": "3665.TW"
+  },
+  {
+    "StockCode": "3669",
+    "StockName": "圓展",
+    "YahooFinanceSymbol": "3669.TW"
+  },
+  {
+    "StockCode": "3673",
+    "StockName": "TPK-KY",
+    "YahooFinanceSymbol": "3673.TW"
+  },
+  {
+    "StockCode": "3679",
+    "StockName": "新至陞",
+    "YahooFinanceSymbol": "3679.TW"
+  },
+  {
+    "StockCode": "3686",
+    "StockName": "達能",
+    "YahooFinanceSymbol": "3686.TW"
+  },
+  {
+    "StockCode": "3694",
+    "StockName": "海華",
+    "YahooFinanceSymbol": "3694.TW"
+  },
+  {
+    "StockCode": "3701",
+    "StockName": "大眾控",
+    "YahooFinanceSymbol": "3701.TW"
+  },
+  {
+    "StockCode": "3702",
+    "StockName": "大聯大",
+    "YahooFinanceSymbol": "3702.TW"
+  },
+  {
+    "StockCode": "3703",
+    "StockName": "欣陸",
+    "YahooFinanceSymbol": "3703.TW"
+  },
+  {
+    "StockCode": "3704",
+    "StockName": "合勤控",
+    "YahooFinanceSymbol": "3704.TW"
+  },
+  {
+    "StockCode": "3705",
+    "StockName": "永信",
+    "YahooFinanceSymbol": "3705.TW"
+  },
+  {
+    "StockCode": "3706",
+    "StockName": "神達",
+    "YahooFinanceSymbol": "3706.TW"
+  },
+  {
+    "StockCode": "3708",
+    "StockName": "上緯投控",
+    "YahooFinanceSymbol": "3708.TW"
+  },
+  {
+    "StockCode": "3711",
+    "StockName": "日月光投控",
+    "YahooFinanceSymbol": "3711.TW"
+  },
+  {
+    "StockCode": "3712",
+    "StockName": "永崴投控",
+    "YahooFinanceSymbol": "3712.TW"
+  },
+  {
+    "StockCode": "3714",
+    "StockName": "富采",
+    "YahooFinanceSymbol": "3714.TW"
+  },
+  {
+    "StockCode": "3715",
+    "StockName": "定穎投控",
+    "YahooFinanceSymbol": "3715.TW"
+  },
+  {
+    "StockCode": "3716",
+    "StockName": "中化控股",
+    "YahooFinanceSymbol": "3716.TW"
+  },
+  {
+    "StockCode": "4104",
+    "StockName": "佳醫",
+    "YahooFinanceSymbol": "4104.TW"
+  },
+  {
+    "StockCode": "4106",
+    "StockName": "雃博",
+    "YahooFinanceSymbol": "4106.TW"
+  },
+  {
+    "StockCode": "4108",
+    "StockName": "懷特",
+    "YahooFinanceSymbol": "4108.TW"
+  },
+  {
+    "StockCode": "4119",
+    "StockName": "旭富",
+    "YahooFinanceSymbol": "4119.TW"
+  },
+  {
+    "StockCode": "4133",
+    "StockName": "亞諾法",
+    "YahooFinanceSymbol": "4133.TW"
+  },
+  {
+    "StockCode": "4137",
+    "StockName": "麗豐-KY",
+    "YahooFinanceSymbol": "4137.TW"
+  },
+  {
+    "StockCode": "4142",
+    "StockName": "國光生",
+    "YahooFinanceSymbol": "4142.TW"
+  },
+  {
+    "StockCode": "4155",
+    "StockName": "訊映",
+    "YahooFinanceSymbol": "4155.TW"
+  },
+  {
+    "StockCode": "4164",
+    "StockName": "承業醫",
+    "YahooFinanceSymbol": "4164.TW"
+  },
+  {
+    "StockCode": "4190",
+    "StockName": "佐登-KY",
+    "YahooFinanceSymbol": "4190.TW"
+  },
+  {
+    "StockCode": "4306",
+    "StockName": "炎洲",
+    "YahooFinanceSymbol": "4306.TW"
+  },
+  {
+    "StockCode": "4414",
+    "StockName": "如興",
+    "YahooFinanceSymbol": "4414.TW"
+  },
+  {
+    "StockCode": "4426",
+    "StockName": "利勤",
+    "YahooFinanceSymbol": "4426.TW"
+  },
+  {
+    "StockCode": "4438",
+    "StockName": "廣越",
+    "YahooFinanceSymbol": "4438.TW"
+  },
+  {
+    "StockCode": "4439",
+    "StockName": "冠星-KY",
+    "YahooFinanceSymbol": "4439.TW"
+  },
+  {
+    "StockCode": "4440",
+    "StockName": "宜新實業",
+    "YahooFinanceSymbol": "4440.TW"
+  },
+  {
+    "StockCode": "4526",
+    "StockName": "東台",
+    "YahooFinanceSymbol": "4526.TW"
+  },
+  {
+    "StockCode": "4532",
+    "StockName": "瑞智",
+    "YahooFinanceSymbol": "4532.TW"
+  },
+  {
+    "StockCode": "4536",
+    "StockName": "拓凱",
+    "YahooFinanceSymbol": "4536.TW"
+  },
+  {
+    "StockCode": "4540",
+    "StockName": "全球傳動",
+    "YahooFinanceSymbol": "4540.TW"
+  },
+  {
+    "StockCode": "4545",
+    "StockName": "銘鈺",
+    "YahooFinanceSymbol": "4545.TW"
+  },
+  {
+    "StockCode": "4551",
+    "StockName": "智伸科",
+    "YahooFinanceSymbol": "4551.TW"
+  },
+  {
+    "StockCode": "4552",
+    "StockName": "力達-KY",
+    "YahooFinanceSymbol": "4552.TW"
+  },
+  {
+    "StockCode": "4555",
+    "StockName": "氣立",
+    "YahooFinanceSymbol": "4555.TW"
+  },
+  {
+    "StockCode": "4557",
+    "StockName": "永新-KY",
+    "YahooFinanceSymbol": "4557.TW"
+  },
+  {
+    "StockCode": "4560",
+    "StockName": "強信-KY",
+    "YahooFinanceSymbol": "4560.TW"
+  },
+  {
+    "StockCode": "4562",
+    "StockName": "穎漢",
+    "YahooFinanceSymbol": "4562.TW"
+  },
+  {
+    "StockCode": "4564",
+    "StockName": "元翎",
+    "YahooFinanceSymbol": "4564.TW"
+  },
+  {
+    "StockCode": "4566",
+    "StockName": "時碩工業",
+    "YahooFinanceSymbol": "4566.TW"
+  },
+  {
+    "StockCode": "4569",
+    "StockName": "六方科-KY",
+    "YahooFinanceSymbol": "4569.TW"
+  },
+  {
+    "StockCode": "4571",
+    "StockName": "鈞興-KY",
+    "YahooFinanceSymbol": "4571.TW"
+  },
+  {
+    "StockCode": "4572",
+    "StockName": "駐龍",
+    "YahooFinanceSymbol": "4572.TW"
+  },
+  {
+    "StockCode": "4576",
+    "StockName": "大銀微系統",
+    "YahooFinanceSymbol": "4576.TW"
+  },
+  {
+    "StockCode": "4581",
+    "StockName": "光隆精密-KY",
+    "YahooFinanceSymbol": "4581.TW"
+  },
+  {
+    "StockCode": "4583",
+    "StockName": "台灣精銳",
+    "YahooFinanceSymbol": "4583.TW"
+  },
+  {
+    "StockCode": "4588",
+    "StockName": "玖鼎電力",
+    "YahooFinanceSymbol": "4588.TW"
+  },
+  {
+    "StockCode": "4720",
+    "StockName": "德淵",
+    "YahooFinanceSymbol": "4720.TW"
+  },
+  {
+    "StockCode": "4722",
+    "StockName": "國精化",
+    "YahooFinanceSymbol": "4722.TW"
+  },
+  {
+    "StockCode": "4736",
+    "StockName": "泰博",
+    "YahooFinanceSymbol": "4736.TW"
+  },
+  {
+    "StockCode": "4737",
+    "StockName": "華廣",
+    "YahooFinanceSymbol": "4737.TW"
+  },
+  {
+    "StockCode": "4739",
+    "StockName": "康普",
+    "YahooFinanceSymbol": "4739.TW"
+  },
+  {
+    "StockCode": "4746",
+    "StockName": "台耀",
+    "YahooFinanceSymbol": "4746.TW"
+  },
+  {
+    "StockCode": "4755",
+    "StockName": "三福化",
+    "YahooFinanceSymbol": "4755.TW"
+  },
+  {
+    "StockCode": "4763",
+    "StockName": "材料-KY",
+    "YahooFinanceSymbol": "4763.TW"
+  },
+  {
+    "StockCode": "4764",
+    "StockName": "雙鍵",
+    "YahooFinanceSymbol": "4764.TW"
+  },
+  {
+    "StockCode": "4766",
+    "StockName": "南寶",
+    "YahooFinanceSymbol": "4766.TW"
+  },
+  {
+    "StockCode": "4770",
+    "StockName": "上品",
+    "YahooFinanceSymbol": "4770.TW"
+  },
+  {
+    "StockCode": "4771",
+    "StockName": "望隼",
+    "YahooFinanceSymbol": "4771.TW"
+  },
+  {
+    "StockCode": "4807",
+    "StockName": "日成-KY",
+    "YahooFinanceSymbol": "4807.TW"
+  },
+  {
+    "StockCode": "4904",
+    "StockName": "遠傳",
+    "YahooFinanceSymbol": "4904.TW"
+  },
+  {
+    "StockCode": "4906",
+    "StockName": "正文",
+    "YahooFinanceSymbol": "4906.TW"
+  },
+  {
+    "StockCode": "4912",
+    "StockName": "聯德控股-KY",
+    "YahooFinanceSymbol": "4912.TW"
+  },
+  {
+    "StockCode": "4915",
+    "StockName": "致伸",
+    "YahooFinanceSymbol": "4915.TW"
+  },
+  {
+    "StockCode": "4916",
+    "StockName": "事欣科",
+    "YahooFinanceSymbol": "4916.TW"
+  },
+  {
+    "StockCode": "4919",
+    "StockName": "新唐",
+    "YahooFinanceSymbol": "4919.TW"
+  },
+  {
+    "StockCode": "4927",
+    "StockName": "泰鼎-KY",
+    "YahooFinanceSymbol": "4927.TW"
+  },
+  {
+    "StockCode": "4930",
+    "StockName": "燦星網",
+    "YahooFinanceSymbol": "4930.TW"
+  },
+  {
+    "StockCode": "4934",
+    "StockName": "太極",
+    "YahooFinanceSymbol": "4934.TW"
+  },
+  {
+    "StockCode": "4935",
+    "StockName": "茂林-KY",
+    "YahooFinanceSymbol": "4935.TW"
+  },
+  {
+    "StockCode": "4938",
+    "StockName": "和碩",
+    "YahooFinanceSymbol": "4938.TW"
+  },
+  {
+    "StockCode": "4942",
+    "StockName": "嘉彰",
+    "YahooFinanceSymbol": "4942.TW"
+  },
+  {
+    "StockCode": "4943",
+    "StockName": "康控-KY",
+    "YahooFinanceSymbol": "4943.TW"
+  },
+  {
+    "StockCode": "4949",
+    "StockName": "有成精密",
+    "YahooFinanceSymbol": "4949.TW"
+  },
+  {
+    "StockCode": "4952",
+    "StockName": "凌通",
+    "YahooFinanceSymbol": "4952.TW"
+  },
+  {
+    "StockCode": "4956",
+    "StockName": "光鋐",
+    "YahooFinanceSymbol": "4956.TW"
+  },
+  {
+    "StockCode": "4958",
+    "StockName": "臻鼎-KY",
+    "YahooFinanceSymbol": "4958.TW"
+  },
+  {
+    "StockCode": "4960",
+    "StockName": "誠美材",
+    "YahooFinanceSymbol": "4960.TW"
+  },
+  {
+    "StockCode": "4961",
+    "StockName": "天鈺",
+    "YahooFinanceSymbol": "4961.TW"
+  },
+  {
+    "StockCode": "4967",
+    "StockName": "十銓",
+    "YahooFinanceSymbol": "4967.TW"
+  },
+  {
+    "StockCode": "4968",
+    "StockName": "立積",
+    "YahooFinanceSymbol": "4968.TW"
+  },
+  {
+    "StockCode": "4976",
+    "StockName": "佳凌",
+    "YahooFinanceSymbol": "4976.TW"
+  },
+  {
+    "StockCode": "4977",
+    "StockName": "眾達-KY",
+    "YahooFinanceSymbol": "4977.TW"
+  },
+  {
+    "StockCode": "4989",
+    "StockName": "榮科",
+    "YahooFinanceSymbol": "4989.TW"
+  },
+  {
+    "StockCode": "4994",
+    "StockName": "傳奇",
+    "YahooFinanceSymbol": "4994.TW"
+  },
+  {
+    "StockCode": "4999",
+    "StockName": "鑫禾",
+    "YahooFinanceSymbol": "4999.TW"
+  },
+  {
+    "StockCode": "5007",
+    "StockName": "三星",
+    "YahooFinanceSymbol": "5007.TW"
+  },
+  {
+    "StockCode": "5203",
+    "StockName": "訊連",
+    "YahooFinanceSymbol": "5203.TW"
+  },
+  {
+    "StockCode": "5215",
+    "StockName": "科嘉-KY",
+    "YahooFinanceSymbol": "5215.TW"
+  },
+  {
+    "StockCode": "5222",
+    "StockName": "全訊",
+    "YahooFinanceSymbol": "5222.TW"
+  },
+  {
+    "StockCode": "5225",
+    "StockName": "東科-KY",
+    "YahooFinanceSymbol": "5225.TW"
+  },
+  {
+    "StockCode": "5234",
+    "StockName": "達興材料",
+    "YahooFinanceSymbol": "5234.TW"
+  },
+  {
+    "StockCode": "5243",
+    "StockName": "乙盛-KY",
+    "YahooFinanceSymbol": "5243.TW"
+  },
+  {
+    "StockCode": "5244",
+    "StockName": "弘凱",
+    "YahooFinanceSymbol": "5244.TW"
+  },
+  {
+    "StockCode": "5258",
+    "StockName": "虹堡",
+    "YahooFinanceSymbol": "5258.TW"
+  },
+  {
+    "StockCode": "5269",
+    "StockName": "祥碩",
+    "YahooFinanceSymbol": "5269.TW"
+  },
+  {
+    "StockCode": "5283",
+    "StockName": "禾聯碩",
+    "YahooFinanceSymbol": "5283.TW"
+  },
+  {
+    "StockCode": "5284",
+    "StockName": "jpp-KY",
+    "YahooFinanceSymbol": "5284.TW"
+  },
+  {
+    "StockCode": "5285",
+    "StockName": "界霖",
+    "YahooFinanceSymbol": "5285.TW"
+  },
+  {
+    "StockCode": "5288",
+    "StockName": "豐祥-KY",
+    "YahooFinanceSymbol": "5288.TW"
+  },
+  {
+    "StockCode": "5292",
+    "StockName": "華懋",
+    "YahooFinanceSymbol": "5292.TW"
+  },
+  {
+    "StockCode": "5306",
+    "StockName": "桂盟",
+    "YahooFinanceSymbol": "5306.TW"
+  },
+  {
+    "StockCode": "5388",
+    "StockName": "中磊",
+    "YahooFinanceSymbol": "5388.TW"
+  },
+  {
+    "StockCode": "5434",
+    "StockName": "崇越",
+    "YahooFinanceSymbol": "5434.TW"
+  },
+  {
+    "StockCode": "5469",
+    "StockName": "瀚宇博",
+    "YahooFinanceSymbol": "5469.TW"
+  },
+  {
+    "StockCode": "5471",
+    "StockName": "松翰",
+    "YahooFinanceSymbol": "5471.TW"
+  },
+  {
+    "StockCode": "5484",
+    "StockName": "慧友",
+    "YahooFinanceSymbol": "5484.TW"
+  },
+  {
+    "StockCode": "5515",
+    "StockName": "建國",
+    "YahooFinanceSymbol": "5515.TW"
+  },
+  {
+    "StockCode": "5519",
+    "StockName": "隆大",
+    "YahooFinanceSymbol": "5519.TW"
+  },
+  {
+    "StockCode": "5521",
+    "StockName": "工信",
+    "YahooFinanceSymbol": "5521.TW"
+  },
+  {
+    "StockCode": "5522",
+    "StockName": "遠雄",
+    "YahooFinanceSymbol": "5522.TW"
+  },
+  {
+    "StockCode": "5525",
+    "StockName": "順天",
+    "YahooFinanceSymbol": "5525.TW"
+  },
+  {
+    "StockCode": "5531",
+    "StockName": "鄉林",
+    "YahooFinanceSymbol": "5531.TW"
+  },
+  {
+    "StockCode": "5533",
+    "StockName": "皇鼎",
+    "YahooFinanceSymbol": "5533.TW"
+  },
+  {
+    "StockCode": "5534",
+    "StockName": "長虹",
+    "YahooFinanceSymbol": "5534.TW"
+  },
+  {
+    "StockCode": "5538",
+    "StockName": "東明-KY",
+    "YahooFinanceSymbol": "5538.TW"
+  },
+  {
+    "StockCode": "5546",
+    "StockName": "永固-KY",
+    "YahooFinanceSymbol": "5546.TW"
+  },
+  {
+    "StockCode": "5607",
+    "StockName": "遠雄港",
+    "YahooFinanceSymbol": "5607.TW"
+  },
+  {
+    "StockCode": "5608",
+    "StockName": "四維航",
+    "YahooFinanceSymbol": "5608.TW"
+  },
+  {
+    "StockCode": "5706",
+    "StockName": "鳳凰",
+    "YahooFinanceSymbol": "5706.TW"
+  },
+  {
+    "StockCode": "5871",
+    "StockName": "中租-KY",
+    "YahooFinanceSymbol": "5871.TW"
+  },
+  {
+    "StockCode": "5876",
+    "StockName": "上海商銀",
+    "YahooFinanceSymbol": "5876.TW"
+  },
+  {
+    "StockCode": "5880",
+    "StockName": "合庫金",
+    "YahooFinanceSymbol": "5880.TW"
+  },
+  {
+    "StockCode": "5906",
+    "StockName": "台南-KY",
+    "YahooFinanceSymbol": "5906.TW"
+  },
+  {
+    "StockCode": "5907",
+    "StockName": "大洋-KY",
+    "YahooFinanceSymbol": "5907.TW"
+  },
+  {
+    "StockCode": "6005",
+    "StockName": "群益證",
+    "YahooFinanceSymbol": "6005.TW"
+  },
+  {
+    "StockCode": "6024",
+    "StockName": "群益期",
+    "YahooFinanceSymbol": "6024.TW"
+  },
+  {
+    "StockCode": "6108",
+    "StockName": "競國",
+    "YahooFinanceSymbol": "6108.TW"
+  },
+  {
+    "StockCode": "6112",
+    "StockName": "邁達特",
+    "YahooFinanceSymbol": "6112.TW"
+  },
+  {
+    "StockCode": "6115",
+    "StockName": "鎰勝",
+    "YahooFinanceSymbol": "6115.TW"
+  },
+  {
+    "StockCode": "6116",
+    "StockName": "彩晶",
+    "YahooFinanceSymbol": "6116.TW"
+  },
+  {
+    "StockCode": "6117",
+    "StockName": "迎廣",
+    "YahooFinanceSymbol": "6117.TW"
+  },
+  {
+    "StockCode": "6120",
+    "StockName": "達運",
+    "YahooFinanceSymbol": "6120.TW"
+  },
+  {
+    "StockCode": "6128",
+    "StockName": "上福",
+    "YahooFinanceSymbol": "6128.TW"
+  },
+  {
+    "StockCode": "6133",
+    "StockName": "金橋",
+    "YahooFinanceSymbol": "6133.TW"
+  },
+  {
+    "StockCode": "6136",
+    "StockName": "富爾特",
+    "YahooFinanceSymbol": "6136.TW"
+  },
+  {
+    "StockCode": "6139",
+    "StockName": "亞翔",
+    "YahooFinanceSymbol": "6139.TW"
+  },
+  {
+    "StockCode": "6141",
+    "StockName": "柏承",
+    "YahooFinanceSymbol": "6141.TW"
+  },
+  {
+    "StockCode": "6142",
+    "StockName": "友勁",
+    "YahooFinanceSymbol": "6142.TW"
+  },
+  {
+    "StockCode": "6152",
+    "StockName": "百一",
+    "YahooFinanceSymbol": "6152.TW"
+  },
+  {
+    "StockCode": "6153",
+    "StockName": "嘉聯益",
+    "YahooFinanceSymbol": "6153.TW"
+  },
+  {
+    "StockCode": "6155",
+    "StockName": "鈞寶",
+    "YahooFinanceSymbol": "6155.TW"
+  },
+  {
+    "StockCode": "6164",
+    "StockName": "華興",
+    "YahooFinanceSymbol": "6164.TW"
+  },
+  {
+    "StockCode": "6165",
+    "StockName": "浪凡",
+    "YahooFinanceSymbol": "6165.TW"
+  },
+  {
+    "StockCode": "6166",
+    "StockName": "凌華",
+    "YahooFinanceSymbol": "6166.TW"
+  },
+  {
+    "StockCode": "6168",
+    "StockName": "宏齊",
+    "YahooFinanceSymbol": "6168.TW"
+  },
+  {
+    "StockCode": "6176",
+    "StockName": "瑞儀",
+    "YahooFinanceSymbol": "6176.TW"
+  },
+  {
+    "StockCode": "6177",
+    "StockName": "達麗",
+    "YahooFinanceSymbol": "6177.TW"
+  },
+  {
+    "StockCode": "6183",
+    "StockName": "關貿",
+    "YahooFinanceSymbol": "6183.TW"
+  },
+  {
+    "StockCode": "6184",
+    "StockName": "大豐電",
+    "YahooFinanceSymbol": "6184.TW"
+  },
+  {
+    "StockCode": "6189",
+    "StockName": "豐藝",
+    "YahooFinanceSymbol": "6189.TW"
+  },
+  {
+    "StockCode": "6191",
+    "StockName": "精成科",
+    "YahooFinanceSymbol": "6191.TW"
+  },
+  {
+    "StockCode": "6192",
+    "StockName": "巨路",
+    "YahooFinanceSymbol": "6192.TW"
+  },
+  {
+    "StockCode": "6196",
+    "StockName": "帆宣",
+    "YahooFinanceSymbol": "6196.TW"
+  },
+  {
+    "StockCode": "6197",
+    "StockName": "佳必琪",
+    "YahooFinanceSymbol": "6197.TW"
+  },
+  {
+    "StockCode": "6201",
+    "StockName": "亞弘電",
+    "YahooFinanceSymbol": "6201.TW"
+  },
+  {
+    "StockCode": "6202",
+    "StockName": "盛群",
+    "YahooFinanceSymbol": "6202.TW"
+  },
+  {
+    "StockCode": "6205",
+    "StockName": "詮欣",
+    "YahooFinanceSymbol": "6205.TW"
+  },
+  {
+    "StockCode": "6206",
+    "StockName": "飛捷",
+    "YahooFinanceSymbol": "6206.TW"
+  },
+  {
+    "StockCode": "6209",
+    "StockName": "今國光",
+    "YahooFinanceSymbol": "6209.TW"
+  },
+  {
+    "StockCode": "6213",
+    "StockName": "聯茂",
+    "YahooFinanceSymbol": "6213.TW"
+  },
+  {
+    "StockCode": "6214",
+    "StockName": "精誠",
+    "YahooFinanceSymbol": "6214.TW"
+  },
+  {
+    "StockCode": "6215",
+    "StockName": "和椿",
+    "YahooFinanceSymbol": "6215.TW"
+  },
+  {
+    "StockCode": "6216",
+    "StockName": "居易",
+    "YahooFinanceSymbol": "6216.TW"
+  },
+  {
+    "StockCode": "6224",
+    "StockName": "聚鼎",
+    "YahooFinanceSymbol": "6224.TW"
+  },
+  {
+    "StockCode": "6225",
+    "StockName": "天瀚",
+    "YahooFinanceSymbol": "6225.TW"
+  },
+  {
+    "StockCode": "6226",
+    "StockName": "光鼎",
+    "YahooFinanceSymbol": "6226.TW"
+  },
+  {
+    "StockCode": "6230",
+    "StockName": "尼得科超眾",
+    "YahooFinanceSymbol": "6230.TW"
+  },
+  {
+    "StockCode": "6235",
+    "StockName": "華孚",
+    "YahooFinanceSymbol": "6235.TW"
+  },
+  {
+    "StockCode": "6239",
+    "StockName": "力成",
+    "YahooFinanceSymbol": "6239.TW"
+  },
+  {
+    "StockCode": "6243",
+    "StockName": "迅杰",
+    "YahooFinanceSymbol": "6243.TW"
+  },
+  {
+    "StockCode": "6257",
+    "StockName": "矽格",
+    "YahooFinanceSymbol": "6257.TW"
+  },
+  {
+    "StockCode": "6269",
+    "StockName": "台郡",
+    "YahooFinanceSymbol": "6269.TW"
+  },
+  {
+    "StockCode": "6271",
+    "StockName": "同欣電",
+    "YahooFinanceSymbol": "6271.TW"
+  },
+  {
+    "StockCode": "6277",
+    "StockName": "宏正",
+    "YahooFinanceSymbol": "6277.TW"
+  },
+  {
+    "StockCode": "6278",
+    "StockName": "台表科",
+    "YahooFinanceSymbol": "6278.TW"
+  },
+  {
+    "StockCode": "6281",
+    "StockName": "全國電",
+    "YahooFinanceSymbol": "6281.TW"
+  },
+  {
+    "StockCode": "6282",
+    "StockName": "康舒",
+    "YahooFinanceSymbol": "6282.TW"
+  },
+  {
+    "StockCode": "6283",
+    "StockName": "淳安",
+    "YahooFinanceSymbol": "6283.TW"
+  },
+  {
+    "StockCode": "6285",
+    "StockName": "啟碁",
+    "YahooFinanceSymbol": "6285.TW"
+  },
+  {
+    "StockCode": "6288",
+    "StockName": "聯嘉",
+    "YahooFinanceSymbol": "6288.TW"
+  },
+  {
+    "StockCode": "6405",
+    "StockName": "悅城",
+    "YahooFinanceSymbol": "6405.TW"
+  },
+  {
+    "StockCode": "6409",
+    "StockName": "旭隼",
+    "YahooFinanceSymbol": "6409.TW"
+  },
+  {
+    "StockCode": "6412",
+    "StockName": "群電",
+    "YahooFinanceSymbol": "6412.TW"
+  },
+  {
+    "StockCode": "6414",
+    "StockName": "樺漢",
+    "YahooFinanceSymbol": "6414.TW"
+  },
+  {
+    "StockCode": "6415",
+    "StockName": "矽力*-KY",
+    "YahooFinanceSymbol": "6415.TW"
+  },
+  {
+    "StockCode": "6416",
+    "StockName": "瑞祺電通",
+    "YahooFinanceSymbol": "6416.TW"
+  },
+  {
+    "StockCode": "6426",
+    "StockName": "統新",
+    "YahooFinanceSymbol": "6426.TW"
+  },
+  {
+    "StockCode": "6431",
+    "StockName": "光麗-KY",
+    "YahooFinanceSymbol": "6431.TW"
+  },
+  {
+    "StockCode": "6438",
+    "StockName": "迅得",
+    "YahooFinanceSymbol": "6438.TW"
+  },
+  {
+    "StockCode": "6442",
+    "StockName": "光聖",
+    "YahooFinanceSymbol": "6442.TW"
+  },
+  {
+    "StockCode": "6443",
+    "StockName": "元晶",
+    "YahooFinanceSymbol": "6443.TW"
+  },
+  {
+    "StockCode": "6446",
+    "StockName": "藥華藥",
+    "YahooFinanceSymbol": "6446.TW"
+  },
+  {
+    "StockCode": "6449",
+    "StockName": "鈺邦",
+    "YahooFinanceSymbol": "6449.TW"
+  },
+  {
+    "StockCode": "6451",
+    "StockName": "訊芯-KY",
+    "YahooFinanceSymbol": "6451.TW"
+  },
+  {
+    "StockCode": "6456",
+    "StockName": "GIS-KY",
+    "YahooFinanceSymbol": "6456.TW"
+  },
+  {
+    "StockCode": "6464",
+    "StockName": "台數科",
+    "YahooFinanceSymbol": "6464.TW"
+  },
+  {
+    "StockCode": "6472",
+    "StockName": "保瑞",
+    "YahooFinanceSymbol": "6472.TW"
+  },
+  {
+    "StockCode": "6477",
+    "StockName": "安集",
+    "YahooFinanceSymbol": "6477.TW"
+  },
+  {
+    "StockCode": "6491",
+    "StockName": "晶碩",
+    "YahooFinanceSymbol": "6491.TW"
+  },
+  {
+    "StockCode": "6504",
+    "StockName": "南六",
+    "YahooFinanceSymbol": "6504.TW"
+  },
+  {
+    "StockCode": "6505",
+    "StockName": "台塑化",
+    "YahooFinanceSymbol": "6505.TW"
+  },
+  {
+    "StockCode": "6515",
+    "StockName": "穎崴",
+    "YahooFinanceSymbol": "6515.TW"
+  },
+  {
+    "StockCode": "6525",
+    "StockName": "捷敏-KY",
+    "YahooFinanceSymbol": "6525.TW"
+  },
+  {
+    "StockCode": "6526",
+    "StockName": "達發",
+    "YahooFinanceSymbol": "6526.TW"
+  },
+  {
+    "StockCode": "6531",
+    "StockName": "愛普*",
+    "YahooFinanceSymbol": "6531.TW"
+  },
+  {
+    "StockCode": "6533",
+    "StockName": "晶心科",
+    "YahooFinanceSymbol": "6533.TW"
+  },
+  {
+    "StockCode": "6541",
+    "StockName": "泰福-KY",
+    "YahooFinanceSymbol": "6541.TW"
+  },
+  {
+    "StockCode": "6550",
+    "StockName": "北極星藥業-KY",
+    "YahooFinanceSymbol": "6550.TW"
+  },
+  {
+    "StockCode": "6552",
+    "StockName": "易華電",
+    "YahooFinanceSymbol": "6552.TW"
+  },
+  {
+    "StockCode": "6558",
+    "StockName": "興能高",
+    "YahooFinanceSymbol": "6558.TW"
+  },
+  {
+    "StockCode": "6573",
+    "StockName": "虹揚-KY",
+    "YahooFinanceSymbol": "6573.TW"
+  },
+  {
+    "StockCode": "6579",
+    "StockName": "研揚",
+    "YahooFinanceSymbol": "6579.TW"
+  },
+  {
+    "StockCode": "6581",
+    "StockName": "鋼聯",
+    "YahooFinanceSymbol": "6581.TW"
+  },
+  {
+    "StockCode": "6582",
+    "StockName": "申豐",
+    "YahooFinanceSymbol": "6582.TW"
+  },
+  {
+    "StockCode": "6585",
+    "StockName": "鼎基",
+    "YahooFinanceSymbol": "6585.TW"
+  },
+  {
+    "StockCode": "6591",
+    "StockName": "動力-KY",
+    "YahooFinanceSymbol": "6591.TW"
+  },
+  {
+    "StockCode": "6592",
+    "StockName": "和潤企業",
+    "YahooFinanceSymbol": "6592.TW"
+  },
+  {
+    "StockCode": "6598",
+    "StockName": "ABC-KY",
+    "YahooFinanceSymbol": "6598.TW"
+  },
+  {
+    "StockCode": "6605",
+    "StockName": "帝寶",
+    "YahooFinanceSymbol": "6605.TW"
+  },
+  {
+    "StockCode": "6606",
+    "StockName": "建德工業",
+    "YahooFinanceSymbol": "6606.TW"
+  },
+  {
+    "StockCode": "6625",
+    "StockName": "必應",
+    "YahooFinanceSymbol": "6625.TW"
+  },
+  {
+    "StockCode": "6641",
+    "StockName": "基士德-KY",
+    "YahooFinanceSymbol": "6641.TW"
+  },
+  {
+    "StockCode": "6655",
+    "StockName": "科定",
+    "YahooFinanceSymbol": "6655.TW"
+  },
+  {
+    "StockCode": "6657",
+    "StockName": "華安",
+    "YahooFinanceSymbol": "6657.TW"
+  },
+  {
+    "StockCode": "6658",
+    "StockName": "聯策",
+    "YahooFinanceSymbol": "6658.TW"
+  },
+  {
+    "StockCode": "6666",
+    "StockName": "羅麗芬-KY",
+    "YahooFinanceSymbol": "6666.TW"
+  },
+  {
+    "StockCode": "6668",
+    "StockName": "中揚光",
+    "YahooFinanceSymbol": "6668.TW"
+  },
+  {
+    "StockCode": "6669",
+    "StockName": "緯穎",
+    "YahooFinanceSymbol": "6669.TW"
+  },
+  {
+    "StockCode": "6670",
+    "StockName": "復盛應用",
+    "YahooFinanceSymbol": "6670.TW"
+  },
+  {
+    "StockCode": "6671",
+    "StockName": "三能-KY",
+    "YahooFinanceSymbol": "6671.TW"
+  },
+  {
+    "StockCode": "6672",
+    "StockName": "騰輝電子-KY",
+    "YahooFinanceSymbol": "6672.TW"
+  },
+  {
+    "StockCode": "6674",
+    "StockName": "鋐寶科技",
+    "YahooFinanceSymbol": "6674.TW"
+  },
+  {
+    "StockCode": "6689",
+    "StockName": "伊雲谷",
+    "YahooFinanceSymbol": "6689.TW"
+  },
+  {
+    "StockCode": "6691",
+    "StockName": "洋基工程",
+    "YahooFinanceSymbol": "6691.TW"
+  },
+  {
+    "StockCode": "6695",
+    "StockName": "芯鼎",
+    "YahooFinanceSymbol": "6695.TW"
+  },
+  {
+    "StockCode": "6698",
+    "StockName": "旭暉應材",
+    "YahooFinanceSymbol": "6698.TW"
+  },
+  {
+    "StockCode": "6706",
+    "StockName": "惠特",
+    "YahooFinanceSymbol": "6706.TW"
+  },
+  {
+    "StockCode": "6715",
+    "StockName": "嘉基",
+    "YahooFinanceSymbol": "6715.TW"
+  },
+  {
+    "StockCode": "6719",
+    "StockName": "力智",
+    "YahooFinanceSymbol": "6719.TW"
+  },
+  {
+    "StockCode": "6742",
+    "StockName": "澤米",
+    "YahooFinanceSymbol": "6742.TW"
+  },
+  {
+    "StockCode": "6743",
+    "StockName": "安普新",
+    "YahooFinanceSymbol": "6743.TW"
+  },
+  {
+    "StockCode": "6753",
+    "StockName": "龍德造船",
+    "YahooFinanceSymbol": "6753.TW"
+  },
+  {
+    "StockCode": "6754",
+    "StockName": "匯僑設計",
+    "YahooFinanceSymbol": "6754.TW"
+  },
+  {
+    "StockCode": "6756",
+    "StockName": "威鋒電子",
+    "YahooFinanceSymbol": "6756.TW"
+  },
+  {
+    "StockCode": "6768",
+    "StockName": "志強-KY",
+    "YahooFinanceSymbol": "6768.TW"
+  },
+  {
+    "StockCode": "6770",
+    "StockName": "力積電",
+    "YahooFinanceSymbol": "6770.TW"
+  },
+  {
+    "StockCode": "6776",
+    "StockName": "展碁國際",
+    "YahooFinanceSymbol": "6776.TW"
+  },
+  {
+    "StockCode": "6781",
+    "StockName": "AES-KY",
+    "YahooFinanceSymbol": "6781.TW"
+  },
+  {
+    "StockCode": "6782",
+    "StockName": "視陽",
+    "YahooFinanceSymbol": "6782.TW"
+  },
+  {
+    "StockCode": "6789",
+    "StockName": "采鈺",
+    "YahooFinanceSymbol": "6789.TW"
+  },
+  {
+    "StockCode": "6790",
+    "StockName": "永豐實",
+    "YahooFinanceSymbol": "6790.TW"
+  },
+  {
+    "StockCode": "6792",
+    "StockName": "詠業",
+    "YahooFinanceSymbol": "6792.TW"
+  },
+  {
+    "StockCode": "6796",
+    "StockName": "晉弘",
+    "YahooFinanceSymbol": "6796.TW"
+  },
+  {
+    "StockCode": "6799",
+    "StockName": "來頡",
+    "YahooFinanceSymbol": "6799.TW"
+  },
+  {
+    "StockCode": "6805",
+    "StockName": "富世達",
+    "YahooFinanceSymbol": "6805.TW"
+  },
+  {
+    "StockCode": "6806",
+    "StockName": "森崴能源",
+    "YahooFinanceSymbol": "6806.TW"
+  },
+  {
+    "StockCode": "6807",
+    "StockName": "峰源-KY",
+    "YahooFinanceSymbol": "6807.TW"
+  },
+  {
+    "StockCode": "6830",
+    "StockName": "汎銓",
+    "YahooFinanceSymbol": "6830.TW"
+  },
+  {
+    "StockCode": "6834",
+    "StockName": "天二科技",
+    "YahooFinanceSymbol": "6834.TW"
+  },
+  {
+    "StockCode": "6835",
+    "StockName": "圓裕",
+    "YahooFinanceSymbol": "6835.TW"
+  },
+  {
+    "StockCode": "6838",
+    "StockName": "台新藥",
+    "YahooFinanceSymbol": "6838.TW"
+  },
+  {
+    "StockCode": "6861",
+    "StockName": "睿生光電",
+    "YahooFinanceSymbol": "6861.TW"
+  },
+  {
+    "StockCode": "6863",
+    "StockName": "永道-KY",
+    "YahooFinanceSymbol": "6863.TW"
+  },
+  {
+    "StockCode": "6869",
+    "StockName": "雲豹能源",
+    "YahooFinanceSymbol": "6869.TW"
+  },
+  {
+    "StockCode": "6873",
+    "StockName": "泓德能源",
+    "YahooFinanceSymbol": "6873.TW"
+  },
+  {
+    "StockCode": "6890",
+    "StockName": "來億-KY",
+    "YahooFinanceSymbol": "6890.TW"
+  },
+  {
+    "StockCode": "6901",
+    "StockName": "鑽石投資",
+    "YahooFinanceSymbol": "6901.TW"
+  },
+  {
+    "StockCode": "6906",
+    "StockName": "現觀科",
+    "YahooFinanceSymbol": "6906.TW"
+  },
+  {
+    "StockCode": "6914",
+    "StockName": "阜爾運通",
+    "YahooFinanceSymbol": "6914.TW"
+  },
+  {
+    "StockCode": "6916",
+    "StockName": "華凌",
+    "YahooFinanceSymbol": "6916.TW"
+  },
+  {
+    "StockCode": "6923",
+    "StockName": "中台",
+    "YahooFinanceSymbol": "6923.TW"
+  },
+  {
+    "StockCode": "6928",
+    "StockName": "攸泰科技",
+    "YahooFinanceSymbol": "6928.TW"
+  },
+  {
+    "StockCode": "6933",
+    "StockName": "AMAX-KY",
+    "YahooFinanceSymbol": "6933.TW"
+  },
+  {
+    "StockCode": "6937",
+    "StockName": "天虹",
+    "YahooFinanceSymbol": "6937.TW"
+  },
+  {
+    "StockCode": "6952",
+    "StockName": "大武山",
+    "YahooFinanceSymbol": "6952.TW"
+  },
+  {
+    "StockCode": "6957",
+    "StockName": "裕慶-KY",
+    "YahooFinanceSymbol": "6957.TW"
+  },
+  {
+    "StockCode": "6958",
+    "StockName": "日盛台駿",
+    "YahooFinanceSymbol": "6958.TW"
+  },
+  {
+    "StockCode": "8011",
+    "StockName": "台通",
+    "YahooFinanceSymbol": "8011.TW"
+  },
+  {
+    "StockCode": "8016",
+    "StockName": "矽創",
+    "YahooFinanceSymbol": "8016.TW"
+  },
+  {
+    "StockCode": "8021",
+    "StockName": "尖點",
+    "YahooFinanceSymbol": "8021.TW"
+  },
+  {
+    "StockCode": "8028",
+    "StockName": "昇陽半導體",
+    "YahooFinanceSymbol": "8028.TW"
+  },
+  {
+    "StockCode": "8033",
+    "StockName": "雷虎",
+    "YahooFinanceSymbol": "8033.TW"
+  },
+  {
+    "StockCode": "8039",
+    "StockName": "台虹",
+    "YahooFinanceSymbol": "8039.TW"
+  },
+  {
+    "StockCode": "8046",
+    "StockName": "南電",
+    "YahooFinanceSymbol": "8046.TW"
+  },
+  {
+    "StockCode": "8070",
+    "StockName": "長華*",
+    "YahooFinanceSymbol": "8070.TW"
+  },
+  {
+    "StockCode": "8072",
+    "StockName": "陞泰",
+    "YahooFinanceSymbol": "8072.TW"
+  },
+  {
+    "StockCode": "8081",
+    "StockName": "致新",
+    "YahooFinanceSymbol": "8081.TW"
+  },
+  {
+    "StockCode": "8101",
+    "StockName": "華冠",
+    "YahooFinanceSymbol": "8101.TW"
+  },
+  {
+    "StockCode": "8103",
+    "StockName": "瀚荃",
+    "YahooFinanceSymbol": "8103.TW"
+  },
+  {
+    "StockCode": "8104",
+    "StockName": "錸寶",
+    "YahooFinanceSymbol": "8104.TW"
+  },
+  {
+    "StockCode": "8105",
+    "StockName": "凌巨",
+    "YahooFinanceSymbol": "8105.TW"
+  },
+  {
+    "StockCode": "8110",
+    "StockName": "華東",
+    "YahooFinanceSymbol": "8110.TW"
+  },
+  {
+    "StockCode": "8112",
+    "StockName": "至上",
+    "YahooFinanceSymbol": "8112.TW"
+  },
+  {
+    "StockCode": "8114",
+    "StockName": "振樺電",
+    "YahooFinanceSymbol": "8114.TW"
+  },
+  {
+    "StockCode": "8131",
+    "StockName": "福懋科",
+    "YahooFinanceSymbol": "8131.TW"
+  },
+  {
+    "StockCode": "8150",
+    "StockName": "南茂",
+    "YahooFinanceSymbol": "8150.TW"
+  },
+  {
+    "StockCode": "8163",
+    "StockName": "達方",
+    "YahooFinanceSymbol": "8163.TW"
+  },
+  {
+    "StockCode": "8201",
+    "StockName": "無敵",
+    "YahooFinanceSymbol": "8201.TW"
+  },
+  {
+    "StockCode": "8210",
+    "StockName": "勤誠",
+    "YahooFinanceSymbol": "8210.TW"
+  },
+  {
+    "StockCode": "8213",
+    "StockName": "志超",
+    "YahooFinanceSymbol": "8213.TW"
+  },
+  {
+    "StockCode": "8215",
+    "StockName": "明基材",
+    "YahooFinanceSymbol": "8215.TW"
+  },
+  {
+    "StockCode": "8222",
+    "StockName": "寶一",
+    "YahooFinanceSymbol": "8222.TW"
+  },
+  {
+    "StockCode": "8249",
+    "StockName": "菱光",
+    "YahooFinanceSymbol": "8249.TW"
+  },
+  {
+    "StockCode": "8261",
+    "StockName": "富鼎",
+    "YahooFinanceSymbol": "8261.TW"
+  },
+  {
+    "StockCode": "8271",
+    "StockName": "宇瞻",
+    "YahooFinanceSymbol": "8271.TW"
+  },
+  {
+    "StockCode": "8341",
+    "StockName": "日友",
+    "YahooFinanceSymbol": "8341.TW"
+  },
+  {
+    "StockCode": "8367",
+    "StockName": "建新國際",
+    "YahooFinanceSymbol": "8367.TW"
+  },
+  {
+    "StockCode": "8374",
+    "StockName": "羅昇",
+    "YahooFinanceSymbol": "8374.TW"
+  },
+  {
+    "StockCode": "8404",
+    "StockName": "百和興業-KY",
+    "YahooFinanceSymbol": "8404.TW"
+  },
+  {
+    "StockCode": "8411",
+    "StockName": "福貞-KY",
+    "YahooFinanceSymbol": "8411.TW"
+  },
+  {
+    "StockCode": "8422",
+    "StockName": "可寧衛",
+    "YahooFinanceSymbol": "8422.TW"
+  },
+  {
+    "StockCode": "8429",
+    "StockName": "金麗-KY",
+    "YahooFinanceSymbol": "8429.TW"
+  },
+  {
+    "StockCode": "8438",
+    "StockName": "昶昕",
+    "YahooFinanceSymbol": "8438.TW"
+  },
+  {
+    "StockCode": "8442",
+    "StockName": "威宏-KY",
+    "YahooFinanceSymbol": "8442.TW"
+  },
+  {
+    "StockCode": "8443",
+    "StockName": "阿瘦",
+    "YahooFinanceSymbol": "8443.TW"
+  },
+  {
+    "StockCode": "8454",
+    "StockName": "富邦媒",
+    "YahooFinanceSymbol": "8454.TW"
+  },
+  {
+    "StockCode": "8462",
+    "StockName": "柏文",
+    "YahooFinanceSymbol": "8462.TW"
+  },
+  {
+    "StockCode": "8463",
+    "StockName": "潤泰材",
+    "YahooFinanceSymbol": "8463.TW"
+  },
+  {
+    "StockCode": "8464",
+    "StockName": "億豐",
+    "YahooFinanceSymbol": "8464.TW"
+  },
+  {
+    "StockCode": "8466",
+    "StockName": "美吉吉-KY",
+    "YahooFinanceSymbol": "8466.TW"
+  },
+  {
+    "StockCode": "8467",
+    "StockName": "波力-KY",
+    "YahooFinanceSymbol": "8467.TW"
+  },
+  {
+    "StockCode": "8473",
+    "StockName": "山林水",
+    "YahooFinanceSymbol": "8473.TW"
+  },
+  {
+    "StockCode": "8476",
+    "StockName": "台境",
+    "YahooFinanceSymbol": "8476.TW"
+  },
+  {
+    "StockCode": "8478",
+    "StockName": "東哥遊艇",
+    "YahooFinanceSymbol": "8478.TW"
+  },
+  {
+    "StockCode": "8481",
+    "StockName": "政伸",
+    "YahooFinanceSymbol": "8481.TW"
+  },
+  {
+    "StockCode": "8482",
+    "StockName": "商億-KY",
+    "YahooFinanceSymbol": "8482.TW"
+  },
+  {
+    "StockCode": "8488",
+    "StockName": "吉源-KY",
+    "YahooFinanceSymbol": "8488.TW"
+  },
+  {
+    "StockCode": "8499",
+    "StockName": "鼎炫-KY",
+    "YahooFinanceSymbol": "8499.TW"
+  },
+  {
+    "StockCode": "8926",
+    "StockName": "台汽電",
+    "YahooFinanceSymbol": "8926.TW"
+  },
+  {
+    "StockCode": "8940",
+    "StockName": "新天地",
+    "YahooFinanceSymbol": "8940.TW"
+  },
+  {
+    "StockCode": "8996",
+    "StockName": "高力",
+    "YahooFinanceSymbol": "8996.TW"
+  },
+  {
+    "StockCode": "9802",
+    "StockName": "鈺齊-KY",
+    "YahooFinanceSymbol": "9802.TW"
+  },
+  {
+    "StockCode": "9902",
+    "StockName": "台火",
+    "YahooFinanceSymbol": "9902.TW"
+  },
+  {
+    "StockCode": "9904",
+    "StockName": "寶成",
+    "YahooFinanceSymbol": "9904.TW"
+  },
+  {
+    "StockCode": "9905",
+    "StockName": "大華",
+    "YahooFinanceSymbol": "9905.TW"
+  },
+  {
+    "StockCode": "9906",
+    "StockName": "欣巴巴",
+    "YahooFinanceSymbol": "9906.TW"
+  },
+  {
+    "StockCode": "9907",
+    "StockName": "統一實",
+    "YahooFinanceSymbol": "9907.TW"
+  },
+  {
+    "StockCode": "9908",
+    "StockName": "大台北",
+    "YahooFinanceSymbol": "9908.TW"
+  },
+  {
+    "StockCode": "9910",
+    "StockName": "豐泰",
+    "YahooFinanceSymbol": "9910.TW"
+  },
+  {
+    "StockCode": "9911",
+    "StockName": "櫻花",
+    "YahooFinanceSymbol": "9911.TW"
+  },
+  {
+    "StockCode": "9912",
+    "StockName": "偉聯",
+    "YahooFinanceSymbol": "9912.TW"
+  },
+  {
+    "StockCode": "9914",
+    "StockName": "美利達",
+    "YahooFinanceSymbol": "9914.TW"
+  },
+  {
+    "StockCode": "9917",
+    "StockName": "中保科",
+    "YahooFinanceSymbol": "9917.TW"
+  },
+  {
+    "StockCode": "9918",
+    "StockName": "欣天然",
+    "YahooFinanceSymbol": "9918.TW"
+  },
+  {
+    "StockCode": "9919",
+    "StockName": "康那香",
+    "YahooFinanceSymbol": "9919.TW"
+  },
+  {
+    "StockCode": "9921",
+    "StockName": "巨大",
+    "YahooFinanceSymbol": "9921.TW"
+  },
+  {
+    "StockCode": "9924",
+    "StockName": "福興",
+    "YahooFinanceSymbol": "9924.TW"
+  },
+  {
+    "StockCode": "9925",
+    "StockName": "新保",
+    "YahooFinanceSymbol": "9925.TW"
+  },
+  {
+    "StockCode": "9926",
+    "StockName": "新海",
+    "YahooFinanceSymbol": "9926.TW"
+  },
+  {
+    "StockCode": "9927",
+    "StockName": "泰銘",
+    "YahooFinanceSymbol": "9927.TW"
+  },
+  {
+    "StockCode": "9928",
+    "StockName": "中視",
+    "YahooFinanceSymbol": "9928.TW"
+  },
+  {
+    "StockCode": "9929",
+    "StockName": "秋雨",
+    "YahooFinanceSymbol": "9929.TW"
+  },
+  {
+    "StockCode": "9930",
+    "StockName": "中聯資源",
+    "YahooFinanceSymbol": "9930.TW"
+  },
+  {
+    "StockCode": "9931",
+    "StockName": "欣高",
+    "YahooFinanceSymbol": "9931.TW"
+  },
+  {
+    "StockCode": "9933",
+    "StockName": "中鼎",
+    "YahooFinanceSymbol": "9933.TW"
+  },
+  {
+    "StockCode": "9934",
+    "StockName": "成霖",
+    "YahooFinanceSymbol": "9934.TW"
+  },
+  {
+    "StockCode": "9935",
+    "StockName": "慶豐富",
+    "YahooFinanceSymbol": "9935.TW"
+  },
+  {
+    "StockCode": "9937",
+    "StockName": "全國",
+    "YahooFinanceSymbol": "9937.TW"
+  },
+  {
+    "StockCode": "9938",
+    "StockName": "百和",
+    "YahooFinanceSymbol": "9938.TW"
+  },
+  {
+    "StockCode": "9939",
+    "StockName": "宏全",
+    "YahooFinanceSymbol": "9939.TW"
+  },
+  {
+    "StockCode": "9940",
+    "StockName": "信義",
+    "YahooFinanceSymbol": "9940.TW"
+  },
+  {
+    "StockCode": "9941",
+    "StockName": "裕融",
+    "YahooFinanceSymbol": "9941.TW"
+  },
+  {
+    "StockCode": "9942",
+    "StockName": "茂順",
+    "YahooFinanceSymbol": "9942.TW"
+  },
+  {
+    "StockCode": "9943",
+    "StockName": "好樂迪",
+    "YahooFinanceSymbol": "9943.TW"
+  },
+  {
+    "StockCode": "9944",
+    "StockName": "新麗",
+    "YahooFinanceSymbol": "9944.TW"
+  },
+  {
+    "StockCode": "9945",
+    "StockName": "潤泰新",
+    "YahooFinanceSymbol": "9945.TW"
+  },
+  {
+    "StockCode": "9946",
+    "StockName": "三發地產",
+    "YahooFinanceSymbol": "9946.TW"
+  },
+  {
+    "StockCode": "9955",
+    "StockName": "佳龍",
+    "YahooFinanceSymbol": "9955.TW"
+  },
+  {
+    "StockCode": "9958",
+    "StockName": "世紀鋼",
+    "YahooFinanceSymbol": "9958.TW"
+  },
+  {
+    "StockCode": "2254",
+    "StockName": "巨鎧精密-創",
+    "YahooFinanceSymbol": "2254.TW"
+  },
+  {
+    "StockCode": "2258",
+    "StockName": "鴻華先進-創",
+    "YahooFinanceSymbol": "2258.TW"
+  },
+  {
+    "StockCode": "2432",
+    "StockName": "倚天酷碁-創",
+    "YahooFinanceSymbol": "2432.TW"
+  },
+  {
+    "StockCode": "3150",
+    "StockName": "鈺寶-創",
+    "YahooFinanceSymbol": "3150.TW"
+  },
+  {
+    "StockCode": "6423",
+    "StockName": "億而得-創",
+    "YahooFinanceSymbol": "6423.TW"
+  },
+  {
+    "StockCode": "6534",
+    "StockName": "正瀚-創",
+    "YahooFinanceSymbol": "6534.TW"
+  },
+  {
+    "StockCode": "6645",
+    "StockName": "金萬林-創",
+    "YahooFinanceSymbol": "6645.TW"
+  },
+  {
+    "StockCode": "6757",
+    "StockName": "台灣虎航-創",
+    "YahooFinanceSymbol": "6757.TW"
+  },
+  {
+    "StockCode": "6771",
+    "StockName": "平和環保-創",
+    "YahooFinanceSymbol": "6771.TW"
+  },
+  {
+    "StockCode": "6794",
+    "StockName": "向榮生技-創",
+    "YahooFinanceSymbol": "6794.TW"
+  },
+  {
+    "StockCode": "6854",
+    "StockName": "錼創科技-KY創",
+    "YahooFinanceSymbol": "6854.TW"
+  },
+  {
+    "StockCode": "6902",
+    "StockName": "走著瞧-創",
+    "YahooFinanceSymbol": "6902.TW"
+  },
+  {
+    "StockCode": "6949",
+    "StockName": "沛爾生醫-創",
+    "YahooFinanceSymbol": "6949.TW"
+  },
+  {
+    "StockCode": "6951",
+    "StockName": "青新-創",
+    "YahooFinanceSymbol": "6951.TW"
+  },
+  {
+    "StockCode": "6969",
+    "StockName": "成信實業*-創",
+    "YahooFinanceSymbol": "6969.TW"
+  },
+  {
+    "StockCode": "8162",
+    "StockName": "微矽電子-創",
+    "YahooFinanceSymbol": "8162.TW"
+  },
+  {
+    "StockCode": "8487",
+    "StockName": "愛爾達-創",
+    "YahooFinanceSymbol": "8487.TW"
+  },
+  {
+    "StockCode": "0050",
+    "StockName": "元大台灣50",
+    "YahooFinanceSymbol": "0050.TW"
+  },
+  {
+    "StockCode": "0051",
+    "StockName": "元大中型100",
+    "YahooFinanceSymbol": "0051.TW"
+  },
+  {
+    "StockCode": "0052",
+    "StockName": "富邦科技",
+    "YahooFinanceSymbol": "0052.TW"
+  },
+  {
+    "StockCode": "0053",
+    "StockName": "元大電子",
+    "YahooFinanceSymbol": "0053.TW"
+  },
+  {
+    "StockCode": "0055",
+    "StockName": "元大MSCI金融",
+    "YahooFinanceSymbol": "0055.TW"
+  },
+  {
+    "StockCode": "0056",
+    "StockName": "元大高股息",
+    "YahooFinanceSymbol": "0056.TW"
+  },
+  {
+    "StockCode": "0057",
+    "StockName": "富邦摩台",
+    "YahooFinanceSymbol": "0057.TW"
+  },
+  {
+    "StockCode": "0061",
+    "StockName": "元大寶滬深",
+    "YahooFinanceSymbol": "0061.TW"
+  },
+  {
+    "StockCode": "9103",
+    "StockName": "美德醫療-DR",
+    "YahooFinanceSymbol": "9103.TW"
+  },
+  {
+    "StockCode": "9105",
+    "StockName": "泰金寶-DR",
+    "YahooFinanceSymbol": "9105.TW"
+  },
+  {
+    "StockCode": "9110",
+    "StockName": "越南控-DR",
+    "YahooFinanceSymbol": "9110.TW"
+  },
+  {
+    "StockCode": "9136",
+    "StockName": "巨騰-DR",
+    "YahooFinanceSymbol": "9136.TW"
+  },
+  {
+    "StockCode": "1240",
+    "StockName": "茂生農經",
+    "YahooFinanceSymbol": "1240.TWO"
+  },
+  {
+    "StockCode": "1259",
+    "StockName": "安心",
+    "YahooFinanceSymbol": "1259.TWO"
+  },
+  {
+    "StockCode": "1264",
+    "StockName": "德麥",
+    "YahooFinanceSymbol": "1264.TWO"
+  },
+  {
+    "StockCode": "1268",
+    "StockName": "漢來美食",
+    "YahooFinanceSymbol": "1268.TWO"
+  },
+  {
+    "StockCode": "1294",
+    "StockName": "漢田生技",
+    "YahooFinanceSymbol": "1294.TWO"
+  },
+  {
+    "StockCode": "1336",
+    "StockName": "台翰",
+    "YahooFinanceSymbol": "1336.TWO"
+  },
+  {
+    "StockCode": "1565",
+    "StockName": "精華",
+    "YahooFinanceSymbol": "1565.TWO"
+  },
+  {
+    "StockCode": "1569",
+    "StockName": "濱川",
+    "YahooFinanceSymbol": "1569.TWO"
+  },
+  {
+    "StockCode": "1570",
+    "StockName": "力肯",
+    "YahooFinanceSymbol": "1570.TWO"
+  },
+  {
+    "StockCode": "1580",
+    "StockName": "新麥",
+    "YahooFinanceSymbol": "1580.TWO"
+  },
+  {
+    "StockCode": "1584",
+    "StockName": "精剛",
+    "YahooFinanceSymbol": "1584.TWO"
+  },
+  {
+    "StockCode": "1586",
+    "StockName": "和勤",
+    "YahooFinanceSymbol": "1586.TWO"
+  },
+  {
+    "StockCode": "1591",
+    "StockName": "駿吉-KY",
+    "YahooFinanceSymbol": "1591.TWO"
+  },
+  {
+    "StockCode": "1593",
+    "StockName": "祺驊",
+    "YahooFinanceSymbol": "1593.TWO"
+  },
+  {
+    "StockCode": "1595",
+    "StockName": "川寶",
+    "YahooFinanceSymbol": "1595.TWO"
+  },
+  {
+    "StockCode": "1599",
+    "StockName": "宏佳騰",
+    "YahooFinanceSymbol": "1599.TWO"
+  },
+  {
+    "StockCode": "1742",
+    "StockName": "台蠟",
+    "YahooFinanceSymbol": "1742.TWO"
+  },
+  {
+    "StockCode": "1777",
+    "StockName": "生泰",
+    "YahooFinanceSymbol": "1777.TWO"
+  },
+  {
+    "StockCode": "1781",
+    "StockName": "合世",
+    "YahooFinanceSymbol": "1781.TWO"
+  },
+  {
+    "StockCode": "1784",
+    "StockName": "訊聯",
+    "YahooFinanceSymbol": "1784.TWO"
+  },
+  {
+    "StockCode": "1785",
+    "StockName": "光洋科",
+    "YahooFinanceSymbol": "1785.TWO"
+  },
+  {
+    "StockCode": "1788",
+    "StockName": "杏昌",
+    "YahooFinanceSymbol": "1788.TWO"
+  },
+  {
+    "StockCode": "1796",
+    "StockName": "金穎生技",
+    "YahooFinanceSymbol": "1796.TWO"
+  },
+  {
+    "StockCode": "1799",
+    "StockName": "易威",
+    "YahooFinanceSymbol": "1799.TWO"
+  },
+  {
+    "StockCode": "1813",
+    "StockName": "寶利徠",
+    "YahooFinanceSymbol": "1813.TWO"
+  },
+  {
+    "StockCode": "1815",
+    "StockName": "富喬",
+    "YahooFinanceSymbol": "1815.TWO"
+  },
+  {
+    "StockCode": "2035",
+    "StockName": "唐榮",
+    "YahooFinanceSymbol": "2035.TWO"
+  },
+  {
+    "StockCode": "2061",
+    "StockName": "風青",
+    "YahooFinanceSymbol": "2061.TWO"
+  },
+  {
+    "StockCode": "2063",
+    "StockName": "世鎧",
+    "YahooFinanceSymbol": "2063.TWO"
+  },
+  {
+    "StockCode": "2064",
+    "StockName": "晉椿",
+    "YahooFinanceSymbol": "2064.TWO"
+  },
+  {
+    "StockCode": "2065",
+    "StockName": "世豐",
+    "YahooFinanceSymbol": "2065.TWO"
+  },
+  {
+    "StockCode": "2066",
+    "StockName": "世德",
+    "YahooFinanceSymbol": "2066.TWO"
+  },
+  {
+    "StockCode": "2067",
+    "StockName": "嘉鋼",
+    "YahooFinanceSymbol": "2067.TWO"
+  },
+  {
+    "StockCode": "2070",
+    "StockName": "精湛",
+    "YahooFinanceSymbol": "2070.TWO"
+  },
+  {
+    "StockCode": "2073",
+    "StockName": "雄順",
+    "YahooFinanceSymbol": "2073.TWO"
+  },
+  {
+    "StockCode": "2221",
+    "StockName": "大甲",
+    "YahooFinanceSymbol": "2221.TWO"
+  },
+  {
+    "StockCode": "2230",
+    "StockName": "泰茂",
+    "YahooFinanceSymbol": "2230.TWO"
+  },
+  {
+    "StockCode": "2235",
+    "StockName": "謚源",
+    "YahooFinanceSymbol": "2235.TWO"
+  },
+  {
+    "StockCode": "2596",
+    "StockName": "綠意",
+    "YahooFinanceSymbol": "2596.TWO"
+  },
+  {
+    "StockCode": "2640",
+    "StockName": "大車隊",
+    "YahooFinanceSymbol": "2640.TWO"
+  },
+  {
+    "StockCode": "2641",
+    "StockName": "正德",
+    "YahooFinanceSymbol": "2641.TWO"
+  },
+  {
+    "StockCode": "2643",
+    "StockName": "捷迅",
+    "YahooFinanceSymbol": "2643.TWO"
+  },
+  {
+    "StockCode": "2718",
+    "StockName": "晶悅",
+    "YahooFinanceSymbol": "2718.TWO"
+  },
+  {
+    "StockCode": "2719",
+    "StockName": "燦星旅",
+    "YahooFinanceSymbol": "2719.TWO"
+  },
+  {
+    "StockCode": "2724",
+    "StockName": "藝舍-KY",
+    "YahooFinanceSymbol": "2724.TWO"
+  },
+  {
+    "StockCode": "2726",
+    "StockName": "雅茗-KY",
+    "YahooFinanceSymbol": "2726.TWO"
+  },
+  {
+    "StockCode": "2729",
+    "StockName": "瓦城",
+    "YahooFinanceSymbol": "2729.TWO"
+  },
+  {
+    "StockCode": "2732",
+    "StockName": "六角",
+    "YahooFinanceSymbol": "2732.TWO"
+  },
+  {
+    "StockCode": "2734",
+    "StockName": "易飛網",
+    "YahooFinanceSymbol": "2734.TWO"
+  },
+  {
+    "StockCode": "2736",
+    "StockName": "富野",
+    "YahooFinanceSymbol": "2736.TWO"
+  },
+  {
+    "StockCode": "2740",
+    "StockName": "天蔥",
+    "YahooFinanceSymbol": "2740.TWO"
+  },
+  {
+    "StockCode": "2743",
+    "StockName": "山富",
+    "YahooFinanceSymbol": "2743.TWO"
+  },
+  {
+    "StockCode": "2745",
+    "StockName": "五福",
+    "YahooFinanceSymbol": "2745.TWO"
+  },
+  {
+    "StockCode": "2751",
+    "StockName": "王座",
+    "YahooFinanceSymbol": "2751.TWO"
+  },
+  {
+    "StockCode": "2752",
+    "StockName": "豆府",
+    "YahooFinanceSymbol": "2752.TWO"
+  },
+  {
+    "StockCode": "2754",
+    "StockName": "亞洲藏壽司",
+    "YahooFinanceSymbol": "2754.TWO"
+  },
+  {
+    "StockCode": "2755",
+    "StockName": "揚秦",
+    "YahooFinanceSymbol": "2755.TWO"
+  },
+  {
+    "StockCode": "2756",
+    "StockName": "聯發國際",
+    "YahooFinanceSymbol": "2756.TWO"
+  },
+  {
+    "StockCode": "2916",
+    "StockName": "滿心",
+    "YahooFinanceSymbol": "2916.TWO"
+  },
+  {
+    "StockCode": "2924",
+    "StockName": "宏太-KY",
+    "YahooFinanceSymbol": "2924.TWO"
+  },
+  {
+    "StockCode": "2926",
+    "StockName": "誠品生活",
+    "YahooFinanceSymbol": "2926.TWO"
+  },
+  {
+    "StockCode": "2937",
+    "StockName": "集雅社",
+    "YahooFinanceSymbol": "2937.TWO"
+  },
+  {
+    "StockCode": "2941",
+    "StockName": "米斯特",
+    "YahooFinanceSymbol": "2941.TWO"
+  },
+  {
+    "StockCode": "2947",
+    "StockName": "振宇五金",
+    "YahooFinanceSymbol": "2947.TWO"
+  },
+  {
+    "StockCode": "2948",
+    "StockName": "寶陞",
+    "YahooFinanceSymbol": "2948.TWO"
+  },
+  {
+    "StockCode": "2949",
+    "StockName": "欣新網",
+    "YahooFinanceSymbol": "2949.TWO"
+  },
+  {
+    "StockCode": "3064",
+    "StockName": "泰偉",
+    "YahooFinanceSymbol": "3064.TWO"
+  },
+  {
+    "StockCode": "3066",
+    "StockName": "李洲",
+    "YahooFinanceSymbol": "3066.TWO"
+  },
+  {
+    "StockCode": "3067",
+    "StockName": "全域",
+    "YahooFinanceSymbol": "3067.TWO"
+  },
+  {
+    "StockCode": "3071",
+    "StockName": "協禧",
+    "YahooFinanceSymbol": "3071.TWO"
+  },
+  {
+    "StockCode": "3073",
+    "StockName": "天方能源",
+    "YahooFinanceSymbol": "3073.TWO"
+  },
+  {
+    "StockCode": "3078",
+    "StockName": "僑威",
+    "YahooFinanceSymbol": "3078.TWO"
+  },
+  {
+    "StockCode": "3081",
+    "StockName": "聯亞",
+    "YahooFinanceSymbol": "3081.TWO"
+  },
+  {
+    "StockCode": "3083",
+    "StockName": "網龍",
+    "YahooFinanceSymbol": "3083.TWO"
+  },
+  {
+    "StockCode": "3085",
+    "StockName": "新零售",
+    "YahooFinanceSymbol": "3085.TWO"
+  },
+  {
+    "StockCode": "3086",
+    "StockName": "華義",
+    "YahooFinanceSymbol": "3086.TWO"
+  },
+  {
+    "StockCode": "3088",
+    "StockName": "艾訊",
+    "YahooFinanceSymbol": "3088.TWO"
+  },
+  {
+    "StockCode": "3093",
+    "StockName": "港建*",
+    "YahooFinanceSymbol": "3093.TWO"
+  },
+  {
+    "StockCode": "3095",
+    "StockName": "及成",
+    "YahooFinanceSymbol": "3095.TWO"
+  },
+  {
+    "StockCode": "3105",
+    "StockName": "穩懋",
+    "YahooFinanceSymbol": "3105.TWO"
+  },
+  {
+    "StockCode": "3114",
+    "StockName": "好德",
+    "YahooFinanceSymbol": "3114.TWO"
+  },
+  {
+    "StockCode": "3115",
+    "StockName": "富榮綱",
+    "YahooFinanceSymbol": "3115.TWO"
+  },
+  {
+    "StockCode": "3118",
+    "StockName": "進階",
+    "YahooFinanceSymbol": "3118.TWO"
+  },
+  {
+    "StockCode": "3122",
+    "StockName": "笙泉",
+    "YahooFinanceSymbol": "3122.TWO"
+  },
+  {
+    "StockCode": "3128",
+    "StockName": "昇銳",
+    "YahooFinanceSymbol": "3128.TWO"
+  },
+  {
+    "StockCode": "3131",
+    "StockName": "弘塑",
+    "YahooFinanceSymbol": "3131.TWO"
+  },
+  {
+    "StockCode": "3141",
+    "StockName": "晶宏",
+    "YahooFinanceSymbol": "3141.TWO"
+  },
+  {
+    "StockCode": "3147",
+    "StockName": "大綜",
+    "YahooFinanceSymbol": "3147.TWO"
+  },
+  {
+    "StockCode": "3152",
+    "StockName": "璟德",
+    "YahooFinanceSymbol": "3152.TWO"
+  },
+  {
+    "StockCode": "3162",
+    "StockName": "精確",
+    "YahooFinanceSymbol": "3162.TWO"
+  },
+  {
+    "StockCode": "3163",
+    "StockName": "波若威",
+    "YahooFinanceSymbol": "3163.TWO"
+  },
+  {
+    "StockCode": "3169",
+    "StockName": "亞信",
+    "YahooFinanceSymbol": "3169.TWO"
+  },
+  {
+    "StockCode": "3171",
+    "StockName": "新洲",
+    "YahooFinanceSymbol": "3171.TWO"
+  },
+  {
+    "StockCode": "3176",
+    "StockName": "基亞",
+    "YahooFinanceSymbol": "3176.TWO"
+  },
+  {
+    "StockCode": "3178",
+    "StockName": "公準",
+    "YahooFinanceSymbol": "3178.TWO"
+  },
+  {
+    "StockCode": "3188",
+    "StockName": "鑫龍騰",
+    "YahooFinanceSymbol": "3188.TWO"
+  },
+  {
+    "StockCode": "3191",
+    "StockName": "雲嘉南",
+    "YahooFinanceSymbol": "3191.TWO"
+  },
+  {
+    "StockCode": "3202",
+    "StockName": "樺晟",
+    "YahooFinanceSymbol": "3202.TWO"
+  },
+  {
+    "StockCode": "3205",
+    "StockName": "佰研",
+    "YahooFinanceSymbol": "3205.TWO"
+  },
+  {
+    "StockCode": "3206",
+    "StockName": "志豐",
+    "YahooFinanceSymbol": "3206.TWO"
+  },
+  {
+    "StockCode": "3207",
+    "StockName": "耀勝",
+    "YahooFinanceSymbol": "3207.TWO"
+  },
+  {
+    "StockCode": "3211",
+    "StockName": "順達",
+    "YahooFinanceSymbol": "3211.TWO"
+  },
+  {
+    "StockCode": "3213",
+    "StockName": "茂訊",
+    "YahooFinanceSymbol": "3213.TWO"
+  },
+  {
+    "StockCode": "3217",
+    "StockName": "優群",
+    "YahooFinanceSymbol": "3217.TWO"
+  },
+  {
+    "StockCode": "3218",
+    "StockName": "大學光",
+    "YahooFinanceSymbol": "3218.TWO"
+  },
+  {
+    "StockCode": "3219",
+    "StockName": "倚強科",
+    "YahooFinanceSymbol": "3219.TWO"
+  },
+  {
+    "StockCode": "3221",
+    "StockName": "台嘉碩",
+    "YahooFinanceSymbol": "3221.TWO"
+  },
+  {
+    "StockCode": "3224",
+    "StockName": "三顧",
+    "YahooFinanceSymbol": "3224.TWO"
+  },
+  {
+    "StockCode": "3226",
+    "StockName": "至寶電",
+    "YahooFinanceSymbol": "3226.TWO"
+  },
+  {
+    "StockCode": "3227",
+    "StockName": "原相",
+    "YahooFinanceSymbol": "3227.TWO"
+  },
+  {
+    "StockCode": "3228",
+    "StockName": "金麗科",
+    "YahooFinanceSymbol": "3228.TWO"
+  },
+  {
+    "StockCode": "3230",
+    "StockName": "錦明",
+    "YahooFinanceSymbol": "3230.TWO"
+  },
+  {
+    "StockCode": "3232",
+    "StockName": "昱捷",
+    "YahooFinanceSymbol": "3232.TWO"
+  },
+  {
+    "StockCode": "3234",
+    "StockName": "光環",
+    "YahooFinanceSymbol": "3234.TWO"
+  },
+  {
+    "StockCode": "3236",
+    "StockName": "千如",
+    "YahooFinanceSymbol": "3236.TWO"
+  },
+  {
+    "StockCode": "3252",
+    "StockName": "海灣",
+    "YahooFinanceSymbol": "3252.TWO"
+  },
+  {
+    "StockCode": "3259",
+    "StockName": "鑫創",
+    "YahooFinanceSymbol": "3259.TWO"
+  },
+  {
+    "StockCode": "3260",
+    "StockName": "威剛",
+    "YahooFinanceSymbol": "3260.TWO"
+  },
+  {
+    "StockCode": "3264",
+    "StockName": "欣銓",
+    "YahooFinanceSymbol": "3264.TWO"
+  },
+  {
+    "StockCode": "3265",
+    "StockName": "台星科",
+    "YahooFinanceSymbol": "3265.TWO"
+  },
+  {
+    "StockCode": "3268",
+    "StockName": "海德威",
+    "YahooFinanceSymbol": "3268.TWO"
+  },
+  {
+    "StockCode": "3272",
+    "StockName": "東碩",
+    "YahooFinanceSymbol": "3272.TWO"
+  },
+  {
+    "StockCode": "3276",
+    "StockName": "宇環",
+    "YahooFinanceSymbol": "3276.TWO"
+  },
+  {
+    "StockCode": "3284",
+    "StockName": "太普高",
+    "YahooFinanceSymbol": "3284.TWO"
+  },
+  {
+    "StockCode": "3285",
+    "StockName": "微端",
+    "YahooFinanceSymbol": "3285.TWO"
+  },
+  {
+    "StockCode": "3287",
+    "StockName": "廣寰科",
+    "YahooFinanceSymbol": "3287.TWO"
+  },
+  {
+    "StockCode": "3288",
+    "StockName": "點晶",
+    "YahooFinanceSymbol": "3288.TWO"
+  },
+  {
+    "StockCode": "3289",
+    "StockName": "宜特",
+    "YahooFinanceSymbol": "3289.TWO"
+  },
+  {
+    "StockCode": "3290",
+    "StockName": "東浦",
+    "YahooFinanceSymbol": "3290.TWO"
+  },
+  {
+    "StockCode": "3293",
+    "StockName": "鈊象",
+    "YahooFinanceSymbol": "3293.TWO"
+  },
+  {
+    "StockCode": "3294",
+    "StockName": "英濟",
+    "YahooFinanceSymbol": "3294.TWO"
+  },
+  {
+    "StockCode": "3297",
+    "StockName": "杭特",
+    "YahooFinanceSymbol": "3297.TWO"
+  },
+  {
+    "StockCode": "3303",
+    "StockName": "岱稜",
+    "YahooFinanceSymbol": "3303.TWO"
+  },
+  {
+    "StockCode": "3306",
+    "StockName": "鼎天",
+    "YahooFinanceSymbol": "3306.TWO"
+  },
+  {
+    "StockCode": "3310",
+    "StockName": "佳穎",
+    "YahooFinanceSymbol": "3310.TWO"
+  },
+  {
+    "StockCode": "3313",
+    "StockName": "斐成",
+    "YahooFinanceSymbol": "3313.TWO"
+  },
+  {
+    "StockCode": "3317",
+    "StockName": "尼克森",
+    "YahooFinanceSymbol": "3317.TWO"
+  },
+  {
+    "StockCode": "3322",
+    "StockName": "建舜電",
+    "YahooFinanceSymbol": "3322.TWO"
+  },
+  {
+    "StockCode": "3323",
+    "StockName": "加百裕",
+    "YahooFinanceSymbol": "3323.TWO"
+  },
+  {
+    "StockCode": "3324",
+    "StockName": "雙鴻",
+    "YahooFinanceSymbol": "3324.TWO"
+  },
+  {
+    "StockCode": "3325",
+    "StockName": "旭品",
+    "YahooFinanceSymbol": "3325.TWO"
+  },
+  {
+    "StockCode": "3332",
+    "StockName": "幸康",
+    "YahooFinanceSymbol": "3332.TWO"
+  },
+  {
+    "StockCode": "3339",
+    "StockName": "泰谷",
+    "YahooFinanceSymbol": "3339.TWO"
+  },
+  {
+    "StockCode": "3349",
+    "StockName": "寶德",
+    "YahooFinanceSymbol": "3349.TWO"
+  },
+  {
+    "StockCode": "3354",
+    "StockName": "律勝",
+    "YahooFinanceSymbol": "3354.TWO"
+  },
+  {
+    "StockCode": "3357",
+    "StockName": "臺慶科",
+    "YahooFinanceSymbol": "3357.TWO"
+  },
+  {
+    "StockCode": "3360",
+    "StockName": "尚立",
+    "YahooFinanceSymbol": "3360.TWO"
+  },
+  {
+    "StockCode": "3362",
+    "StockName": "先進光",
+    "YahooFinanceSymbol": "3362.TWO"
+  },
+  {
+    "StockCode": "3363",
+    "StockName": "上詮",
+    "YahooFinanceSymbol": "3363.TWO"
+  },
+  {
+    "StockCode": "3372",
+    "StockName": "典範",
+    "YahooFinanceSymbol": "3372.TWO"
+  },
+  {
+    "StockCode": "3373",
+    "StockName": "熱映",
+    "YahooFinanceSymbol": "3373.TWO"
+  },
+  {
+    "StockCode": "3374",
+    "StockName": "精材",
+    "YahooFinanceSymbol": "3374.TWO"
+  },
+  {
+    "StockCode": "3379",
+    "StockName": "彬台",
+    "YahooFinanceSymbol": "3379.TWO"
+  },
+  {
+    "StockCode": "3388",
+    "StockName": "崇越電",
+    "YahooFinanceSymbol": "3388.TWO"
+  },
+  {
+    "StockCode": "3390",
+    "StockName": "旭軟",
+    "YahooFinanceSymbol": "3390.TWO"
+  },
+  {
+    "StockCode": "3402",
+    "StockName": "漢科",
+    "YahooFinanceSymbol": "3402.TWO"
+  },
+  {
+    "StockCode": "3426",
+    "StockName": "台興",
+    "YahooFinanceSymbol": "3426.TWO"
+  },
+  {
+    "StockCode": "3430",
+    "StockName": "奇鈦科",
+    "YahooFinanceSymbol": "3430.TWO"
+  },
+  {
+    "StockCode": "3434",
+    "StockName": "哲固",
+    "YahooFinanceSymbol": "3434.TWO"
+  },
+  {
+    "StockCode": "3438",
+    "StockName": "類比科",
+    "YahooFinanceSymbol": "3438.TWO"
+  },
+  {
+    "StockCode": "3441",
+    "StockName": "聯一光",
+    "YahooFinanceSymbol": "3441.TWO"
+  },
+  {
+    "StockCode": "3444",
+    "StockName": "利機",
+    "YahooFinanceSymbol": "3444.TWO"
+  },
+  {
+    "StockCode": "3455",
+    "StockName": "由田",
+    "YahooFinanceSymbol": "3455.TWO"
+  },
+  {
+    "StockCode": "3465",
+    "StockName": "進泰電子",
+    "YahooFinanceSymbol": "3465.TWO"
+  },
+  {
+    "StockCode": "3466",
+    "StockName": "德晉",
+    "YahooFinanceSymbol": "3466.TWO"
+  },
+  {
+    "StockCode": "3479",
+    "StockName": "安勤",
+    "YahooFinanceSymbol": "3479.TWO"
+  },
+  {
+    "StockCode": "3483",
+    "StockName": "力致",
+    "YahooFinanceSymbol": "3483.TWO"
+  },
+  {
+    "StockCode": "3484",
+    "StockName": "崧騰",
+    "YahooFinanceSymbol": "3484.TWO"
+  },
+  {
+    "StockCode": "3489",
+    "StockName": "森寶",
+    "YahooFinanceSymbol": "3489.TWO"
+  },
+  {
+    "StockCode": "3490",
+    "StockName": "單井",
+    "YahooFinanceSymbol": "3490.TWO"
+  },
+  {
+    "StockCode": "3491",
+    "StockName": "昇達科",
+    "YahooFinanceSymbol": "3491.TWO"
+  },
+  {
+    "StockCode": "3492",
+    "StockName": "長盛",
+    "YahooFinanceSymbol": "3492.TWO"
+  },
+  {
+    "StockCode": "3498",
+    "StockName": "陽程",
+    "YahooFinanceSymbol": "3498.TWO"
+  },
+  {
+    "StockCode": "3499",
+    "StockName": "環天科",
+    "YahooFinanceSymbol": "3499.TWO"
+  },
+  {
+    "StockCode": "3508",
+    "StockName": "位速",
+    "YahooFinanceSymbol": "3508.TWO"
+  },
+  {
+    "StockCode": "3511",
+    "StockName": "矽瑪",
+    "YahooFinanceSymbol": "3511.TWO"
+  },
+  {
+    "StockCode": "3512",
+    "StockName": "皇龍",
+    "YahooFinanceSymbol": "3512.TWO"
+  },
+  {
+    "StockCode": "3516",
+    "StockName": "亞帝歐",
+    "YahooFinanceSymbol": "3516.TWO"
+  },
+  {
+    "StockCode": "3520",
+    "StockName": "華盈",
+    "YahooFinanceSymbol": "3520.TWO"
+  },
+  {
+    "StockCode": "3521",
+    "StockName": "鴻翊",
+    "YahooFinanceSymbol": "3521.TWO"
+  },
+  {
+    "StockCode": "3522",
+    "StockName": "御嵿",
+    "YahooFinanceSymbol": "3522.TWO"
+  },
+  {
+    "StockCode": "3523",
+    "StockName": "迎輝",
+    "YahooFinanceSymbol": "3523.TWO"
+  },
+  {
+    "StockCode": "3526",
+    "StockName": "凡甲",
+    "YahooFinanceSymbol": "3526.TWO"
+  },
+  {
+    "StockCode": "3527",
+    "StockName": "聚積",
+    "YahooFinanceSymbol": "3527.TWO"
+  },
+  {
+    "StockCode": "3529",
+    "StockName": "力旺",
+    "YahooFinanceSymbol": "3529.TWO"
+  },
+  {
+    "StockCode": "3531",
+    "StockName": "先益",
+    "YahooFinanceSymbol": "3531.TWO"
+  },
+  {
+    "StockCode": "3537",
+    "StockName": "堡達",
+    "YahooFinanceSymbol": "3537.TWO"
+  },
+  {
+    "StockCode": "3540",
+    "StockName": "曜越",
+    "YahooFinanceSymbol": "3540.TWO"
+  },
+  {
+    "StockCode": "3541",
+    "StockName": "西柏",
+    "YahooFinanceSymbol": "3541.TWO"
+  },
+  {
+    "StockCode": "3546",
+    "StockName": "宇峻",
+    "YahooFinanceSymbol": "3546.TWO"
+  },
+  {
+    "StockCode": "3548",
+    "StockName": "兆利",
+    "YahooFinanceSymbol": "3548.TWO"
+  },
+  {
+    "StockCode": "3551",
+    "StockName": "世禾",
+    "YahooFinanceSymbol": "3551.TWO"
+  },
+  {
+    "StockCode": "3552",
+    "StockName": "同致",
+    "YahooFinanceSymbol": "3552.TWO"
+  },
+  {
+    "StockCode": "3555",
+    "StockName": "博士旺",
+    "YahooFinanceSymbol": "3555.TWO"
+  },
+  {
+    "StockCode": "3556",
+    "StockName": "禾瑞亞",
+    "YahooFinanceSymbol": "3556.TWO"
+  },
+  {
+    "StockCode": "3558",
+    "StockName": "神準",
+    "YahooFinanceSymbol": "3558.TWO"
+  },
+  {
+    "StockCode": "3564",
+    "StockName": "其陽",
+    "YahooFinanceSymbol": "3564.TWO"
+  },
+  {
+    "StockCode": "3567",
+    "StockName": "逸昌",
+    "YahooFinanceSymbol": "3567.TWO"
+  },
+  {
+    "StockCode": "3570",
+    "StockName": "大塚",
+    "YahooFinanceSymbol": "3570.TWO"
+  },
+  {
+    "StockCode": "3577",
+    "StockName": "泓格",
+    "YahooFinanceSymbol": "3577.TWO"
+  },
+  {
+    "StockCode": "3580",
+    "StockName": "友威科",
+    "YahooFinanceSymbol": "3580.TWO"
+  },
+  {
+    "StockCode": "3581",
+    "StockName": "博磊",
+    "YahooFinanceSymbol": "3581.TWO"
+  },
+  {
+    "StockCode": "3587",
+    "StockName": "閎康",
+    "YahooFinanceSymbol": "3587.TWO"
+  },
+  {
+    "StockCode": "3594",
+    "StockName": "磐儀",
+    "YahooFinanceSymbol": "3594.TWO"
+  },
+  {
+    "StockCode": "3597",
+    "StockName": "映興",
+    "YahooFinanceSymbol": "3597.TWO"
+  },
+  {
+    "StockCode": "3609",
+    "StockName": "三一東林",
+    "YahooFinanceSymbol": "3609.TWO"
+  },
+  {
+    "StockCode": "3611",
+    "StockName": "鼎翰",
+    "YahooFinanceSymbol": "3611.TWO"
+  },
+  {
+    "StockCode": "3615",
+    "StockName": "安可",
+    "YahooFinanceSymbol": "3615.TWO"
+  },
+  {
+    "StockCode": "3623",
+    "StockName": "富晶通",
+    "YahooFinanceSymbol": "3623.TWO"
+  },
+  {
+    "StockCode": "3624",
+    "StockName": "光頡",
+    "YahooFinanceSymbol": "3624.TWO"
+  },
+  {
+    "StockCode": "3625",
+    "StockName": "西勝",
+    "YahooFinanceSymbol": "3625.TWO"
+  },
+  {
+    "StockCode": "3628",
+    "StockName": "盈正",
+    "YahooFinanceSymbol": "3628.TWO"
+  },
+  {
+    "StockCode": "3629",
+    "StockName": "地心引力",
+    "YahooFinanceSymbol": "3629.TWO"
+  },
+  {
+    "StockCode": "3630",
+    "StockName": "新鉅科",
+    "YahooFinanceSymbol": "3630.TWO"
+  },
+  {
+    "StockCode": "3631",
+    "StockName": "晟楠",
+    "YahooFinanceSymbol": "3631.TWO"
+  },
+  {
+    "StockCode": "3632",
+    "StockName": "研勤",
+    "YahooFinanceSymbol": "3632.TWO"
+  },
+  {
+    "StockCode": "3646",
+    "StockName": "艾恩特",
+    "YahooFinanceSymbol": "3646.TWO"
+  },
+  {
+    "StockCode": "3663",
+    "StockName": "鑫科",
+    "YahooFinanceSymbol": "3663.TWO"
+  },
+  {
+    "StockCode": "3664",
+    "StockName": "安瑞-KY",
+    "YahooFinanceSymbol": "3664.TWO"
+  },
+  {
+    "StockCode": "3666",
+    "StockName": "光耀",
+    "YahooFinanceSymbol": "3666.TWO"
+  },
+  {
+    "StockCode": "3672",
+    "StockName": "康聯訊",
+    "YahooFinanceSymbol": "3672.TWO"
+  },
+  {
+    "StockCode": "3675",
+    "StockName": "德微",
+    "YahooFinanceSymbol": "3675.TWO"
+  },
+  {
+    "StockCode": "3680",
+    "StockName": "家登",
+    "YahooFinanceSymbol": "3680.TWO"
+  },
+  {
+    "StockCode": "3684",
+    "StockName": "榮昌",
+    "YahooFinanceSymbol": "3684.TWO"
+  },
+  {
+    "StockCode": "3685",
+    "StockName": "元創精密",
+    "YahooFinanceSymbol": "3685.TWO"
+  },
+  {
+    "StockCode": "3687",
+    "StockName": "歐買尬",
+    "YahooFinanceSymbol": "3687.TWO"
+  },
+  {
+    "StockCode": "3689",
+    "StockName": "湧德",
+    "YahooFinanceSymbol": "3689.TWO"
+  },
+  {
+    "StockCode": "3691",
+    "StockName": "碩禾",
+    "YahooFinanceSymbol": "3691.TWO"
+  },
+  {
+    "StockCode": "3693",
+    "StockName": "營邦",
+    "YahooFinanceSymbol": "3693.TWO"
+  },
+  {
+    "StockCode": "3707",
+    "StockName": "漢磊",
+    "YahooFinanceSymbol": "3707.TWO"
+  },
+  {
+    "StockCode": "3709",
+    "StockName": "鑫聯大投控",
+    "YahooFinanceSymbol": "3709.TWO"
+  },
+  {
+    "StockCode": "3710",
+    "StockName": "連展投控",
+    "YahooFinanceSymbol": "3710.TWO"
+  },
+  {
+    "StockCode": "3713",
+    "StockName": "新晶投控",
+    "YahooFinanceSymbol": "3713.TWO"
+  },
+  {
+    "StockCode": "4102",
+    "StockName": "永日",
+    "YahooFinanceSymbol": "4102.TWO"
+  },
+  {
+    "StockCode": "4105",
+    "StockName": "東洋",
+    "YahooFinanceSymbol": "4105.TWO"
+  },
+  {
+    "StockCode": "4107",
+    "StockName": "邦特",
+    "YahooFinanceSymbol": "4107.TWO"
+  },
+  {
+    "StockCode": "4109",
+    "StockName": "加捷生醫",
+    "YahooFinanceSymbol": "4109.TWO"
+  },
+  {
+    "StockCode": "4111",
+    "StockName": "濟生",
+    "YahooFinanceSymbol": "4111.TWO"
+  },
+  {
+    "StockCode": "4113",
+    "StockName": "聯上",
+    "YahooFinanceSymbol": "4113.TWO"
+  },
+  {
+    "StockCode": "4114",
+    "StockName": "健喬",
+    "YahooFinanceSymbol": "4114.TWO"
+  },
+  {
+    "StockCode": "4116",
+    "StockName": "明基醫",
+    "YahooFinanceSymbol": "4116.TWO"
+  },
+  {
+    "StockCode": "4120",
+    "StockName": "友華",
+    "YahooFinanceSymbol": "4120.TWO"
+  },
+  {
+    "StockCode": "4121",
+    "StockName": "優盛",
+    "YahooFinanceSymbol": "4121.TWO"
+  },
+  {
+    "StockCode": "4123",
+    "StockName": "晟德",
+    "YahooFinanceSymbol": "4123.TWO"
+  },
+  {
+    "StockCode": "4126",
+    "StockName": "太醫",
+    "YahooFinanceSymbol": "4126.TWO"
+  },
+  {
+    "StockCode": "4127",
+    "StockName": "天良",
+    "YahooFinanceSymbol": "4127.TWO"
+  },
+  {
+    "StockCode": "4128",
+    "StockName": "中天",
+    "YahooFinanceSymbol": "4128.TWO"
+  },
+  {
+    "StockCode": "4129",
+    "StockName": "聯合",
+    "YahooFinanceSymbol": "4129.TWO"
+  },
+  {
+    "StockCode": "4130",
+    "StockName": "健亞",
+    "YahooFinanceSymbol": "4130.TWO"
+  },
+  {
+    "StockCode": "4131",
+    "StockName": "浩泰",
+    "YahooFinanceSymbol": "4131.TWO"
+  },
+  {
+    "StockCode": "4138",
+    "StockName": "曜亞",
+    "YahooFinanceSymbol": "4138.TWO"
+  },
+  {
+    "StockCode": "4139",
+    "StockName": "馬光-KY",
+    "YahooFinanceSymbol": "4139.TWO"
+  },
+  {
+    "StockCode": "4147",
+    "StockName": "中裕",
+    "YahooFinanceSymbol": "4147.TWO"
+  },
+  {
+    "StockCode": "4153",
+    "StockName": "鈺緯",
+    "YahooFinanceSymbol": "4153.TWO"
+  },
+  {
+    "StockCode": "4154",
+    "StockName": "樂威科-KY",
+    "YahooFinanceSymbol": "4154.TWO"
+  },
+  {
+    "StockCode": "4157",
+    "StockName": "太景*-KY",
+    "YahooFinanceSymbol": "4157.TWO"
+  },
+  {
+    "StockCode": "4160",
+    "StockName": "訊聯基因",
+    "YahooFinanceSymbol": "4160.TWO"
+  },
+  {
+    "StockCode": "4161",
+    "StockName": "聿新科",
+    "YahooFinanceSymbol": "4161.TWO"
+  },
+  {
+    "StockCode": "4162",
+    "StockName": "智擎",
+    "YahooFinanceSymbol": "4162.TWO"
+  },
+  {
+    "StockCode": "4163",
+    "StockName": "鐿鈦",
+    "YahooFinanceSymbol": "4163.TWO"
+  },
+  {
+    "StockCode": "4167",
+    "StockName": "松瑞藥",
+    "YahooFinanceSymbol": "4167.TWO"
+  },
+  {
+    "StockCode": "4168",
+    "StockName": "醣聯",
+    "YahooFinanceSymbol": "4168.TWO"
+  },
+  {
+    "StockCode": "4171",
+    "StockName": "瑞基",
+    "YahooFinanceSymbol": "4171.TWO"
+  },
+  {
+    "StockCode": "4173",
+    "StockName": "久裕",
+    "YahooFinanceSymbol": "4173.TWO"
+  },
+  {
+    "StockCode": "4174",
+    "StockName": "浩鼎",
+    "YahooFinanceSymbol": "4174.TWO"
+  },
+  {
+    "StockCode": "4175",
+    "StockName": "杏一",
+    "YahooFinanceSymbol": "4175.TWO"
+  },
+  {
+    "StockCode": "4183",
+    "StockName": "福永生技",
+    "YahooFinanceSymbol": "4183.TWO"
+  },
+  {
+    "StockCode": "4188",
+    "StockName": "安克",
+    "YahooFinanceSymbol": "4188.TWO"
+  },
+  {
+    "StockCode": "4192",
+    "StockName": "杏國",
+    "YahooFinanceSymbol": "4192.TWO"
+  },
+  {
+    "StockCode": "4198",
+    "StockName": "欣大健康",
+    "YahooFinanceSymbol": "4198.TWO"
+  },
+  {
+    "StockCode": "4205",
+    "StockName": "中華食",
+    "YahooFinanceSymbol": "4205.TWO"
+  },
+  {
+    "StockCode": "4207",
+    "StockName": "環泰",
+    "YahooFinanceSymbol": "4207.TWO"
+  },
+  {
+    "StockCode": "4303",
+    "StockName": "信立",
+    "YahooFinanceSymbol": "4303.TWO"
+  },
+  {
+    "StockCode": "4304",
+    "StockName": "勝昱",
+    "YahooFinanceSymbol": "4304.TWO"
+  },
+  {
+    "StockCode": "4305",
+    "StockName": "世坤",
+    "YahooFinanceSymbol": "4305.TWO"
+  },
+  {
+    "StockCode": "4401",
+    "StockName": "東隆興",
+    "YahooFinanceSymbol": "4401.TWO"
+  },
+  {
+    "StockCode": "4402",
+    "StockName": "郡都開發",
+    "YahooFinanceSymbol": "4402.TWO"
+  },
+  {
+    "StockCode": "4406",
+    "StockName": "新昕纖",
+    "YahooFinanceSymbol": "4406.TWO"
+  },
+  {
+    "StockCode": "4413",
+    "StockName": "飛寶企業",
+    "YahooFinanceSymbol": "4413.TWO"
+  },
+  {
+    "StockCode": "4416",
+    "StockName": "三圓",
+    "YahooFinanceSymbol": "4416.TWO"
+  },
+  {
+    "StockCode": "4417",
+    "StockName": "金洲",
+    "YahooFinanceSymbol": "4417.TWO"
+  },
+  {
+    "StockCode": "4419",
+    "StockName": "皇家美食",
+    "YahooFinanceSymbol": "4419.TWO"
+  },
+  {
+    "StockCode": "4420",
+    "StockName": "光明",
+    "YahooFinanceSymbol": "4420.TWO"
+  },
+  {
+    "StockCode": "4430",
+    "StockName": "耀億",
+    "YahooFinanceSymbol": "4430.TWO"
+  },
+  {
+    "StockCode": "4432",
+    "StockName": "銘旺實",
+    "YahooFinanceSymbol": "4432.TWO"
+  },
+  {
+    "StockCode": "4433",
+    "StockName": "興采",
+    "YahooFinanceSymbol": "4433.TWO"
+  },
+  {
+    "StockCode": "4442",
+    "StockName": "竣邦-KY",
+    "YahooFinanceSymbol": "4442.TWO"
+  },
+  {
+    "StockCode": "4502",
+    "StockName": "健信",
+    "YahooFinanceSymbol": "4502.TWO"
+  },
+  {
+    "StockCode": "4503",
+    "StockName": "金雨",
+    "YahooFinanceSymbol": "4503.TWO"
+  },
+  {
+    "StockCode": "4506",
+    "StockName": "崇友",
+    "YahooFinanceSymbol": "4506.TWO"
+  },
+  {
+    "StockCode": "4510",
+    "StockName": "高鋒",
+    "YahooFinanceSymbol": "4510.TWO"
+  },
+  {
+    "StockCode": "4513",
+    "StockName": "福裕",
+    "YahooFinanceSymbol": "4513.TWO"
+  },
+  {
+    "StockCode": "4523",
+    "StockName": "永彰",
+    "YahooFinanceSymbol": "4523.TWO"
+  },
+  {
+    "StockCode": "4527",
+    "StockName": "方土霖",
+    "YahooFinanceSymbol": "4527.TWO"
+  },
+  {
+    "StockCode": "4528",
+    "StockName": "江興鍛",
+    "YahooFinanceSymbol": "4528.TWO"
+  },
+  {
+    "StockCode": "4529",
+    "StockName": "淳紳",
+    "YahooFinanceSymbol": "4529.TWO"
+  },
+  {
+    "StockCode": "4530",
+    "StockName": "宏易",
+    "YahooFinanceSymbol": "4530.TWO"
+  },
+  {
+    "StockCode": "4533",
+    "StockName": "協易機",
+    "YahooFinanceSymbol": "4533.TWO"
+  },
+  {
+    "StockCode": "4534",
+    "StockName": "慶騰",
+    "YahooFinanceSymbol": "4534.TWO"
+  },
+  {
+    "StockCode": "4535",
+    "StockName": "至興",
+    "YahooFinanceSymbol": "4535.TWO"
+  },
+  {
+    "StockCode": "4538",
+    "StockName": "大詠城",
+    "YahooFinanceSymbol": "4538.TWO"
+  },
+  {
+    "StockCode": "4541",
+    "StockName": "晟田",
+    "YahooFinanceSymbol": "4541.TWO"
+  },
+  {
+    "StockCode": "4542",
+    "StockName": "科嶠",
+    "YahooFinanceSymbol": "4542.TWO"
+  },
+  {
+    "StockCode": "4543",
+    "StockName": "萬在",
+    "YahooFinanceSymbol": "4543.TWO"
+  },
+  {
+    "StockCode": "4549",
+    "StockName": "桓達",
+    "YahooFinanceSymbol": "4549.TWO"
+  },
+  {
+    "StockCode": "4550",
+    "StockName": "長佳",
+    "YahooFinanceSymbol": "4550.TWO"
+  },
+  {
+    "StockCode": "4554",
+    "StockName": "橙的",
+    "YahooFinanceSymbol": "4554.TWO"
+  },
+  {
+    "StockCode": "4556",
+    "StockName": "旭然",
+    "YahooFinanceSymbol": "4556.TWO"
+  },
+  {
+    "StockCode": "4558",
+    "StockName": "寶緯",
+    "YahooFinanceSymbol": "4558.TWO"
+  },
+  {
+    "StockCode": "4561",
+    "StockName": "健椿",
+    "YahooFinanceSymbol": "4561.TWO"
+  },
+  {
+    "StockCode": "4563",
+    "StockName": "百德",
+    "YahooFinanceSymbol": "4563.TWO"
+  },
+  {
+    "StockCode": "4568",
+    "StockName": "科際精密",
+    "YahooFinanceSymbol": "4568.TWO"
+  },
+  {
+    "StockCode": "4577",
+    "StockName": "達航科技",
+    "YahooFinanceSymbol": "4577.TWO"
+  },
+  {
+    "StockCode": "4580",
+    "StockName": "捷流閥業",
+    "YahooFinanceSymbol": "4580.TWO"
+  },
+  {
+    "StockCode": "4584",
+    "StockName": "君帆",
+    "YahooFinanceSymbol": "4584.TWO"
+  },
+  {
+    "StockCode": "4609",
+    "StockName": "唐鋒",
+    "YahooFinanceSymbol": "4609.TWO"
+  },
+  {
+    "StockCode": "4702",
+    "StockName": "中美實",
+    "YahooFinanceSymbol": "4702.TWO"
+  },
+  {
+    "StockCode": "4706",
+    "StockName": "大恭",
+    "YahooFinanceSymbol": "4706.TWO"
+  },
+  {
+    "StockCode": "4707",
+    "StockName": "磐亞",
+    "YahooFinanceSymbol": "4707.TWO"
+  },
+  {
+    "StockCode": "4711",
+    "StockName": "永純",
+    "YahooFinanceSymbol": "4711.TWO"
+  },
+  {
+    "StockCode": "4714",
+    "StockName": "永捷",
+    "YahooFinanceSymbol": "4714.TWO"
+  },
+  {
+    "StockCode": "4716",
+    "StockName": "大立",
+    "YahooFinanceSymbol": "4716.TWO"
+  },
+  {
+    "StockCode": "4721",
+    "StockName": "美琪瑪",
+    "YahooFinanceSymbol": "4721.TWO"
+  },
+  {
+    "StockCode": "4726",
+    "StockName": "永昕",
+    "YahooFinanceSymbol": "4726.TWO"
+  },
+  {
+    "StockCode": "4728",
+    "StockName": "雙美",
+    "YahooFinanceSymbol": "4728.TWO"
+  },
+  {
+    "StockCode": "4729",
+    "StockName": "熒茂",
+    "YahooFinanceSymbol": "4729.TWO"
+  },
+  {
+    "StockCode": "4735",
+    "StockName": "豪展",
+    "YahooFinanceSymbol": "4735.TWO"
+  },
+  {
+    "StockCode": "4741",
+    "StockName": "泓瀚",
+    "YahooFinanceSymbol": "4741.TWO"
+  },
+  {
+    "StockCode": "4743",
+    "StockName": "合一",
+    "YahooFinanceSymbol": "4743.TWO"
+  },
+  {
+    "StockCode": "4744",
+    "StockName": "皇將",
+    "YahooFinanceSymbol": "4744.TWO"
+  },
+  {
+    "StockCode": "4745",
+    "StockName": "合富-KY",
+    "YahooFinanceSymbol": "4745.TWO"
+  },
+  {
+    "StockCode": "4747",
+    "StockName": "強生",
+    "YahooFinanceSymbol": "4747.TWO"
+  },
+  {
+    "StockCode": "4754",
+    "StockName": "國碳科",
+    "YahooFinanceSymbol": "4754.TWO"
+  },
+  {
+    "StockCode": "4760",
+    "StockName": "勤凱",
+    "YahooFinanceSymbol": "4760.TWO"
+  },
+  {
+    "StockCode": "4767",
+    "StockName": "誠泰科技",
+    "YahooFinanceSymbol": "4767.TWO"
+  },
+  {
+    "StockCode": "4768",
+    "StockName": "晶呈科技",
+    "YahooFinanceSymbol": "4768.TWO"
+  },
+  {
+    "StockCode": "4772",
+    "StockName": "台特化",
+    "YahooFinanceSymbol": "4772.TWO"
+  },
+  {
+    "StockCode": "4804",
+    "StockName": "大略-KY",
+    "YahooFinanceSymbol": "4804.TWO"
+  },
+  {
+    "StockCode": "4806",
+    "StockName": "桂田文創",
+    "YahooFinanceSymbol": "4806.TWO"
+  },
+  {
+    "StockCode": "4903",
+    "StockName": "聯光通",
+    "YahooFinanceSymbol": "4903.TWO"
+  },
+  {
+    "StockCode": "4905",
+    "StockName": "台聯電",
+    "YahooFinanceSymbol": "4905.TWO"
+  },
+  {
+    "StockCode": "4907",
+    "StockName": "富宇",
+    "YahooFinanceSymbol": "4907.TWO"
+  },
+  {
+    "StockCode": "4908",
+    "StockName": "前鼎",
+    "YahooFinanceSymbol": "4908.TWO"
+  },
+  {
+    "StockCode": "4909",
+    "StockName": "新復興",
+    "YahooFinanceSymbol": "4909.TWO"
+  },
+  {
+    "StockCode": "4911",
+    "StockName": "德英",
+    "YahooFinanceSymbol": "4911.TWO"
+  },
+  {
+    "StockCode": "4923",
+    "StockName": "力士",
+    "YahooFinanceSymbol": "4923.TWO"
+  },
+  {
+    "StockCode": "4924",
+    "StockName": "欣厚-KY",
+    "YahooFinanceSymbol": "4924.TWO"
+  },
+  {
+    "StockCode": "4931",
+    "StockName": "新盛力",
+    "YahooFinanceSymbol": "4931.TWO"
+  },
+  {
+    "StockCode": "4933",
+    "StockName": "友輝",
+    "YahooFinanceSymbol": "4933.TWO"
+  },
+  {
+    "StockCode": "4939",
+    "StockName": "亞電",
+    "YahooFinanceSymbol": "4939.TWO"
+  },
+  {
+    "StockCode": "4945",
+    "StockName": "陞達科技",
+    "YahooFinanceSymbol": "4945.TWO"
+  },
+  {
+    "StockCode": "4946",
+    "StockName": "辣椒",
+    "YahooFinanceSymbol": "4946.TWO"
+  },
+  {
+    "StockCode": "4950",
+    "StockName": "牧東",
+    "YahooFinanceSymbol": "4950.TWO"
+  },
+  {
+    "StockCode": "4951",
+    "StockName": "精拓科",
+    "YahooFinanceSymbol": "4951.TWO"
+  },
+  {
+    "StockCode": "4953",
+    "StockName": "緯軟",
+    "YahooFinanceSymbol": "4953.TWO"
+  },
+  {
+    "StockCode": "4966",
+    "StockName": "譜瑞-KY",
+    "YahooFinanceSymbol": "4966.TWO"
+  },
+  {
+    "StockCode": "4971",
+    "StockName": "IET-KY",
+    "YahooFinanceSymbol": "4971.TWO"
+  },
+  {
+    "StockCode": "4972",
+    "StockName": "湯石照明",
+    "YahooFinanceSymbol": "4972.TWO"
+  },
+  {
+    "StockCode": "4973",
+    "StockName": "廣穎",
+    "YahooFinanceSymbol": "4973.TWO"
+  },
+  {
+    "StockCode": "4974",
+    "StockName": "亞泰",
+    "YahooFinanceSymbol": "4974.TWO"
+  },
+  {
+    "StockCode": "4979",
+    "StockName": "華星光",
+    "YahooFinanceSymbol": "4979.TWO"
+  },
+  {
+    "StockCode": "4987",
+    "StockName": "科誠",
+    "YahooFinanceSymbol": "4987.TWO"
+  },
+  {
+    "StockCode": "4991",
+    "StockName": "環宇-KY",
+    "YahooFinanceSymbol": "4991.TWO"
+  },
+  {
+    "StockCode": "4995",
+    "StockName": "晶達",
+    "YahooFinanceSymbol": "4995.TWO"
+  },
+  {
+    "StockCode": "5009",
+    "StockName": "榮剛",
+    "YahooFinanceSymbol": "5009.TWO"
+  },
+  {
+    "StockCode": "5011",
+    "StockName": "久陽",
+    "YahooFinanceSymbol": "5011.TWO"
+  },
+  {
+    "StockCode": "5013",
+    "StockName": "強新",
+    "YahooFinanceSymbol": "5013.TWO"
+  },
+  {
+    "StockCode": "5014",
+    "StockName": "建錩",
+    "YahooFinanceSymbol": "5014.TWO"
+  },
+  {
+    "StockCode": "5015",
+    "StockName": "華祺",
+    "YahooFinanceSymbol": "5015.TWO"
+  },
+  {
+    "StockCode": "5016",
+    "StockName": "松和",
+    "YahooFinanceSymbol": "5016.TWO"
+  },
+  {
+    "StockCode": "5201",
+    "StockName": "凱衛",
+    "YahooFinanceSymbol": "5201.TWO"
+  },
+  {
+    "StockCode": "5202",
+    "StockName": "力新",
+    "YahooFinanceSymbol": "5202.TWO"
+  },
+  {
+    "StockCode": "5205",
+    "StockName": "中茂",
+    "YahooFinanceSymbol": "5205.TWO"
+  },
+  {
+    "StockCode": "5206",
+    "StockName": "坤悅",
+    "YahooFinanceSymbol": "5206.TWO"
+  },
+  {
+    "StockCode": "5209",
+    "StockName": "新鼎",
+    "YahooFinanceSymbol": "5209.TWO"
+  },
+  {
+    "StockCode": "5210",
+    "StockName": "寶碩",
+    "YahooFinanceSymbol": "5210.TWO"
+  },
+  {
+    "StockCode": "5211",
+    "StockName": "蒙恬",
+    "YahooFinanceSymbol": "5211.TWO"
+  },
+  {
+    "StockCode": "5212",
+    "StockName": "凌網",
+    "YahooFinanceSymbol": "5212.TWO"
+  },
+  {
+    "StockCode": "5213",
+    "StockName": "亞昕",
+    "YahooFinanceSymbol": "5213.TWO"
+  },
+  {
+    "StockCode": "5220",
+    "StockName": "萬達光電",
+    "YahooFinanceSymbol": "5220.TWO"
+  },
+  {
+    "StockCode": "5223",
+    "StockName": "安力-KY",
+    "YahooFinanceSymbol": "5223.TWO"
+  },
+  {
+    "StockCode": "5227",
+    "StockName": "立凱-KY",
+    "YahooFinanceSymbol": "5227.TWO"
+  },
+  {
+    "StockCode": "5228",
+    "StockName": "鈺鎧",
+    "YahooFinanceSymbol": "5228.TWO"
+  },
+  {
+    "StockCode": "5230",
+    "StockName": "雷笛克光學",
+    "YahooFinanceSymbol": "5230.TWO"
+  },
+  {
+    "StockCode": "5236",
+    "StockName": "凌陽創新",
+    "YahooFinanceSymbol": "5236.TWO"
+  },
+  {
+    "StockCode": "5245",
+    "StockName": "智晶",
+    "YahooFinanceSymbol": "5245.TWO"
+  },
+  {
+    "StockCode": "5251",
+    "StockName": "天鉞電",
+    "YahooFinanceSymbol": "5251.TWO"
+  },
+  {
+    "StockCode": "5263",
+    "StockName": "智崴",
+    "YahooFinanceSymbol": "5263.TWO"
+  },
+  {
+    "StockCode": "5272",
+    "StockName": "笙科",
+    "YahooFinanceSymbol": "5272.TWO"
+  },
+  {
+    "StockCode": "5274",
+    "StockName": "信驊",
+    "YahooFinanceSymbol": "5274.TWO"
+  },
+  {
+    "StockCode": "5276",
+    "StockName": "達輝-KY",
+    "YahooFinanceSymbol": "5276.TWO"
+  },
+  {
+    "StockCode": "5278",
+    "StockName": "尚凡",
+    "YahooFinanceSymbol": "5278.TWO"
+  },
+  {
+    "StockCode": "5287",
+    "StockName": "數字",
+    "YahooFinanceSymbol": "5287.TWO"
+  },
+  {
+    "StockCode": "5289",
+    "StockName": "宜鼎",
+    "YahooFinanceSymbol": "5289.TWO"
+  },
+  {
+    "StockCode": "5291",
+    "StockName": "邑昇",
+    "YahooFinanceSymbol": "5291.TWO"
+  },
+  {
+    "StockCode": "5299",
+    "StockName": "杰力",
+    "YahooFinanceSymbol": "5299.TWO"
+  },
+  {
+    "StockCode": "5301",
+    "StockName": "寶得利",
+    "YahooFinanceSymbol": "5301.TWO"
+  },
+  {
+    "StockCode": "5302",
+    "StockName": "太欣",
+    "YahooFinanceSymbol": "5302.TWO"
+  },
+  {
+    "StockCode": "5309",
+    "StockName": "系統電",
+    "YahooFinanceSymbol": "5309.TWO"
+  },
+  {
+    "StockCode": "5310",
+    "StockName": "天剛",
+    "YahooFinanceSymbol": "5310.TWO"
+  },
+  {
+    "StockCode": "5312",
+    "StockName": "寶島科",
+    "YahooFinanceSymbol": "5312.TWO"
+  },
+  {
+    "StockCode": "5314",
+    "StockName": "世紀",
+    "YahooFinanceSymbol": "5314.TWO"
+  },
+  {
+    "StockCode": "5315",
+    "StockName": "光聯",
+    "YahooFinanceSymbol": "5315.TWO"
+  },
+  {
+    "StockCode": "5321",
+    "StockName": "美而快",
+    "YahooFinanceSymbol": "5321.TWO"
+  },
+  {
+    "StockCode": "5324",
+    "StockName": "士開",
+    "YahooFinanceSymbol": "5324.TWO"
+  },
+  {
+    "StockCode": "5328",
+    "StockName": "華容",
+    "YahooFinanceSymbol": "5328.TWO"
+  },
+  {
+    "StockCode": "5340",
+    "StockName": "建榮",
+    "YahooFinanceSymbol": "5340.TWO"
+  },
+  {
+    "StockCode": "5344",
+    "StockName": "立衛",
+    "YahooFinanceSymbol": "5344.TWO"
+  },
+  {
+    "StockCode": "5345",
+    "StockName": "天揚",
+    "YahooFinanceSymbol": "5345.TWO"
+  },
+  {
+    "StockCode": "5347",
+    "StockName": "世界",
+    "YahooFinanceSymbol": "5347.TWO"
+  },
+  {
+    "StockCode": "5348",
+    "StockName": "正能量智能",
+    "YahooFinanceSymbol": "5348.TWO"
+  },
+  {
+    "StockCode": "5351",
+    "StockName": "鈺創",
+    "YahooFinanceSymbol": "5351.TWO"
+  },
+  {
+    "StockCode": "5353",
+    "StockName": "台林",
+    "YahooFinanceSymbol": "5353.TWO"
+  },
+  {
+    "StockCode": "5355",
+    "StockName": "佳總",
+    "YahooFinanceSymbol": "5355.TWO"
+  },
+  {
+    "StockCode": "5356",
+    "StockName": "協益",
+    "YahooFinanceSymbol": "5356.TWO"
+  },
+  {
+    "StockCode": "5364",
+    "StockName": "力麗店",
+    "YahooFinanceSymbol": "5364.TWO"
+  },
+  {
+    "StockCode": "5371",
+    "StockName": "中光電",
+    "YahooFinanceSymbol": "5371.TWO"
+  },
+  {
+    "StockCode": "5381",
+    "StockName": "合正",
+    "YahooFinanceSymbol": "5381.TWO"
+  },
+  {
+    "StockCode": "5386",
+    "StockName": "青雲",
+    "YahooFinanceSymbol": "5386.TWO"
+  },
+  {
+    "StockCode": "5392",
+    "StockName": "能率",
+    "YahooFinanceSymbol": "5392.TWO"
+  },
+  {
+    "StockCode": "5398",
+    "StockName": "慕康生醫",
+    "YahooFinanceSymbol": "5398.TWO"
+  },
+  {
+    "StockCode": "5403",
+    "StockName": "中菲",
+    "YahooFinanceSymbol": "5403.TWO"
+  },
+  {
+    "StockCode": "5410",
+    "StockName": "國眾",
+    "YahooFinanceSymbol": "5410.TWO"
+  },
+  {
+    "StockCode": "5425",
+    "StockName": "台半",
+    "YahooFinanceSymbol": "5425.TWO"
+  },
+  {
+    "StockCode": "5426",
+    "StockName": "振發",
+    "YahooFinanceSymbol": "5426.TWO"
+  },
+  {
+    "StockCode": "5432",
+    "StockName": "新門",
+    "YahooFinanceSymbol": "5432.TWO"
+  },
+  {
+    "StockCode": "5438",
+    "StockName": "東友",
+    "YahooFinanceSymbol": "5438.TWO"
+  },
+  {
+    "StockCode": "5439",
+    "StockName": "高技",
+    "YahooFinanceSymbol": "5439.TWO"
+  },
+  {
+    "StockCode": "5443",
+    "StockName": "均豪",
+    "YahooFinanceSymbol": "5443.TWO"
+  },
+  {
+    "StockCode": "5450",
+    "StockName": "南良",
+    "YahooFinanceSymbol": "5450.TWO"
+  },
+  {
+    "StockCode": "5452",
+    "StockName": "佶優",
+    "YahooFinanceSymbol": "5452.TWO"
+  },
+  {
+    "StockCode": "5455",
+    "StockName": "昇益",
+    "YahooFinanceSymbol": "5455.TWO"
+  },
+  {
+    "StockCode": "5457",
+    "StockName": "宣德",
+    "YahooFinanceSymbol": "5457.TWO"
+  },
+  {
+    "StockCode": "5460",
+    "StockName": "同協",
+    "YahooFinanceSymbol": "5460.TWO"
+  },
+  {
+    "StockCode": "5464",
+    "StockName": "霖宏",
+    "YahooFinanceSymbol": "5464.TWO"
+  },
+  {
+    "StockCode": "5465",
+    "StockName": "富驊",
+    "YahooFinanceSymbol": "5465.TWO"
+  },
+  {
+    "StockCode": "5468",
+    "StockName": "凱鈺",
+    "YahooFinanceSymbol": "5468.TWO"
+  },
+  {
+    "StockCode": "5474",
+    "StockName": "聰泰",
+    "YahooFinanceSymbol": "5474.TWO"
+  },
+  {
+    "StockCode": "5475",
+    "StockName": "德宏",
+    "YahooFinanceSymbol": "5475.TWO"
+  },
+  {
+    "StockCode": "5478",
+    "StockName": "智冠",
+    "YahooFinanceSymbol": "5478.TWO"
+  },
+  {
+    "StockCode": "5481",
+    "StockName": "新華",
+    "YahooFinanceSymbol": "5481.TWO"
+  },
+  {
+    "StockCode": "5483",
+    "StockName": "中美晶",
+    "YahooFinanceSymbol": "5483.TWO"
+  },
+  {
+    "StockCode": "5487",
+    "StockName": "通泰",
+    "YahooFinanceSymbol": "5487.TWO"
+  },
+  {
+    "StockCode": "5488",
+    "StockName": "松普",
+    "YahooFinanceSymbol": "5488.TWO"
+  },
+  {
+    "StockCode": "5489",
+    "StockName": "彩富",
+    "YahooFinanceSymbol": "5489.TWO"
+  },
+  {
+    "StockCode": "5490",
+    "StockName": "同亨",
+    "YahooFinanceSymbol": "5490.TWO"
+  },
+  {
+    "StockCode": "5493",
+    "StockName": "三聯",
+    "YahooFinanceSymbol": "5493.TWO"
+  },
+  {
+    "StockCode": "5498",
+    "StockName": "凱崴",
+    "YahooFinanceSymbol": "5498.TWO"
+  },
+  {
+    "StockCode": "5508",
+    "StockName": "永信建",
+    "YahooFinanceSymbol": "5508.TWO"
+  },
+  {
+    "StockCode": "5511",
+    "StockName": "德昌",
+    "YahooFinanceSymbol": "5511.TWO"
+  },
+  {
+    "StockCode": "5512",
+    "StockName": "力麒",
+    "YahooFinanceSymbol": "5512.TWO"
+  },
+  {
+    "StockCode": "5514",
+    "StockName": "三豐",
+    "YahooFinanceSymbol": "5514.TWO"
+  },
+  {
+    "StockCode": "5516",
+    "StockName": "雙喜",
+    "YahooFinanceSymbol": "5516.TWO"
+  },
+  {
+    "StockCode": "5520",
+    "StockName": "力泰",
+    "YahooFinanceSymbol": "5520.TWO"
+  },
+  {
+    "StockCode": "5523",
+    "StockName": "豐謙",
+    "YahooFinanceSymbol": "5523.TWO"
+  },
+  {
+    "StockCode": "5529",
+    "StockName": "鉅陞",
+    "YahooFinanceSymbol": "5529.TWO"
+  },
+  {
+    "StockCode": "5530",
+    "StockName": "龍巖",
+    "YahooFinanceSymbol": "5530.TWO"
+  },
+  {
+    "StockCode": "5536",
+    "StockName": "聖暉*",
+    "YahooFinanceSymbol": "5536.TWO"
+  },
+  {
+    "StockCode": "5543",
+    "StockName": "桓鼎-KY",
+    "YahooFinanceSymbol": "5543.TWO"
+  },
+  {
+    "StockCode": "5548",
+    "StockName": "安倉",
+    "YahooFinanceSymbol": "5548.TWO"
+  },
+  {
+    "StockCode": "5601",
+    "StockName": "台聯櫃",
+    "YahooFinanceSymbol": "5601.TWO"
+  },
+  {
+    "StockCode": "5603",
+    "StockName": "陸海",
+    "YahooFinanceSymbol": "5603.TWO"
+  },
+  {
+    "StockCode": "5604",
+    "StockName": "中連",
+    "YahooFinanceSymbol": "5604.TWO"
+  },
+  {
+    "StockCode": "5609",
+    "StockName": "中菲行",
+    "YahooFinanceSymbol": "5609.TWO"
+  },
+  {
+    "StockCode": "5701",
+    "StockName": "劍湖山",
+    "YahooFinanceSymbol": "5701.TWO"
+  },
+  {
+    "StockCode": "5703",
+    "StockName": "亞都",
+    "YahooFinanceSymbol": "5703.TWO"
+  },
+  {
+    "StockCode": "5704",
+    "StockName": "老爺知",
+    "YahooFinanceSymbol": "5704.TWO"
+  },
+  {
+    "StockCode": "5864",
+    "StockName": "致和證",
+    "YahooFinanceSymbol": "5864.TWO"
+  },
+  {
+    "StockCode": "5878",
+    "StockName": "台名",
+    "YahooFinanceSymbol": "5878.TWO"
+  },
+  {
+    "StockCode": "5902",
+    "StockName": "德記",
+    "YahooFinanceSymbol": "5902.TWO"
+  },
+  {
+    "StockCode": "5903",
+    "StockName": "全家",
+    "YahooFinanceSymbol": "5903.TWO"
+  },
+  {
+    "StockCode": "5904",
+    "StockName": "寶雅",
+    "YahooFinanceSymbol": "5904.TWO"
+  },
+  {
+    "StockCode": "5905",
+    "StockName": "南仁湖",
+    "YahooFinanceSymbol": "5905.TWO"
+  },
+  {
+    "StockCode": "6015",
+    "StockName": "宏遠證",
+    "YahooFinanceSymbol": "6015.TWO"
+  },
+  {
+    "StockCode": "6016",
+    "StockName": "康和證",
+    "YahooFinanceSymbol": "6016.TWO"
+  },
+  {
+    "StockCode": "6020",
+    "StockName": "大展證",
+    "YahooFinanceSymbol": "6020.TWO"
+  },
+  {
+    "StockCode": "6021",
+    "StockName": "美好證",
+    "YahooFinanceSymbol": "6021.TWO"
+  },
+  {
+    "StockCode": "6023",
+    "StockName": "元大期",
+    "YahooFinanceSymbol": "6023.TWO"
+  },
+  {
+    "StockCode": "6026",
+    "StockName": "福邦證",
+    "YahooFinanceSymbol": "6026.TWO"
+  },
+  {
+    "StockCode": "6101",
+    "StockName": "寬魚國際",
+    "YahooFinanceSymbol": "6101.TWO"
+  },
+  {
+    "StockCode": "6103",
+    "StockName": "合邦",
+    "YahooFinanceSymbol": "6103.TWO"
+  },
+  {
+    "StockCode": "6104",
+    "StockName": "創惟",
+    "YahooFinanceSymbol": "6104.TWO"
+  },
+  {
+    "StockCode": "6109",
+    "StockName": "亞元",
+    "YahooFinanceSymbol": "6109.TWO"
+  },
+  {
+    "StockCode": "6111",
+    "StockName": "大宇資",
+    "YahooFinanceSymbol": "6111.TWO"
+  },
+  {
+    "StockCode": "6113",
+    "StockName": "亞矽",
+    "YahooFinanceSymbol": "6113.TWO"
+  },
+  {
+    "StockCode": "6114",
+    "StockName": "久威",
+    "YahooFinanceSymbol": "6114.TWO"
+  },
+  {
+    "StockCode": "6118",
+    "StockName": "建達",
+    "YahooFinanceSymbol": "6118.TWO"
+  },
+  {
+    "StockCode": "6121",
+    "StockName": "新普",
+    "YahooFinanceSymbol": "6121.TWO"
+  },
+  {
+    "StockCode": "6122",
+    "StockName": "擎邦",
+    "YahooFinanceSymbol": "6122.TWO"
+  },
+  {
+    "StockCode": "6123",
+    "StockName": "上奇",
+    "YahooFinanceSymbol": "6123.TWO"
+  },
+  {
+    "StockCode": "6124",
+    "StockName": "業強",
+    "YahooFinanceSymbol": "6124.TWO"
+  },
+  {
+    "StockCode": "6125",
+    "StockName": "廣運",
+    "YahooFinanceSymbol": "6125.TWO"
+  },
+  {
+    "StockCode": "6126",
+    "StockName": "信音",
+    "YahooFinanceSymbol": "6126.TWO"
+  },
+  {
+    "StockCode": "6127",
+    "StockName": "九豪",
+    "YahooFinanceSymbol": "6127.TWO"
+  },
+  {
+    "StockCode": "6129",
+    "StockName": "普誠",
+    "YahooFinanceSymbol": "6129.TWO"
+  },
+  {
+    "StockCode": "6130",
+    "StockName": "上亞科技",
+    "YahooFinanceSymbol": "6130.TWO"
+  },
+  {
+    "StockCode": "6134",
+    "StockName": "萬旭",
+    "YahooFinanceSymbol": "6134.TWO"
+  },
+  {
+    "StockCode": "6138",
+    "StockName": "茂達",
+    "YahooFinanceSymbol": "6138.TWO"
+  },
+  {
+    "StockCode": "6140",
+    "StockName": "訊達",
+    "YahooFinanceSymbol": "6140.TWO"
+  },
+  {
+    "StockCode": "6143",
+    "StockName": "振曜",
+    "YahooFinanceSymbol": "6143.TWO"
+  },
+  {
+    "StockCode": "6144",
+    "StockName": "得利影",
+    "YahooFinanceSymbol": "6144.TWO"
+  },
+  {
+    "StockCode": "6146",
+    "StockName": "耕興",
+    "YahooFinanceSymbol": "6146.TWO"
+  },
+  {
+    "StockCode": "6147",
+    "StockName": "頎邦",
+    "YahooFinanceSymbol": "6147.TWO"
+  },
+  {
+    "StockCode": "6148",
+    "StockName": "驊宏資",
+    "YahooFinanceSymbol": "6148.TWO"
+  },
+  {
+    "StockCode": "6150",
+    "StockName": "撼訊",
+    "YahooFinanceSymbol": "6150.TWO"
+  },
+  {
+    "StockCode": "6151",
+    "StockName": "晉倫",
+    "YahooFinanceSymbol": "6151.TWO"
+  },
+  {
+    "StockCode": "6154",
+    "StockName": "順發",
+    "YahooFinanceSymbol": "6154.TWO"
+  },
+  {
+    "StockCode": "6156",
+    "StockName": "松上",
+    "YahooFinanceSymbol": "6156.TWO"
+  },
+  {
+    "StockCode": "6158",
+    "StockName": "禾昌",
+    "YahooFinanceSymbol": "6158.TWO"
+  },
+  {
+    "StockCode": "6160",
+    "StockName": "欣技",
+    "YahooFinanceSymbol": "6160.TWO"
+  },
+  {
+    "StockCode": "6161",
+    "StockName": "捷波",
+    "YahooFinanceSymbol": "6161.TWO"
+  },
+  {
+    "StockCode": "6163",
+    "StockName": "華電網",
+    "YahooFinanceSymbol": "6163.TWO"
+  },
+  {
+    "StockCode": "6167",
+    "StockName": "久正",
+    "YahooFinanceSymbol": "6167.TWO"
+  },
+  {
+    "StockCode": "6169",
+    "StockName": "昱泉",
+    "YahooFinanceSymbol": "6169.TWO"
+  },
+  {
+    "StockCode": "6170",
+    "StockName": "統振",
+    "YahooFinanceSymbol": "6170.TWO"
+  },
+  {
+    "StockCode": "6171",
+    "StockName": "大城地產",
+    "YahooFinanceSymbol": "6171.TWO"
+  },
+  {
+    "StockCode": "6173",
+    "StockName": "信昌電",
+    "YahooFinanceSymbol": "6173.TWO"
+  },
+  {
+    "StockCode": "6174",
+    "StockName": "安碁",
+    "YahooFinanceSymbol": "6174.TWO"
+  },
+  {
+    "StockCode": "6175",
+    "StockName": "立敦",
+    "YahooFinanceSymbol": "6175.TWO"
+  },
+  {
+    "StockCode": "6179",
+    "StockName": "亞通",
+    "YahooFinanceSymbol": "6179.TWO"
+  },
+  {
+    "StockCode": "6180",
+    "StockName": "橘子",
+    "YahooFinanceSymbol": "6180.TWO"
+  },
+  {
+    "StockCode": "6182",
+    "StockName": "合晶",
+    "YahooFinanceSymbol": "6182.TWO"
+  },
+  {
+    "StockCode": "6185",
+    "StockName": "幃翔",
+    "YahooFinanceSymbol": "6185.TWO"
+  },
+  {
+    "StockCode": "6186",
+    "StockName": "新潤",
+    "YahooFinanceSymbol": "6186.TWO"
+  },
+  {
+    "StockCode": "6187",
+    "StockName": "萬潤",
+    "YahooFinanceSymbol": "6187.TWO"
+  },
+  {
+    "StockCode": "6188",
+    "StockName": "廣明",
+    "YahooFinanceSymbol": "6188.TWO"
+  },
+  {
+    "StockCode": "6190",
+    "StockName": "萬泰科",
+    "YahooFinanceSymbol": "6190.TWO"
+  },
+  {
+    "StockCode": "6194",
+    "StockName": "育富",
+    "YahooFinanceSymbol": "6194.TWO"
+  },
+  {
+    "StockCode": "6195",
+    "StockName": "詩肯",
+    "YahooFinanceSymbol": "6195.TWO"
+  },
+  {
+    "StockCode": "6198",
+    "StockName": "瑞築",
+    "YahooFinanceSymbol": "6198.TWO"
+  },
+  {
+    "StockCode": "6199",
+    "StockName": "天品",
+    "YahooFinanceSymbol": "6199.TWO"
+  },
+  {
+    "StockCode": "6203",
+    "StockName": "海韻電",
+    "YahooFinanceSymbol": "6203.TWO"
+  },
+  {
+    "StockCode": "6204",
+    "StockName": "艾華",
+    "YahooFinanceSymbol": "6204.TWO"
+  },
+  {
+    "StockCode": "6207",
+    "StockName": "雷科",
+    "YahooFinanceSymbol": "6207.TWO"
+  },
+  {
+    "StockCode": "6208",
+    "StockName": "日揚",
+    "YahooFinanceSymbol": "6208.TWO"
+  },
+  {
+    "StockCode": "6210",
+    "StockName": "慶生",
+    "YahooFinanceSymbol": "6210.TWO"
+  },
+  {
+    "StockCode": "6212",
+    "StockName": "理銘",
+    "YahooFinanceSymbol": "6212.TWO"
+  },
+  {
+    "StockCode": "6217",
+    "StockName": "中探針",
+    "YahooFinanceSymbol": "6217.TWO"
+  },
+  {
+    "StockCode": "6218",
+    "StockName": "豪勉",
+    "YahooFinanceSymbol": "6218.TWO"
+  },
+  {
+    "StockCode": "6219",
+    "StockName": "富旺",
+    "YahooFinanceSymbol": "6219.TWO"
+  },
+  {
+    "StockCode": "6220",
+    "StockName": "岳豐",
+    "YahooFinanceSymbol": "6220.TWO"
+  },
+  {
+    "StockCode": "6221",
+    "StockName": "晉泰",
+    "YahooFinanceSymbol": "6221.TWO"
+  },
+  {
+    "StockCode": "6222",
+    "StockName": "上揚",
+    "YahooFinanceSymbol": "6222.TWO"
+  },
+  {
+    "StockCode": "6223",
+    "StockName": "旺矽",
+    "YahooFinanceSymbol": "6223.TWO"
+  },
+  {
+    "StockCode": "6227",
+    "StockName": "茂綸",
+    "YahooFinanceSymbol": "6227.TWO"
+  },
+  {
+    "StockCode": "6228",
+    "StockName": "全譜",
+    "YahooFinanceSymbol": "6228.TWO"
+  },
+  {
+    "StockCode": "6229",
+    "StockName": "研通",
+    "YahooFinanceSymbol": "6229.TWO"
+  },
+  {
+    "StockCode": "6231",
+    "StockName": "系微",
+    "YahooFinanceSymbol": "6231.TWO"
+  },
+  {
+    "StockCode": "6233",
+    "StockName": "旺玖",
+    "YahooFinanceSymbol": "6233.TWO"
+  },
+  {
+    "StockCode": "6234",
+    "StockName": "高僑",
+    "YahooFinanceSymbol": "6234.TWO"
+  },
+  {
+    "StockCode": "6236",
+    "StockName": "中湛",
+    "YahooFinanceSymbol": "6236.TWO"
+  },
+  {
+    "StockCode": "6237",
+    "StockName": "驊訊",
+    "YahooFinanceSymbol": "6237.TWO"
+  },
+  {
+    "StockCode": "6240",
+    "StockName": "松崗",
+    "YahooFinanceSymbol": "6240.TWO"
+  },
+  {
+    "StockCode": "6241",
+    "StockName": "易通展",
+    "YahooFinanceSymbol": "6241.TWO"
+  },
+  {
+    "StockCode": "6242",
+    "StockName": "立康",
+    "YahooFinanceSymbol": "6242.TWO"
+  },
+  {
+    "StockCode": "6244",
+    "StockName": "茂迪",
+    "YahooFinanceSymbol": "6244.TWO"
+  },
+  {
+    "StockCode": "6245",
+    "StockName": "立端",
+    "YahooFinanceSymbol": "6245.TWO"
+  },
+  {
+    "StockCode": "6246",
+    "StockName": "臺龍",
+    "YahooFinanceSymbol": "6246.TWO"
+  },
+  {
+    "StockCode": "6248",
+    "StockName": "沛波",
+    "YahooFinanceSymbol": "6248.TWO"
+  },
+  {
+    "StockCode": "6259",
+    "StockName": "百徽",
+    "YahooFinanceSymbol": "6259.TWO"
+  },
+  {
+    "StockCode": "6261",
+    "StockName": "久元",
+    "YahooFinanceSymbol": "6261.TWO"
+  },
+  {
+    "StockCode": "6263",
+    "StockName": "普萊德",
+    "YahooFinanceSymbol": "6263.TWO"
+  },
+  {
+    "StockCode": "6264",
+    "StockName": "富裔",
+    "YahooFinanceSymbol": "6264.TWO"
+  },
+  {
+    "StockCode": "6265",
+    "StockName": "方土昶",
+    "YahooFinanceSymbol": "6265.TWO"
+  },
+  {
+    "StockCode": "6266",
+    "StockName": "泰詠",
+    "YahooFinanceSymbol": "6266.TWO"
+  },
+  {
+    "StockCode": "6270",
+    "StockName": "倍微",
+    "YahooFinanceSymbol": "6270.TWO"
+  },
+  {
+    "StockCode": "6274",
+    "StockName": "台燿",
+    "YahooFinanceSymbol": "6274.TWO"
+  },
+  {
+    "StockCode": "6275",
+    "StockName": "元山",
+    "YahooFinanceSymbol": "6275.TWO"
+  },
+  {
+    "StockCode": "6276",
+    "StockName": "安鈦克",
+    "YahooFinanceSymbol": "6276.TWO"
+  },
+  {
+    "StockCode": "6279",
+    "StockName": "胡連",
+    "YahooFinanceSymbol": "6279.TWO"
+  },
+  {
+    "StockCode": "6284",
+    "StockName": "佳邦",
+    "YahooFinanceSymbol": "6284.TWO"
+  },
+  {
+    "StockCode": "6287",
+    "StockName": "元隆",
+    "YahooFinanceSymbol": "6287.TWO"
+  },
+  {
+    "StockCode": "6290",
+    "StockName": "良維",
+    "YahooFinanceSymbol": "6290.TWO"
+  },
+  {
+    "StockCode": "6291",
+    "StockName": "沛亨",
+    "YahooFinanceSymbol": "6291.TWO"
+  },
+  {
+    "StockCode": "6292",
+    "StockName": "迅德",
+    "YahooFinanceSymbol": "6292.TWO"
+  },
+  {
+    "StockCode": "6294",
+    "StockName": "智基",
+    "YahooFinanceSymbol": "6294.TWO"
+  },
+  {
+    "StockCode": "6411",
+    "StockName": "晶焱",
+    "YahooFinanceSymbol": "6411.TWO"
+  },
+  {
+    "StockCode": "6417",
+    "StockName": "韋僑",
+    "YahooFinanceSymbol": "6417.TWO"
+  },
+  {
+    "StockCode": "6418",
+    "StockName": "詠昇",
+    "YahooFinanceSymbol": "6418.TWO"
+  },
+  {
+    "StockCode": "6419",
+    "StockName": "京晨科",
+    "YahooFinanceSymbol": "6419.TWO"
+  },
+  {
+    "StockCode": "6425",
+    "StockName": "易發",
+    "YahooFinanceSymbol": "6425.TWO"
+  },
+  {
+    "StockCode": "6432",
+    "StockName": "今展科",
+    "YahooFinanceSymbol": "6432.TWO"
+  },
+  {
+    "StockCode": "6435",
+    "StockName": "大中",
+    "YahooFinanceSymbol": "6435.TWO"
+  },
+  {
+    "StockCode": "6441",
+    "StockName": "廣錠",
+    "YahooFinanceSymbol": "6441.TWO"
+  },
+  {
+    "StockCode": "6457",
+    "StockName": "紘康",
+    "YahooFinanceSymbol": "6457.TWO"
+  },
+  {
+    "StockCode": "6461",
+    "StockName": "益得",
+    "YahooFinanceSymbol": "6461.TWO"
+  },
+  {
+    "StockCode": "6462",
+    "StockName": "神盾",
+    "YahooFinanceSymbol": "6462.TWO"
+  },
+  {
+    "StockCode": "6465",
+    "StockName": "威潤",
+    "YahooFinanceSymbol": "6465.TWO"
+  },
+  {
+    "StockCode": "6469",
+    "StockName": "大樹",
+    "YahooFinanceSymbol": "6469.TWO"
+  },
+  {
+    "StockCode": "6470",
+    "StockName": "宇智",
+    "YahooFinanceSymbol": "6470.TWO"
+  },
+  {
+    "StockCode": "6482",
+    "StockName": "弘煜科",
+    "YahooFinanceSymbol": "6482.TWO"
+  },
+  {
+    "StockCode": "6485",
+    "StockName": "點序",
+    "YahooFinanceSymbol": "6485.TWO"
+  },
+  {
+    "StockCode": "6486",
+    "StockName": "互動",
+    "YahooFinanceSymbol": "6486.TWO"
+  },
+  {
+    "StockCode": "6488",
+    "StockName": "環球晶",
+    "YahooFinanceSymbol": "6488.TWO"
+  },
+  {
+    "StockCode": "6492",
+    "StockName": "生華科",
+    "YahooFinanceSymbol": "6492.TWO"
+  },
+  {
+    "StockCode": "6494",
+    "StockName": "九齊",
+    "YahooFinanceSymbol": "6494.TWO"
+  },
+  {
+    "StockCode": "6496",
+    "StockName": "科懋",
+    "YahooFinanceSymbol": "6496.TWO"
+  },
+  {
+    "StockCode": "6499",
+    "StockName": "益安",
+    "YahooFinanceSymbol": "6499.TWO"
+  },
+  {
+    "StockCode": "6506",
+    "StockName": "雙邦",
+    "YahooFinanceSymbol": "6506.TWO"
+  },
+  {
+    "StockCode": "6508",
+    "StockName": "惠光",
+    "YahooFinanceSymbol": "6508.TWO"
+  },
+  {
+    "StockCode": "6509",
+    "StockName": "聚和",
+    "YahooFinanceSymbol": "6509.TWO"
+  },
+  {
+    "StockCode": "6510",
+    "StockName": "精測",
+    "YahooFinanceSymbol": "6510.TWO"
+  },
+  {
+    "StockCode": "6512",
+    "StockName": "啟發電",
+    "YahooFinanceSymbol": "6512.TWO"
+  },
+  {
+    "StockCode": "6514",
+    "StockName": "芮特-KY",
+    "YahooFinanceSymbol": "6514.TWO"
+  },
+  {
+    "StockCode": "6516",
+    "StockName": "勤崴國際",
+    "YahooFinanceSymbol": "6516.TWO"
+  },
+  {
+    "StockCode": "6517",
+    "StockName": "保勝光學",
+    "YahooFinanceSymbol": "6517.TWO"
+  },
+  {
+    "StockCode": "6523",
+    "StockName": "達爾膚",
+    "YahooFinanceSymbol": "6523.TWO"
+  },
+  {
+    "StockCode": "6527",
+    "StockName": "明達醫",
+    "YahooFinanceSymbol": "6527.TWO"
+  },
+  {
+    "StockCode": "6530",
+    "StockName": "創威",
+    "YahooFinanceSymbol": "6530.TWO"
+  },
+  {
+    "StockCode": "6532",
+    "StockName": "瑞耘",
+    "YahooFinanceSymbol": "6532.TWO"
+  },
+  {
+    "StockCode": "6535",
+    "StockName": "順藥",
+    "YahooFinanceSymbol": "6535.TWO"
+  },
+  {
+    "StockCode": "6538",
+    "StockName": "倉和",
+    "YahooFinanceSymbol": "6538.TWO"
+  },
+  {
+    "StockCode": "6542",
+    "StockName": "隆中",
+    "YahooFinanceSymbol": "6542.TWO"
+  },
+  {
+    "StockCode": "6546",
+    "StockName": "正基",
+    "YahooFinanceSymbol": "6546.TWO"
+  },
+  {
+    "StockCode": "6547",
+    "StockName": "高端疫苗",
+    "YahooFinanceSymbol": "6547.TWO"
+  },
+  {
+    "StockCode": "6548",
+    "StockName": "長科*",
+    "YahooFinanceSymbol": "6548.TWO"
+  },
+  {
+    "StockCode": "6556",
+    "StockName": "勝品",
+    "YahooFinanceSymbol": "6556.TWO"
+  },
+  {
+    "StockCode": "6560",
+    "StockName": "欣普羅",
+    "YahooFinanceSymbol": "6560.TWO"
+  },
+  {
+    "StockCode": "6561",
+    "StockName": "是方",
+    "YahooFinanceSymbol": "6561.TWO"
+  },
+  {
+    "StockCode": "6568",
+    "StockName": "宏觀",
+    "YahooFinanceSymbol": "6568.TWO"
+  },
+  {
+    "StockCode": "6569",
+    "StockName": "醫揚",
+    "YahooFinanceSymbol": "6569.TWO"
+  },
+  {
+    "StockCode": "6570",
+    "StockName": "維田",
+    "YahooFinanceSymbol": "6570.TWO"
+  },
+  {
+    "StockCode": "6574",
+    "StockName": "霈方",
+    "YahooFinanceSymbol": "6574.TWO"
+  },
+  {
+    "StockCode": "6576",
+    "StockName": "逸達",
+    "YahooFinanceSymbol": "6576.TWO"
+  },
+  {
+    "StockCode": "6577",
+    "StockName": "勁豐",
+    "YahooFinanceSymbol": "6577.TWO"
+  },
+  {
+    "StockCode": "6578",
+    "StockName": "達邦蛋白",
+    "YahooFinanceSymbol": "6578.TWO"
+  },
+  {
+    "StockCode": "6584",
+    "StockName": "南俊國際",
+    "YahooFinanceSymbol": "6584.TWO"
+  },
+  {
+    "StockCode": "6588",
+    "StockName": "東典光電",
+    "YahooFinanceSymbol": "6588.TWO"
+  },
+  {
+    "StockCode": "6589",
+    "StockName": "台康生技",
+    "YahooFinanceSymbol": "6589.TWO"
+  },
+  {
+    "StockCode": "6590",
+    "StockName": "普鴻",
+    "YahooFinanceSymbol": "6590.TWO"
+  },
+  {
+    "StockCode": "6593",
+    "StockName": "台灣銘板",
+    "YahooFinanceSymbol": "6593.TWO"
+  },
+  {
+    "StockCode": "6596",
+    "StockName": "寬宏藝術",
+    "YahooFinanceSymbol": "6596.TWO"
+  },
+  {
+    "StockCode": "6603",
+    "StockName": "富強鑫",
+    "YahooFinanceSymbol": "6603.TWO"
+  },
+  {
+    "StockCode": "6609",
+    "StockName": "瀧澤科",
+    "YahooFinanceSymbol": "6609.TWO"
+  },
+  {
+    "StockCode": "6612",
+    "StockName": "奈米醫材",
+    "YahooFinanceSymbol": "6612.TWO"
+  },
+  {
+    "StockCode": "6613",
+    "StockName": "朋億*",
+    "YahooFinanceSymbol": "6613.TWO"
+  },
+  {
+    "StockCode": "6615",
+    "StockName": "慧智",
+    "YahooFinanceSymbol": "6615.TWO"
+  },
+  {
+    "StockCode": "6616",
+    "StockName": "特昇-KY",
+    "YahooFinanceSymbol": "6616.TWO"
+  },
+  {
+    "StockCode": "6617",
+    "StockName": "共信-KY",
+    "YahooFinanceSymbol": "6617.TWO"
+  },
+  {
+    "StockCode": "6624",
+    "StockName": "萬年清",
+    "YahooFinanceSymbol": "6624.TWO"
+  },
+  {
+    "StockCode": "6629",
+    "StockName": "泰金-KY",
+    "YahooFinanceSymbol": "6629.TWO"
+  },
+  {
+    "StockCode": "6637",
+    "StockName": "醫影",
+    "YahooFinanceSymbol": "6637.TWO"
+  },
+  {
+    "StockCode": "6640",
+    "StockName": "均華",
+    "YahooFinanceSymbol": "6640.TWO"
+  },
+  {
+    "StockCode": "6642",
+    "StockName": "富致",
+    "YahooFinanceSymbol": "6642.TWO"
+  },
+  {
+    "StockCode": "6643",
+    "StockName": "M31",
+    "YahooFinanceSymbol": "6643.TWO"
+  },
+  {
+    "StockCode": "6649",
+    "StockName": "台生材",
+    "YahooFinanceSymbol": "6649.TWO"
+  },
+  {
+    "StockCode": "6651",
+    "StockName": "全宇昕",
+    "YahooFinanceSymbol": "6651.TWO"
+  },
+  {
+    "StockCode": "6654",
+    "StockName": "天正國際",
+    "YahooFinanceSymbol": "6654.TWO"
+  },
+  {
+    "StockCode": "6661",
+    "StockName": "威健生技",
+    "YahooFinanceSymbol": "6661.TWO"
+  },
+  {
+    "StockCode": "6662",
+    "StockName": "樂斯科",
+    "YahooFinanceSymbol": "6662.TWO"
+  },
+  {
+    "StockCode": "6664",
+    "StockName": "群翊",
+    "YahooFinanceSymbol": "6664.TWO"
+  },
+  {
+    "StockCode": "6667",
+    "StockName": "信紘科",
+    "YahooFinanceSymbol": "6667.TWO"
+  },
+  {
+    "StockCode": "6679",
+    "StockName": "鈺太",
+    "YahooFinanceSymbol": "6679.TWO"
+  },
+  {
+    "StockCode": "6680",
+    "StockName": "鑫創電子",
+    "YahooFinanceSymbol": "6680.TWO"
+  },
+  {
+    "StockCode": "6683",
+    "StockName": "雍智科技",
+    "YahooFinanceSymbol": "6683.TWO"
+  },
+  {
+    "StockCode": "6684",
+    "StockName": "安格",
+    "YahooFinanceSymbol": "6684.TWO"
+  },
+  {
+    "StockCode": "6690",
+    "StockName": "安碁資訊",
+    "YahooFinanceSymbol": "6690.TWO"
+  },
+  {
+    "StockCode": "6692",
+    "StockName": "進能服",
+    "YahooFinanceSymbol": "6692.TWO"
+  },
+  {
+    "StockCode": "6693",
+    "StockName": "廣閎科",
+    "YahooFinanceSymbol": "6693.TWO"
+  },
+  {
+    "StockCode": "6697",
+    "StockName": "東捷資訊",
+    "YahooFinanceSymbol": "6697.TWO"
+  },
+  {
+    "StockCode": "6703",
+    "StockName": "軒郁",
+    "YahooFinanceSymbol": "6703.TWO"
+  },
+  {
+    "StockCode": "6708",
+    "StockName": "天擎",
+    "YahooFinanceSymbol": "6708.TWO"
+  },
+  {
+    "StockCode": "6712",
+    "StockName": "長聖",
+    "YahooFinanceSymbol": "6712.TWO"
+  },
+  {
+    "StockCode": "6716",
+    "StockName": "應廣",
+    "YahooFinanceSymbol": "6716.TWO"
+  },
+  {
+    "StockCode": "6721",
+    "StockName": "信實",
+    "YahooFinanceSymbol": "6721.TWO"
+  },
+  {
+    "StockCode": "6727",
+    "StockName": "亞泰金屬",
+    "YahooFinanceSymbol": "6727.TWO"
+  },
+  {
+    "StockCode": "6728",
+    "StockName": "上洋",
+    "YahooFinanceSymbol": "6728.TWO"
+  },
+  {
+    "StockCode": "6732",
+    "StockName": "昇佳電子",
+    "YahooFinanceSymbol": "6732.TWO"
+  },
+  {
+    "StockCode": "6733",
+    "StockName": "博晟生醫",
+    "YahooFinanceSymbol": "6733.TWO"
+  },
+  {
+    "StockCode": "6735",
+    "StockName": "美達科技",
+    "YahooFinanceSymbol": "6735.TWO"
+  },
+  {
+    "StockCode": "6739",
+    "StockName": "竹陞科技",
+    "YahooFinanceSymbol": "6739.TWO"
+  },
+  {
+    "StockCode": "6741",
+    "StockName": "91APP*-KY",
+    "YahooFinanceSymbol": "6741.TWO"
+  },
+  {
+    "StockCode": "6747",
+    "StockName": "亨泰光",
+    "YahooFinanceSymbol": "6747.TWO"
+  },
+  {
+    "StockCode": "6751",
+    "StockName": "智聯服務",
+    "YahooFinanceSymbol": "6751.TWO"
+  },
+  {
+    "StockCode": "6752",
+    "StockName": "叡揚",
+    "YahooFinanceSymbol": "6752.TWO"
+  },
+  {
+    "StockCode": "6761",
+    "StockName": "穩得",
+    "YahooFinanceSymbol": "6761.TWO"
+  },
+  {
+    "StockCode": "6762",
+    "StockName": "達亞",
+    "YahooFinanceSymbol": "6762.TWO"
+  },
+  {
+    "StockCode": "6763",
+    "StockName": "綠界科技*",
+    "YahooFinanceSymbol": "6763.TWO"
+  },
+  {
+    "StockCode": "6767",
+    "StockName": "台微醫",
+    "YahooFinanceSymbol": "6767.TWO"
+  },
+  {
+    "StockCode": "6785",
+    "StockName": "昱展新藥",
+    "YahooFinanceSymbol": "6785.TWO"
+  },
+  {
+    "StockCode": "6788",
+    "StockName": "華景電",
+    "YahooFinanceSymbol": "6788.TWO"
+  },
+  {
+    "StockCode": "6791",
+    "StockName": "虎門科技",
+    "YahooFinanceSymbol": "6791.TWO"
+  },
+  {
+    "StockCode": "6803",
+    "StockName": "崑鼎",
+    "YahooFinanceSymbol": "6803.TWO"
+  },
+  {
+    "StockCode": "6804",
+    "StockName": "明係",
+    "YahooFinanceSymbol": "6804.TWO"
+  },
+  {
+    "StockCode": "6811",
+    "StockName": "宏碁資訊",
+    "YahooFinanceSymbol": "6811.TWO"
+  },
+  {
+    "StockCode": "6821",
+    "StockName": "聯寶",
+    "YahooFinanceSymbol": "6821.TWO"
+  },
+  {
+    "StockCode": "6823",
+    "StockName": "濾能",
+    "YahooFinanceSymbol": "6823.TWO"
+  },
+  {
+    "StockCode": "6829",
+    "StockName": "千附精密",
+    "YahooFinanceSymbol": "6829.TWO"
+  },
+  {
+    "StockCode": "6840",
+    "StockName": "東研信超",
+    "YahooFinanceSymbol": "6840.TWO"
+  },
+  {
+    "StockCode": "6841",
+    "StockName": "長佳智能",
+    "YahooFinanceSymbol": "6841.TWO"
+  },
+  {
+    "StockCode": "6843",
+    "StockName": "進典",
+    "YahooFinanceSymbol": "6843.TWO"
+  },
+  {
+    "StockCode": "6844",
+    "StockName": "諾貝兒",
+    "YahooFinanceSymbol": "6844.TWO"
+  },
+  {
+    "StockCode": "6846",
+    "StockName": "綠茵",
+    "YahooFinanceSymbol": "6846.TWO"
+  },
+  {
+    "StockCode": "6855",
+    "StockName": "數泓科",
+    "YahooFinanceSymbol": "6855.TWO"
+  },
+  {
+    "StockCode": "6856",
+    "StockName": "鑫傳",
+    "YahooFinanceSymbol": "6856.TWO"
+  },
+  {
+    "StockCode": "6859",
+    "StockName": "伯特光",
+    "YahooFinanceSymbol": "6859.TWO"
+  },
+  {
+    "StockCode": "6865",
+    "StockName": "偉康科技",
+    "YahooFinanceSymbol": "6865.TWO"
+  },
+  {
+    "StockCode": "6870",
+    "StockName": "騰雲",
+    "YahooFinanceSymbol": "6870.TWO"
+  },
+  {
+    "StockCode": "6874",
+    "StockName": "倍力",
+    "YahooFinanceSymbol": "6874.TWO"
+  },
+  {
+    "StockCode": "6875",
+    "StockName": "國邑*",
+    "YahooFinanceSymbol": "6875.TWO"
+  },
+  {
+    "StockCode": "6877",
+    "StockName": "鏵友益",
+    "YahooFinanceSymbol": "6877.TWO"
+  },
+  {
+    "StockCode": "6881",
+    "StockName": "潤德",
+    "YahooFinanceSymbol": "6881.TWO"
+  },
+  {
+    "StockCode": "6894",
+    "StockName": "衛司特",
+    "YahooFinanceSymbol": "6894.TWO"
+  },
+  {
+    "StockCode": "6895",
+    "StockName": "宏碩系統",
+    "YahooFinanceSymbol": "6895.TWO"
+  },
+  {
+    "StockCode": "6899",
+    "StockName": "創為精密",
+    "YahooFinanceSymbol": "6899.TWO"
+  },
+  {
+    "StockCode": "6903",
+    "StockName": "巨漢",
+    "YahooFinanceSymbol": "6903.TWO"
+  },
+  {
+    "StockCode": "6904",
+    "StockName": "伯鑫",
+    "YahooFinanceSymbol": "6904.TWO"
+  },
+  {
+    "StockCode": "6922",
+    "StockName": "宸曜",
+    "YahooFinanceSymbol": "6922.TWO"
+  },
+  {
+    "StockCode": "6929",
+    "StockName": "佑全",
+    "YahooFinanceSymbol": "6929.TWO"
+  },
+  {
+    "StockCode": "6953",
+    "StockName": "家碩",
+    "YahooFinanceSymbol": "6953.TWO"
+  },
+  {
+    "StockCode": "6967",
+    "StockName": "汎瑋材料",
+    "YahooFinanceSymbol": "6967.TWO"
+  },
+  {
+    "StockCode": "6968",
+    "StockName": "萬達寵物",
+    "YahooFinanceSymbol": "6968.TWO"
+  },
+  {
+    "StockCode": "7402",
+    "StockName": "邑錡",
+    "YahooFinanceSymbol": "7402.TWO"
+  },
+  {
+    "StockCode": "7556",
+    "StockName": "意德士",
+    "YahooFinanceSymbol": "7556.TWO"
+  },
+  {
+    "StockCode": "7584",
+    "StockName": "樂意",
+    "YahooFinanceSymbol": "7584.TWO"
+  },
+  {
+    "StockCode": "8024",
+    "StockName": "佑華",
+    "YahooFinanceSymbol": "8024.TWO"
+  },
+  {
+    "StockCode": "8027",
+    "StockName": "鈦昇",
+    "YahooFinanceSymbol": "8027.TWO"
+  },
+  {
+    "StockCode": "8032",
+    "StockName": "光菱",
+    "YahooFinanceSymbol": "8032.TWO"
+  },
+  {
+    "StockCode": "8034",
+    "StockName": "榮群",
+    "YahooFinanceSymbol": "8034.TWO"
+  },
+  {
+    "StockCode": "8038",
+    "StockName": "長園科",
+    "YahooFinanceSymbol": "8038.TWO"
+  },
+  {
+    "StockCode": "8040",
+    "StockName": "九暘",
+    "YahooFinanceSymbol": "8040.TWO"
+  },
+  {
+    "StockCode": "8042",
+    "StockName": "金山電",
+    "YahooFinanceSymbol": "8042.TWO"
+  },
+  {
+    "StockCode": "8043",
+    "StockName": "蜜望實",
+    "YahooFinanceSymbol": "8043.TWO"
+  },
+  {
+    "StockCode": "8044",
+    "StockName": "網家",
+    "YahooFinanceSymbol": "8044.TWO"
+  },
+  {
+    "StockCode": "8047",
+    "StockName": "星雲",
+    "YahooFinanceSymbol": "8047.TWO"
+  },
+  {
+    "StockCode": "8048",
+    "StockName": "德勝",
+    "YahooFinanceSymbol": "8048.TWO"
+  },
+  {
+    "StockCode": "8049",
+    "StockName": "晶采",
+    "YahooFinanceSymbol": "8049.TWO"
+  },
+  {
+    "StockCode": "8050",
+    "StockName": "廣積",
+    "YahooFinanceSymbol": "8050.TWO"
+  },
+  {
+    "StockCode": "8054",
+    "StockName": "安國",
+    "YahooFinanceSymbol": "8054.TWO"
+  },
+  {
+    "StockCode": "8059",
+    "StockName": "凱碩",
+    "YahooFinanceSymbol": "8059.TWO"
+  },
+  {
+    "StockCode": "8064",
+    "StockName": "東捷",
+    "YahooFinanceSymbol": "8064.TWO"
+  },
+  {
+    "StockCode": "8066",
+    "StockName": "來思達",
+    "YahooFinanceSymbol": "8066.TWO"
+  },
+  {
+    "StockCode": "8067",
+    "StockName": "志旭",
+    "YahooFinanceSymbol": "8067.TWO"
+  },
+  {
+    "StockCode": "8068",
+    "StockName": "全達",
+    "YahooFinanceSymbol": "8068.TWO"
+  },
+  {
+    "StockCode": "8069",
+    "StockName": "元太",
+    "YahooFinanceSymbol": "8069.TWO"
+  },
+  {
+    "StockCode": "8071",
+    "StockName": "能率網通",
+    "YahooFinanceSymbol": "8071.TWO"
+  },
+  {
+    "StockCode": "8074",
+    "StockName": "鉅橡",
+    "YahooFinanceSymbol": "8074.TWO"
+  },
+  {
+    "StockCode": "8076",
+    "StockName": "伍豐",
+    "YahooFinanceSymbol": "8076.TWO"
+  },
+  {
+    "StockCode": "8077",
+    "StockName": "洛碁",
+    "YahooFinanceSymbol": "8077.TWO"
+  },
+  {
+    "StockCode": "8080",
+    "StockName": "印鉐",
+    "YahooFinanceSymbol": "8080.TWO"
+  },
+  {
+    "StockCode": "8083",
+    "StockName": "瑞穎",
+    "YahooFinanceSymbol": "8083.TWO"
+  },
+  {
+    "StockCode": "8084",
+    "StockName": "巨虹",
+    "YahooFinanceSymbol": "8084.TWO"
+  },
+  {
+    "StockCode": "8085",
+    "StockName": "福華",
+    "YahooFinanceSymbol": "8085.TWO"
+  },
+  {
+    "StockCode": "8086",
+    "StockName": "宏捷科",
+    "YahooFinanceSymbol": "8086.TWO"
+  },
+  {
+    "StockCode": "8087",
+    "StockName": "麗升能源",
+    "YahooFinanceSymbol": "8087.TWO"
+  },
+  {
+    "StockCode": "8088",
+    "StockName": "品安",
+    "YahooFinanceSymbol": "8088.TWO"
+  },
+  {
+    "StockCode": "8089",
+    "StockName": "康全電訊",
+    "YahooFinanceSymbol": "8089.TWO"
+  },
+  {
+    "StockCode": "8091",
+    "StockName": "翔名",
+    "YahooFinanceSymbol": "8091.TWO"
+  },
+  {
+    "StockCode": "8092",
+    "StockName": "建暐",
+    "YahooFinanceSymbol": "8092.TWO"
+  },
+  {
+    "StockCode": "8093",
+    "StockName": "保銳",
+    "YahooFinanceSymbol": "8093.TWO"
+  },
+  {
+    "StockCode": "8096",
+    "StockName": "擎亞",
+    "YahooFinanceSymbol": "8096.TWO"
+  },
+  {
+    "StockCode": "8097",
+    "StockName": "常珵",
+    "YahooFinanceSymbol": "8097.TWO"
+  },
+  {
+    "StockCode": "8099",
+    "StockName": "大世科",
+    "YahooFinanceSymbol": "8099.TWO"
+  },
+  {
+    "StockCode": "8107",
+    "StockName": "大億金茂",
+    "YahooFinanceSymbol": "8107.TWO"
+  },
+  {
+    "StockCode": "8109",
+    "StockName": "博大",
+    "YahooFinanceSymbol": "8109.TWO"
+  },
+  {
+    "StockCode": "8111",
+    "StockName": "立碁",
+    "YahooFinanceSymbol": "8111.TWO"
+  },
+  {
+    "StockCode": "8121",
+    "StockName": "越峰",
+    "YahooFinanceSymbol": "8121.TWO"
+  },
+  {
+    "StockCode": "8147",
+    "StockName": "正淩",
+    "YahooFinanceSymbol": "8147.TWO"
+  },
+  {
+    "StockCode": "8155",
+    "StockName": "博智",
+    "YahooFinanceSymbol": "8155.TWO"
+  },
+  {
+    "StockCode": "8171",
+    "StockName": "天宇",
+    "YahooFinanceSymbol": "8171.TWO"
+  },
+  {
+    "StockCode": "8176",
+    "StockName": "智捷",
+    "YahooFinanceSymbol": "8176.TWO"
+  },
+  {
+    "StockCode": "8182",
+    "StockName": "加高",
+    "YahooFinanceSymbol": "8182.TWO"
+  },
+  {
+    "StockCode": "8183",
+    "StockName": "精星",
+    "YahooFinanceSymbol": "8183.TWO"
+  },
+  {
+    "StockCode": "8227",
+    "StockName": "巨有科技",
+    "YahooFinanceSymbol": "8227.TWO"
+  },
+  {
+    "StockCode": "8234",
+    "StockName": "新漢",
+    "YahooFinanceSymbol": "8234.TWO"
+  },
+  {
+    "StockCode": "8240",
+    "StockName": "華宏",
+    "YahooFinanceSymbol": "8240.TWO"
+  },
+  {
+    "StockCode": "8255",
+    "StockName": "朋程",
+    "YahooFinanceSymbol": "8255.TWO"
+  },
+  {
+    "StockCode": "8277",
+    "StockName": "商丞",
+    "YahooFinanceSymbol": "8277.TWO"
+  },
+  {
+    "StockCode": "8279",
+    "StockName": "生展",
+    "YahooFinanceSymbol": "8279.TWO"
+  },
+  {
+    "StockCode": "8284",
+    "StockName": "三竹",
+    "YahooFinanceSymbol": "8284.TWO"
+  },
+  {
+    "StockCode": "8289",
+    "StockName": "泰藝",
+    "YahooFinanceSymbol": "8289.TWO"
+  },
+  {
+    "StockCode": "8291",
+    "StockName": "尚茂",
+    "YahooFinanceSymbol": "8291.TWO"
+  },
+  {
+    "StockCode": "8299",
+    "StockName": "群聯",
+    "YahooFinanceSymbol": "8299.TWO"
+  },
+  {
+    "StockCode": "8342",
+    "StockName": "益張",
+    "YahooFinanceSymbol": "8342.TWO"
+  },
+  {
+    "StockCode": "8349",
+    "StockName": "恒耀",
+    "YahooFinanceSymbol": "8349.TWO"
+  },
+  {
+    "StockCode": "8354",
+    "StockName": "冠好",
+    "YahooFinanceSymbol": "8354.TWO"
+  },
+  {
+    "StockCode": "8358",
+    "StockName": "金居",
+    "YahooFinanceSymbol": "8358.TWO"
+  },
+  {
+    "StockCode": "8383",
+    "StockName": "千附",
+    "YahooFinanceSymbol": "8383.TWO"
+  },
+  {
+    "StockCode": "8390",
+    "StockName": "金益鼎",
+    "YahooFinanceSymbol": "8390.TWO"
+  },
+  {
+    "StockCode": "8401",
+    "StockName": "白紗科",
+    "YahooFinanceSymbol": "8401.TWO"
+  },
+  {
+    "StockCode": "8403",
+    "StockName": "盛弘",
+    "YahooFinanceSymbol": "8403.TWO"
+  },
+  {
+    "StockCode": "8409",
+    "StockName": "商之器",
+    "YahooFinanceSymbol": "8409.TWO"
+  },
+  {
+    "StockCode": "8410",
+    "StockName": "森田",
+    "YahooFinanceSymbol": "8410.TWO"
+  },
+  {
+    "StockCode": "8415",
+    "StockName": "大國鋼",
+    "YahooFinanceSymbol": "8415.TWO"
+  },
+  {
+    "StockCode": "8416",
+    "StockName": "實威",
+    "YahooFinanceSymbol": "8416.TWO"
+  },
+  {
+    "StockCode": "8420",
+    "StockName": "明揚",
+    "YahooFinanceSymbol": "8420.TWO"
+  },
+  {
+    "StockCode": "8421",
+    "StockName": "旭源",
+    "YahooFinanceSymbol": "8421.TWO"
+  },
+  {
+    "StockCode": "8423",
+    "StockName": "保綠-KY",
+    "YahooFinanceSymbol": "8423.TWO"
+  },
+  {
+    "StockCode": "8424",
+    "StockName": "惠普",
+    "YahooFinanceSymbol": "8424.TWO"
+  },
+  {
+    "StockCode": "8426",
+    "StockName": "紅木-KY",
+    "YahooFinanceSymbol": "8426.TWO"
+  },
+  {
+    "StockCode": "8431",
+    "StockName": "匯鑽科",
+    "YahooFinanceSymbol": "8431.TWO"
+  },
+  {
+    "StockCode": "8432",
+    "StockName": "東生華",
+    "YahooFinanceSymbol": "8432.TWO"
+  },
+  {
+    "StockCode": "8433",
+    "StockName": "弘帆",
+    "YahooFinanceSymbol": "8433.TWO"
+  },
+  {
+    "StockCode": "8435",
+    "StockName": "鉅邁",
+    "YahooFinanceSymbol": "8435.TWO"
+  },
+  {
+    "StockCode": "8436",
+    "StockName": "大江",
+    "YahooFinanceSymbol": "8436.TWO"
+  },
+  {
+    "StockCode": "8437",
+    "StockName": "大地-KY",
+    "YahooFinanceSymbol": "8437.TWO"
+  },
+  {
+    "StockCode": "8440",
+    "StockName": "綠電",
+    "YahooFinanceSymbol": "8440.TWO"
+  },
+  {
+    "StockCode": "8444",
+    "StockName": "綠河-KY",
+    "YahooFinanceSymbol": "8444.TWO"
+  },
+  {
+    "StockCode": "8446",
+    "StockName": "華研",
+    "YahooFinanceSymbol": "8446.TWO"
+  },
+  {
+    "StockCode": "8450",
+    "StockName": "霹靂",
+    "YahooFinanceSymbol": "8450.TWO"
+  },
+  {
+    "StockCode": "8455",
+    "StockName": "大拓-KY",
+    "YahooFinanceSymbol": "8455.TWO"
+  },
+  {
+    "StockCode": "8472",
+    "StockName": "夠麻吉",
+    "YahooFinanceSymbol": "8472.TWO"
+  },
+  {
+    "StockCode": "8477",
+    "StockName": "創業家",
+    "YahooFinanceSymbol": "8477.TWO"
+  },
+  {
+    "StockCode": "8489",
+    "StockName": "三貝德",
+    "YahooFinanceSymbol": "8489.TWO"
+  },
+  {
+    "StockCode": "8905",
+    "StockName": "裕國",
+    "YahooFinanceSymbol": "8905.TWO"
+  },
+  {
+    "StockCode": "8906",
+    "StockName": "花王",
+    "YahooFinanceSymbol": "8906.TWO"
+  },
+  {
+    "StockCode": "8908",
+    "StockName": "欣雄",
+    "YahooFinanceSymbol": "8908.TWO"
+  },
+  {
+    "StockCode": "8916",
+    "StockName": "光隆",
+    "YahooFinanceSymbol": "8916.TWO"
+  },
+  {
+    "StockCode": "8917",
+    "StockName": "欣泰",
+    "YahooFinanceSymbol": "8917.TWO"
+  },
+  {
+    "StockCode": "8921",
+    "StockName": "沈氏",
+    "YahooFinanceSymbol": "8921.TWO"
+  },
+  {
+    "StockCode": "8923",
+    "StockName": "時報",
+    "YahooFinanceSymbol": "8923.TWO"
+  },
+  {
+    "StockCode": "8924",
+    "StockName": "大田",
+    "YahooFinanceSymbol": "8924.TWO"
+  },
+  {
+    "StockCode": "8927",
+    "StockName": "北基",
+    "YahooFinanceSymbol": "8927.TWO"
+  },
+  {
+    "StockCode": "8928",
+    "StockName": "鉅明",
+    "YahooFinanceSymbol": "8928.TWO"
+  },
+  {
+    "StockCode": "8929",
+    "StockName": "富堡",
+    "YahooFinanceSymbol": "8929.TWO"
+  },
+  {
+    "StockCode": "8930",
+    "StockName": "青鋼",
+    "YahooFinanceSymbol": "8930.TWO"
+  },
+  {
+    "StockCode": "8931",
+    "StockName": "大汽電",
+    "YahooFinanceSymbol": "8931.TWO"
+  },
+  {
+    "StockCode": "8932",
+    "StockName": "智通*",
+    "YahooFinanceSymbol": "8932.TWO"
+  },
+  {
+    "StockCode": "8933",
+    "StockName": "愛地雅",
+    "YahooFinanceSymbol": "8933.TWO"
+  },
+  {
+    "StockCode": "8935",
+    "StockName": "邦泰",
+    "YahooFinanceSymbol": "8935.TWO"
+  },
+  {
+    "StockCode": "8936",
+    "StockName": "國統",
+    "YahooFinanceSymbol": "8936.TWO"
+  },
+  {
+    "StockCode": "8937",
+    "StockName": "合騏",
+    "YahooFinanceSymbol": "8937.TWO"
+  },
+  {
+    "StockCode": "8938",
+    "StockName": "明安",
+    "YahooFinanceSymbol": "8938.TWO"
+  },
+  {
+    "StockCode": "8941",
+    "StockName": "關中",
+    "YahooFinanceSymbol": "8941.TWO"
+  },
+  {
+    "StockCode": "8942",
+    "StockName": "森鉅",
+    "YahooFinanceSymbol": "8942.TWO"
+  },
+  {
+    "StockCode": "9949",
+    "StockName": "琉園",
+    "YahooFinanceSymbol": "9949.TWO"
+  },
+  {
+    "StockCode": "9950",
+    "StockName": "萬國通",
+    "YahooFinanceSymbol": "9950.TWO"
+  },
+  {
+    "StockCode": "9951",
+    "StockName": "皇田",
+    "YahooFinanceSymbol": "9951.TWO"
+  },
+  {
+    "StockCode": "9960",
+    "StockName": "邁達康",
+    "YahooFinanceSymbol": "9960.TWO"
+  },
+  {
+    "StockCode": "9962",
+    "StockName": "有益",
+    "YahooFinanceSymbol": "9962.TWO"
+  }
+]
