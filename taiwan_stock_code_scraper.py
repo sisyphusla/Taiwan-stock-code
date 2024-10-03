@@ -5,7 +5,7 @@ import json
 import re
 
 def get_taiwan_stocks():
-    stocks = []
+    stocks = {}
 
     def process_url(url, market):
         response = requests.get(url)
@@ -21,11 +21,10 @@ def get_taiwan_stocks():
                         code, name = code_name
                         # 股票代碼是否為四位數字
                         if re.match(r'^\d{4}$', code):
-                            stocks.append({
-                                "StockCode": code,
+                            stocks[code] = {
                                 "StockName": name,
                                 "YahooFinanceSymbol": f"{code}.{market}"
-                            })
+                            }
         else:
             print(f"無法在 {url} 找到表格")
 
@@ -43,12 +42,12 @@ try:
     taiwan_stocks = get_taiwan_stocks()
     print(f"總共找到 {len(taiwan_stocks)} 支股票")
 
-
     # 儲存為CSV
     with open('taiwan_stocks.csv', 'w', newline='', encoding='utf-8-sig') as f:
-        writer = csv.DictWriter(f, fieldnames=["StockCode", "StockName", "YahooFinanceSymbol"])
-        writer.writeheader()
-        writer.writerows(taiwan_stocks)
+        writer = csv.writer(f)
+        writer.writerow(["StockCode", "StockName", "YahooFinanceSymbol"])
+        for code, data in taiwan_stocks.items():
+            writer.writerow([code, data["StockName"], data["YahooFinanceSymbol"]])
     print("數據已保存到 taiwan_stocks.csv")
 
     # 儲存為JSON
